@@ -285,6 +285,9 @@ a.card:hover {
 
 /* ── Doc (entry detail) ── */
 
+/* markdown body's first h1 always duplicates frontmatter title */
+.doc-body > h1:first-child { display: none; }
+
 .doc {
   max-width: 860px;
   padding-top: 28px;

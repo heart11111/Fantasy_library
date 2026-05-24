@@ -57,15 +57,12 @@ related_factions:
 
 - 공개 로그에서 확정된 정의와 단순 언급을 분리해야 합니다.
 - 숨겨진 진실이나 GM 전용 설정은 작성하지 않습니다.
+## 원문 발췌
 
-## 출처
-
-- source/rp-logs/misc/session-002-log-2.md
-- source/rp-logs/misc/session-003-log-3.md
-- source/rp-logs/luxterra/session-006-29-txt.md
-- source/rp-logs/luxterra/session-007-40.md
-- source/rp-logs/luxterra/session-011-30-txt.md
-- source/rp-logs/misc/session-015-log-15.md
-- source/rp-logs/misc/session-029-log-29.md
-- source/rp-logs/misc/session-030-log-30.md
-- source/rp-logs/misc/session-036-log-36.md
+> **[1]**
+>
+> # 더 월드 29 룩스테라-해골 틈에서 춤을 추다 원문 로그
+> 
+> **GM:** 새로운 세계를 여러분의 눈으로 목도하고 시간이 꽤 흐른 시점. 각자의 문제들을 해결하고 다시금 모이기 시작했습니다. 여러분은 세계와 세계의 틈새인 이 곳에서 만나는 것으로 시작합니다.
+> 
+> **GM:** 이 곳에 올 수 있던 이유는 간단합니다. 여러분들 자체가 위그드라실의 가호를 내려받아 자유로이 드나들 수 있게 됐기 때문이죠.

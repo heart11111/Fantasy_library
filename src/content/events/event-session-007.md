@@ -105,7 +105,12 @@ consequences:
 ## 확인 필요
 
 - 사건 원인과 결과를 공개 로그 기준으로 재검수해야 합니다.
+## 원문 발췌
 
-## 출처
-
-- source/rp-logs/luxterra/session-007-40.md
+> **[1]**
+>
+> type: "raw_source"
+> source_type: "rp_log"
+> title: "더 월드 40 룩스테라-유적 너머의 비밀 원문 로그"
+> date_played: ""
+> processed: "false"

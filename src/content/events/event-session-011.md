@@ -107,7 +107,12 @@ consequences:
 ## 확인 필요
 
 - 사건 원인과 결과를 공개 로그 기준으로 재검수해야 합니다.
+## 원문 발췌
 
-## 출처
-
-- source/rp-logs/luxterra/session-011-30-txt.md
+> **[1]**
+>
+> type: "raw_source"
+> source_type: "rp_log"
+> title: "더월드 30 룩스테라-해골의 뒤에 보이는 것은 원문 로그"
+> date_played: ""
+> processed: "false"
