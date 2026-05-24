@@ -1,0 +1,40 @@
+---
+import "../styles/global.css";
+
+const { title = "Fantasy Library", description = "공개 로그 기반 세계관 Codex" } = Astro.props;
+const nav = [
+  ["세션", "/sessions"],
+  ["캐릭터", "/characters"],
+  ["지역", "/locations"],
+  ["팩션", "/factions"],
+  ["사건", "/events"],
+  ["타임라인", "/timeline"],
+  ["관계", "/relations"]
+];
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="shell nav">
+        <a class="brand" href="/">Fantasy Library</a>
+        <nav class="nav-links" aria-label="주요 메뉴">
+          {nav.map(([label, href]) => <a href={href}>{label}</a>)}
+        </nav>
+      </div>
+    </header>
+    <main class="shell">
+      <slot />
+    </main>
+    <footer class="shell footer">
+      <p>공개 RP 로그 기반 Codex. GM 비공개 정보와 로그 밖 추론은 포함하지 않습니다.</p>
+    </footer>
+  </body>
+</html>

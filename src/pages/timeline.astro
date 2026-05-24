@@ -1,0 +1,18 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import timeline from "../../data/timeline.json";
+---
+
+<BaseLayout title="타임라인 | Fantasy Library">
+  <h1>타임라인</h1>
+  <div class="list">
+    {timeline.map((item) => (
+      <article class="card">
+        <p class="meta">{item.date_label} · order {item.order}</p>
+        <h2>{item.title}</h2>
+        <p>{item.summary}</p>
+        <p><a href={`/events/${item.id}`}>사건 문서</a></p>
+      </article>
+    ))}
+  </div>
+</BaseLayout>
