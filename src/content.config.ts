@@ -22,6 +22,8 @@ const characters = defineCollection({
     gender: z.string().optional().default(""),
     age: z.string().optional().default(""),
     occupation: z.string().optional().default(""),
+    role: z.string().optional().default(""),
+    story_project: z.string().optional().default(""),
     affiliations: z.array(z.string()).optional().default([]),
     related_locations: z.array(z.string()).optional().default([]),
     related_characters: z.array(z.string()).optional().default([]),
