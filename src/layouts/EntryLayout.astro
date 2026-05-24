@@ -30,7 +30,7 @@ const backPath = data.type ? `${base}/${typeBack[data.type] ?? data.type + "s"}`
     <div class="doc-header">
       <div class="badge-row">
         {data.type && <span class="badge badge-type">{typeLabel[data.type] ?? data.type}</span>}
-        {data.canon_status && (
+        {data.type !== "character" && data.canon_status && (
           <span class={`badge badge-${data.canon_status}`}>
             {canonLabel[data.canon_status] ?? data.canon_status}
           </span>

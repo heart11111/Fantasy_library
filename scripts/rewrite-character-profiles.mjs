@@ -68,7 +68,7 @@ function section(body, title) {
   return match ? match[1].trim() : "";
 }
 
-function line(text, max = 120) {
+function line(text, max = 220) {
   const cleaned = text
     .split("\n")
     .filter((l) => !/^\s*\|/.test(l))
@@ -102,7 +102,7 @@ function kind(role) {
   return "support";
 }
 
-function infer(role, field, name, summary) {
+function infer(role, field, summary) {
   const k = kind(role);
   const base = {
     party: {
@@ -155,7 +155,8 @@ function infer(role, field, name, summary) {
 }
 
 function filled(value, role, field, name, summary) {
-  return line(value) || infer(role, field, name, summary);
+  void name;
+  return line(value) || infer(role, field, summary);
 }
 
 function tableValue(table, label) {
@@ -169,6 +170,13 @@ function roleFor(file, name, occupation) {
   if (roleMap[file]) return roleMap[file];
   if (/드로우|마키나|병사|기사|전사|궁수/i.test(`${file} ${name} ${occupation}`)) return "NPC / 전투 인물";
   return "조연 / NPC";
+}
+
+function reputationFor(role) {
+  if (role.includes("적대자")) return "직접적인 평판보다 전장에서의 위협으로 기억된다.";
+  if (role.includes("파티")) return "동료들과 부딪히고 농담을 주고받는 과정에서 성격이 또렷하게 드러나는 인물로 인식된다.";
+  if (role.includes("안내자")) return "낯선 상황을 정리하고 절차를 안내하는 신뢰 가능한 인물로 읽힌다.";
+  return "짧은 등장 안에서도 장면의 분위기와 관계 구도를 바꾸는 인물로 인식된다.";
 }
 
 function statusFor(value) {
@@ -263,7 +271,7 @@ related_characters: ${yamlArray(relatedCharacters)}
 - 거주지: ${activityText}
 - 가족 관계: ${role.includes("파티") ? "가족보다 동료 관계가 현재 서사의 중심에 놓여 있다." : "직접적인 가족 관계보다 장면 안의 역할이 우선 드러난다."}
 - 사회적 지위: ${role}
-- 평판: ${role.includes("적대자") ? "직접적인 평판보다 전장에서의 위협으로 기억된다." : `${name}은 장면 안에서 반복적으로 자기 색이 드러나는 인물로 인식된다.`}
+- 평판: ${reputationFor(role)}
 - 말투 요약: ${filled(personality, role, "style", name, summary)}
 - 자주 쓰는 말: 감정이 올라오면 자신의 성격이 바로 드러나는 짧은 반응을 자주 낸다.
 - 상징물 / 대표 소품: ${role.includes("적대자") ? "무기와 전장 자체가 상징처럼 기능한다." : role.includes("안내자") ? "길 안내와 설명의 역할 자체가 대표 소품처럼 쓰인다." : "직업과 전투 방식에 연결된 장비가 캐릭터의 이미지를 만든다."}
