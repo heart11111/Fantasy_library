@@ -1,0 +1,1299 @@
+[
+  {
+    "id": "event-session-001",
+    "title": "경쟁자배제",
+    "date_label": "경쟁자배제",
+    "order": 10,
+    "summary": "지난 탐사에서 여러분은 드로우들이 버려진 도시를 돌아다니고 있음을 발견했습니다.",
+    "source": "session-001",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h1stj4cz",
+      "char-h2kcs0k",
+      "char-h183ytox",
+      "char-h8r7ikg",
+      "char-hp",
+      "char-hbfjmmh",
+      "char-hbt6mg4",
+      "char-h18damj9",
+      "char-hx18tkj",
+      "char-h1q8z5nq",
+      "char-hdj26qh"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-outpost",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-investigation-team",
+      "faction-guard",
+      "faction-drow"
+    ]
+  },
+  {
+    "id": "event-session-002",
+    "title": "궁지에 몰린 쥐",
+    "date_label": "궁지에 몰린 쥐",
+    "order": 20,
+    "summary": "도시의 공기는 아직도 화약과 재 냄새로 가득합니다.",
+    "source": "session-002",
+    "related_characters": [
+      "char-h1qtvjrj",
+      "char-h1u0zhr5",
+      "char-h2kcs0k",
+      "char-hutxq0x",
+      "char-hyu8qlb",
+      "char-hp",
+      "char-hb0qeob",
+      "char-h8shiks",
+      "char-hqkoaf",
+      "char-hokdqjn",
+      "char-h166ykd7",
+      "char-hyz5kmx"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-drow",
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-003",
+    "title": "기로",
+    "date_label": "기로",
+    "order": 30,
+    "summary": "Automated welcome message",
+    "source": "session-003",
+    "related_characters": [
+      "char-h1otutgd",
+      "char-h1u0zhr5",
+      "char-h2kcs0k",
+      "char-htaovsh",
+      "char-h1etqrq5",
+      "char-hp",
+      "char-hmphoje",
+      "char-hqkoaf",
+      "char-h1s41l85",
+      "char-hbt6mg4",
+      "char-h1en8u5x",
+      "char-x"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-outpost",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-investigation-team",
+      "faction-guard",
+      "faction-drow",
+      "faction-riskydice"
+    ]
+  },
+  {
+    "id": "event-session-004",
+    "title": "더 다크 에이지",
+    "date_label": "더 다크 에이지",
+    "order": 40,
+    "summary": "오리진에서 멀리떨어진 지역",
+    "source": "session-004",
+    "related_characters": [
+      "char-h1qtvjrj",
+      "char-h1u0zhr5",
+      "char-nemo",
+      "char-hm8rvcj",
+      "char-h1092ltt",
+      "char-hv73dq0",
+      "char-h81jx2e",
+      "char-hc5hoop",
+      "char-hbfjmmh",
+      "char-hc2lk13",
+      "char-h1xd1jfv",
+      "char-h1t72b7t"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-forest",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": []
+  },
+  {
+    "id": "event-session-005",
+    "title": "더 월드 - 24 작은 마법사의 꿈",
+    "date_label": "더 월드 - 24 작은 마법사의 꿈",
+    "order": 50,
+    "summary": "시끄러웠던 나날 뒤 모처럼 휴일을 만끽하던 여러분 각자는 눈에 띄는 벽보를 발견하게 됩니다.",
+    "source": "session-005",
+    "related_characters": [
+      "char-h1qtvjrj",
+      "char-h1nkxsjr",
+      "char-h5wh571",
+      "char-hyu8qlb",
+      "char-h1ez168k",
+      "char-hb0qeob",
+      "char-hp",
+      "char-h19yxvw3",
+      "char-h1hn5m4l",
+      "char-h1dmfv1v",
+      "char-ho628hn",
+      "char-h30455d"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-forest",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-006",
+    "title": "더 월드 29 룩스테라-해골 틈에서 춤을 추다",
+    "date_label": "더 월드 29 룩스테라-해골 틈에서 춤을 추다",
+    "order": 60,
+    "summary": "새로운 세계를 여러분의 눈으로 목도하고 시간이 꽤 흐른 시점. 각자의 문제들을 해결하고 다시금 모이기 시작했습니다. 여러분은 세계와 세계의 틈새인 이 곳에서 만나는 것으로 시작합니다.",
+    "source": "session-006",
+    "related_characters": [
+      "char-h162wpxf",
+      "char-h1u0zhr5",
+      "char-hdknrqz",
+      "char-h1nkxsjr",
+      "char-htaovsh",
+      "char-hb0qeob",
+      "char-h1s1hzsf",
+      "char-h1jsj5rz",
+      "char-h1psx9jt",
+      "char-hm2rerp",
+      "char-hxwq4td",
+      "char-h1hn5m4l"
+    ],
+    "related_locations": [
+      "loc-luxterra",
+      "loc-origin",
+      "loc-forest",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-007",
+    "title": "더 월드 40 룩스테라-유적 너머의 비밀",
+    "date_label": "더 월드 40 룩스테라-유적 너머의 비밀",
+    "order": 70,
+    "summary": "붉은 모루 대장간의 대장장이 그림니르의 의뢰를 마치고 수일 후. 오리진에서 생활하던 여러분은 가벼운 몸을 이끌고 중앙 게시판으로 발걸음 했습니다.",
+    "source": "session-007",
+    "related_characters": [
+      "char-h1n38m25",
+      "char-h162wpxf",
+      "char-h1stj4cz",
+      "char-nemo",
+      "char-hm8rvcj",
+      "char-hmen750",
+      "char-hb0qeob",
+      "char-h166ykd7",
+      "char-htwnpd9",
+      "char-h12vepm",
+      "char-htofj1s",
+      "char-hy7zib7"
+    ],
+    "related_locations": [
+      "loc-luxterra",
+      "loc-origin",
+      "loc-ruins",
+      "loc-forest",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": []
+  },
+  {
+    "id": "event-session-008",
+    "title": "더 월드 41 룩스테라-재료 수급로 참변 수색",
+    "date_label": "더 월드 41 룩스테라-재료 수급로 참변 수색",
+    "order": 80,
+    "summary": "지난 날, 유적 의뢰를 마치고 돌아온 일행은 충격적인 소식을 듣게 됩니다.",
+    "source": "session-008",
+    "related_characters": [
+      "char-h1n38m25",
+      "char-hutxq0x",
+      "char-hvqt0o9",
+      "char-hp",
+      "char-hz6cjul",
+      "char-hbfjmmh",
+      "char-h220ux9",
+      "char-x",
+      "char-h1xf9zef",
+      "char-h1epqndl",
+      "char-h17qcav",
+      "char-mugfist-knuckles"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-ruins",
+      "loc-forest",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": []
+  },
+  {
+    "id": "event-session-009",
+    "title": "더 월드 47 룩스테라-연구자료 호송대를 찾아서",
+    "date_label": "더 월드 47 룩스테라-연구자료 호송대를 찾아서",
+    "order": 90,
+    "summary": "여러분은 며칠 전, 연구자료 호송대가 습격을 당하고, 전원 사망했다는 소식을 들은지 하루 정도가 지났습니다.",
+    "source": "session-009",
+    "related_characters": [
+      "char-h1qtvjrj",
+      "char-hvqt0o9",
+      "char-h1stj4cz",
+      "char-hm8rvcj",
+      "char-nemo",
+      "char-h12u250w",
+      "char-h19y1aet",
+      "char-hoqk92t",
+      "char-hbfjmmh",
+      "char-h3c3etx",
+      "char-hteon8i",
+      "char-h9ya317"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-ruins",
+      "loc-forest",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-010",
+    "title": "더월드 25 - 룩스테라-1 도적이 숨은 숲",
+    "date_label": "더월드 25 - 룩스테라-1 도적이 숨은 숲",
+    "order": 100,
+    "summary": "이계의 마법사 엔자를 상대한 후, 신성한 나뭇가지라는 안경을 손에 넣은 여러분은 얼마 뒤 또",
+    "source": "session-010",
+    "related_characters": [
+      "char-h1qtvjrj",
+      "char-h1nkxsjr",
+      "char-ha7vcln",
+      "char-hdknrqz",
+      "char-hp",
+      "char-hb0qeob",
+      "char-h1a49coh",
+      "char-h1psx9jt",
+      "char-h1c0n0hf",
+      "char-h12bfmue",
+      "char-h1kf7psf",
+      "char-hmckllq"
+    ],
+    "related_locations": [
+      "loc-luxterra",
+      "loc-origin",
+      "loc-ruins",
+      "loc-forest",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-bandits",
+      "faction-skeletons",
+      "faction-riskydice"
+    ]
+  },
+  {
+    "id": "event-session-011",
+    "title": "더월드 30 룩스테라-해골의 뒤에 보이는 것은",
+    "date_label": "더월드 30 룩스테라-해골의 뒤에 보이는 것은",
+    "order": 110,
+    "summary": "룩스테라: 해골의 뒤에 보이는 것은",
+    "source": "session-011",
+    "related_characters": [
+      "char-h162wpxf",
+      "char-ha7vcln",
+      "char-h1nkxsjr",
+      "char-hdknrqz",
+      "char-h1a49coh",
+      "char-hb0qeob",
+      "char-h1s1hzsf",
+      "char-h17ewz3c",
+      "char-h1hn5m4l",
+      "char-h5vnc7x",
+      "char-h1psx9jt",
+      "char-h2qidky"
+    ],
+    "related_locations": [
+      "loc-luxterra",
+      "loc-origin",
+      "loc-forest",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-red-anchor",
+      "faction-skeletons",
+      "faction-riskydice"
+    ]
+  },
+  {
+    "id": "event-session-012",
+    "title": "더월드 33 룩스테라-붉은 닻의 심지",
+    "date_label": "더월드 33 룩스테라-붉은 닻의 심지",
+    "order": 120,
+    "summary": "지금까지의 룩스테라 스토리: 룩스테라에 본격적으로 발을 디딘 여러분. 이 신비로운 룩스테라를 구석 구석 탐험하기 위해서는 모험가 자격이 필요했다.",
+    "source": "session-012",
+    "related_characters": [
+      "char-hdslylj",
+      "char-hz6cjul",
+      "char-h1ckg774",
+      "char-hdknrqz",
+      "char-hut16sk",
+      "char-hb0qeob",
+      "char-h5vnc7x",
+      "char-h15exinr",
+      "char-h2qidky",
+      "char-h1np88gm",
+      "char-nemo",
+      "char-h1hn5m4l"
+    ],
+    "related_locations": [
+      "loc-luxterra",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-red-anchor",
+      "faction-bandits",
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-013",
+    "title": "더월드 35 룩스테라-모험의 서막",
+    "date_label": "더월드 35 룩스테라-모험의 서막",
+    "order": 130,
+    "summary": "지금까지의 룩스테라 이야기:",
+    "source": "session-013",
+    "related_characters": [
+      "char-h162wpxf",
+      "char-h1u0zhr5",
+      "char-hdslylj",
+      "char-hdknrqz",
+      "char-hz6cjul",
+      "char-hb0qeob",
+      "char-h13qb48p",
+      "char-h1skfz84",
+      "char-hd11vjr",
+      "char-h1np88gm",
+      "char-h1dmj0xh",
+      "char-h19p0ig5"
+    ],
+    "related_locations": [
+      "loc-luxterra",
+      "loc-origin",
+      "loc-ruins",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-red-anchor",
+      "faction-bandits",
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-014",
+    "title": "더월드 38 룩스테라-전설적인 대장장이의 부탁",
+    "date_label": "더월드 38 룩스테라-전설적인 대장장이의 부탁",
+    "order": 140,
+    "summary": "얼마 전, 자유 탐사 도시 오리진에 발을 들인 여러분은 무사히 의식을 마치고 정말로 정식으로",
+    "source": "session-014",
+    "related_characters": [
+      "char-h1qtvjrj",
+      "char-h1u0zhr5",
+      "char-hutxq0x",
+      "char-hdknrqz",
+      "char-hz6cjul",
+      "char-hp",
+      "char-hb0qeob",
+      "char-h6wi2cd",
+      "char-h1wbznkg",
+      "char-hr6s6kr",
+      "char-h1f0m2cn",
+      "char-hwoid5x"
+    ],
+    "related_locations": [
+      "loc-luxterra",
+      "loc-origin",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-015",
+    "title": "드워프 유적",
+    "date_label": "드워프 유적",
+    "order": 150,
+    "summary": "오리진에서 좀 떨어진 곳, 얼마 전 산사태로 인해 유적으로 이어지는 동굴이 드러났습니다.",
+    "source": "session-015",
+    "related_characters": [
+      "char-h1otutgd",
+      "char-h1u0zhr5",
+      "char-h1stj4cz",
+      "char-hy1rn1n",
+      "char-hyu8qlb",
+      "char-hp",
+      "char-h9gfne5",
+      "char-hkr0t6d",
+      "char-h1xjpu1g",
+      "char-h12or9wu",
+      "char-h13j28x6",
+      "char-h1ud74gf"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-ruins",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-016",
+    "title": "마키나즈 1",
+    "date_label": "마키나즈 1",
+    "order": 160,
+    "summary": "어느 날, 오리진의 경비대에서 의뢰서가 날아왔습니다",
+    "source": "session-016",
+    "related_characters": [
+      "char-h2kcs0k",
+      "char-h1kockfd",
+      "char-hvqt0o9",
+      "char-hyu8qlb",
+      "char-hbfjmmh",
+      "char-hrv1fcw",
+      "char-h16e8n5s",
+      "char-h1rmlpt3",
+      "char-h1xyqag",
+      "char-psychic-gray-ooze",
+      "char-black-pudding",
+      "char-gelatinous-cube"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-skeletons",
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-017",
+    "title": "마키나즈 4",
+    "date_label": "마키나즈 4",
+    "order": 170,
+    "summary": "와ㅏㅏㅏㅏㅏ",
+    "source": "session-017",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-htaovsh",
+      "char-h2kcs0k",
+      "char-hbfjmmh",
+      "char-ha7vcln",
+      "char-hpchwsv",
+      "char-h1rmlpt3",
+      "char-htydczh",
+      "char-h1fpybou",
+      "char-h1nu0048",
+      "char-h1eqkocw",
+      "char-animated-flying-sword"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-drow",
+      "faction-bandits",
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-018",
+    "title": "마키나즈 5",
+    "date_label": "마키나즈 5",
+    "order": 180,
+    "summary": "마키나 드레드의 간부가 있다는 무기 공장을 습격, 그 곳의 리더였던 가이아를 회유에 성공한 여러분은",
+    "source": "session-018",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h1stj4cz",
+      "char-htaovsh",
+      "char-hyu8qlb",
+      "char-h1kockfd",
+      "char-h135u528",
+      "char-h153y29o",
+      "char-h1rmlpt3",
+      "char-h1eazjg1",
+      "char-h1b1ydmi",
+      "char-h16kp8cp",
+      "char-hy80szy"
+    ],
+    "related_locations": [],
+    "related_factions": [
+      "faction-guard",
+      "faction-skeletons",
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-019",
+    "title": "마키나즈 7 (2)",
+    "date_label": "마키나즈 7 (2)",
+    "order": 190,
+    "summary": "신풍과 디바인의 폭격 작전을 성공적으로 막은 여러분은",
+    "source": "session-019",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-htaovsh",
+      "char-h1nkxsjr",
+      "char-ha7vcln",
+      "char-hbfjmmh",
+      "char-g",
+      "char-h1a49coh",
+      "char-h1rmlpt3",
+      "char-h1v15x37",
+      "char-h1v8j9jw",
+      "char-h1fpybou",
+      "char-hy80szy"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-020",
+    "title": "마키나즈 7",
+    "date_label": "마키나즈 7",
+    "order": 200,
+    "summary": "서든이라는 간부가 있는 폐공장을 정리 하고 돌아온 여러분은(수정됨)",
+    "source": "session-020",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h2kcs0k",
+      "char-htaovsh",
+      "char-ha7vcln",
+      "char-hz4kfjb",
+      "char-h1a49coh",
+      "char-hb0qeob",
+      "char-horbfjo",
+      "char-h1v8j9jw",
+      "char-h1hn5m4l",
+      "char-h1fykrcc",
+      "char-hy80szy"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-skeletons",
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-021",
+    "title": "마키나즈 8",
+    "date_label": "마키나즈 8",
+    "order": 210,
+    "summary": "타워즈 시티의 안토니오를 쓰러트린 여러분은 지친 몸을 이끌고 다시 레지스탕스 기지로 돌아왔습니다",
+    "source": "session-021",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-nemo",
+      "char-hrvxduz",
+      "char-hz6cjul",
+      "char-hc52cu9",
+      "char-h1jayx8w",
+      "char-hvihm9",
+      "char-htydczh",
+      "char-hbfjmmh",
+      "char-h1fr5nov",
+      "char-h1xyqag",
+      "char-h1fpn5an"
+    ],
+    "related_locations": [
+      "loc-luxterra",
+      "loc-origin",
+      "loc-forest"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-022",
+    "title": "마키나즈 9",
+    "date_label": "마키나즈 9",
+    "order": 220,
+    "summary": "사미엔이라는 간부까지 쓰러트린 여러분은",
+    "source": "session-022",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h1stj4cz",
+      "char-hm8rvcj",
+      "char-nemo",
+      "char-hbfjmmh",
+      "char-h1v1jjf6",
+      "char-h1rmlpt3",
+      "char-h1v8j9jw",
+      "char-h1fykrcc",
+      "char-h1ux4wb6",
+      "char-h1eqkocw",
+      "char-h8s7v7d"
+    ],
+    "related_locations": [
+      "loc-luxterra",
+      "loc-origin",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-023",
+    "title": "마키나즈2",
+    "date_label": "마키나즈2",
+    "order": 230,
+    "summary": "[마키나 드레드]",
+    "source": "session-023",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-htaovsh",
+      "char-h1rmlpt3",
+      "char-h1stj4cz",
+      "char-hyu8qlb",
+      "char-hvqt0o9",
+      "char-hy80szy",
+      "char-hbfjmmh",
+      "char-h1v15x37",
+      "char-h1eazjg1",
+      "char-h1d8tn57",
+      "char-hpchwsv"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-ruins",
+      "loc-forest"
+    ],
+    "related_factions": [
+      "faction-investigation-team",
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-024",
+    "title": "마키나즈3",
+    "date_label": "마키나즈3",
+    "order": 240,
+    "summary": "시간이 지나 여러분은 휴식을 취했습니다",
+    "source": "session-024",
+    "related_characters": [
+      "char-h2kcs0k",
+      "char-ha7vcln",
+      "char-hyu8qlb",
+      "char-hy80szy",
+      "char-h96tcky",
+      "char-hbfjmmh",
+      "char-hnsb9s",
+      "char-h1rmlpt3",
+      "char-h1d7fomw",
+      "char-h182hqy6",
+      "char-h1eazjg1",
+      "char-h1d8tn57"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-ruins",
+      "loc-forest",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-025",
+    "title": "마키나즈6",
+    "date_label": "마키나즈6",
+    "order": 250,
+    "summary": "럭키와 안톤이 없었을 때",
+    "source": "session-025",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h2kcs0k",
+      "char-hyu8qlb",
+      "char-h1stj4cz",
+      "char-h1kockfd",
+      "char-htaovsh",
+      "char-hvqt0o9",
+      "char-h1v8j9jw",
+      "char-hy80szy",
+      "char-h19hvhs9",
+      "char-h1h1j3ik",
+      "char-hbfjmmh"
+    ],
+    "related_locations": [],
+    "related_factions": [
+      "faction-guard",
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-026",
+    "title": "반격",
+    "date_label": "반격",
+    "order": 260,
+    "summary": "오리진의 편에 서기로 한 모험가 엘테라와 병사의 안내를 받은 라비니아가 서쪽 성벽 위로 올라",
+    "source": "session-026",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h2kcs0k",
+      "char-h1qtvjrj",
+      "char-hyu8qlb",
+      "char-hp",
+      "char-hbfjmmh",
+      "char-h8shiks",
+      "char-htmudh7",
+      "char-h1qygi9o",
+      "char-hc91dj2",
+      "char-h1usvgct",
+      "char-x"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-makinas"
+    ]
+  },
+  {
+    "id": "event-session-027",
+    "title": "불온한 소문",
+    "date_label": "불온한 소문",
+    "order": 270,
+    "summary": "북부 사람들은 오래전부터 한 전설을 믿어왔습니다.",
+    "source": "session-027",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-hrvxduz",
+      "char-hutxq0x",
+      "char-h1stj4cz",
+      "char-hm8rvcj",
+      "char-hy7zib7",
+      "char-hp",
+      "char-x",
+      "char-harxnd0",
+      "char-h1giy9co",
+      "char-h4pjhbq",
+      "char-h1hzj477"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-ruins",
+      "loc-forest"
+    ],
+    "related_factions": []
+  },
+  {
+    "id": "event-session-028",
+    "title": "산적 토벌",
+    "date_label": "산적 토벌",
+    "order": 280,
+    "summary": "일행은 철장막 수비대가 급히 용병을 모집한다는 소식을 듣고 지원을 넣었습니다.",
+    "source": "session-028",
+    "related_characters": [
+      "char-h1otutgd",
+      "char-h1u0zhr5",
+      "char-h2kcs0k",
+      "char-hc52cu9",
+      "char-hp",
+      "char-hc91dj2",
+      "char-htmudh7",
+      "char-hk4q1d0",
+      "char-hkr0t6d",
+      "char-h1azy6yd",
+      "char-h15me4b3",
+      "char-hqkoaf"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-investigation-team",
+      "faction-guard",
+      "faction-drow"
+    ]
+  },
+  {
+    "id": "event-session-029",
+    "title": "소탕 작전",
+    "date_label": "소탕 작전",
+    "order": 290,
+    "summary": "드워프 유적의 보물 소문 이후로 며칠이 지났습니다.",
+    "source": "session-029",
+    "related_characters": [
+      "char-h1qtvjrj",
+      "char-h2kcs0k",
+      "char-h1u0zhr5",
+      "char-hy1rn1n",
+      "char-htaovsh",
+      "char-h183ytox",
+      "char-h4asnhi",
+      "char-hp",
+      "char-h1en8u5x",
+      "char-hlgrcqk",
+      "char-hwjyia5",
+      "char-h1kyszgb"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-ruins",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-investigation-team",
+      "faction-guard"
+    ]
+  },
+  {
+    "id": "event-session-030",
+    "title": "실종 아동 찾기",
+    "date_label": "실종 아동 찾기",
+    "order": 300,
+    "summary": "여러분은 의뢰를 받아 변경 지역의 고난이도 던전을 답파한 뒤, 이제 막 오리진으로 돌아가는 길입니다.",
+    "source": "session-030",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h1qtvjrj",
+      "char-h1stj4cz",
+      "char-nemo",
+      "char-hm8rvcj",
+      "char-hyciw7o",
+      "char-hb0qeob",
+      "char-ho0hq4n",
+      "char-h6sbsi4",
+      "char-huqjnoo",
+      "char-h1nolc6t",
+      "char-h1cnfka8"
+    ],
+    "related_locations": [
+      "loc-luxterra",
+      "loc-origin",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": []
+  },
+  {
+    "id": "event-session-031",
+    "title": "심층-2",
+    "date_label": "심층-2",
+    "order": 310,
+    "summary": "심층 진입 후 약 이틀째.",
+    "source": "session-031",
+    "related_characters": [
+      "char-h1qtvjrj",
+      "char-h1u0zhr5",
+      "char-h2kcs0k",
+      "char-h1etqrq5",
+      "char-hp",
+      "char-hy1rn1n",
+      "char-gargoyle",
+      "char-h18damj9",
+      "char-h830kkz",
+      "char-hqmoxcj",
+      "char-h1610s4q",
+      "char-hxw9syz"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-outpost",
+      "loc-ruins",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-investigation-team",
+      "faction-guard",
+      "faction-drow",
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-032",
+    "title": "심층",
+    "date_label": "심층",
+    "order": 320,
+    "summary": "지하의 구멍을 메운 지 몇일 지나지 않아 여러분은 해당 유적의 지하를 조사할 예정이라는 소문",
+    "source": "session-032",
+    "related_characters": [
+      "char-h2kcs0k",
+      "char-h1qtvjrj",
+      "char-h1u0zhr5",
+      "char-hyu8qlb",
+      "char-hbfjmmh",
+      "char-hp",
+      "char-h4asnhi",
+      "char-h1021ei9",
+      "char-hnd3hg0",
+      "char-h1g3aexn",
+      "char-x",
+      "char-hmphoje"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-outpost",
+      "loc-ruins",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-investigation-team",
+      "faction-guard",
+      "faction-drow",
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-033",
+    "title": "요안-2",
+    "date_label": "요안-2",
+    "order": 330,
+    "summary": "여러분은 지난 밤 요안이 보내온 침투요원들을 저지하는데 성공했습니다.",
+    "source": "session-033",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h2kcs0k",
+      "char-h1otutgd",
+      "char-h1etqrq5",
+      "char-hyu8qlb",
+      "char-hp",
+      "char-hbfjmmh",
+      "char-htmudh7",
+      "char-hyaxs41",
+      "char-h1grh160",
+      "char-h8shiks",
+      "char-hjnu884"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-bandits"
+    ]
+  },
+  {
+    "id": "event-session-034",
+    "title": "요안",
+    "date_label": "요안",
+    "order": 340,
+    "summary": "(내가 없던 상황의 요약이 필요",
+    "source": "session-034",
+    "related_characters": [
+      "char-h2kcs0k",
+      "char-h1otutgd",
+      "char-hyu8qlb",
+      "char-h1etqrq5",
+      "char-h1doyqp9",
+      "char-hp",
+      "char-htdvbxl",
+      "char-h8shiks",
+      "char-h4s948b",
+      "char-h1pa5zry",
+      "char-1d8-5-1",
+      "char-yorumei-rie"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-investigation-team",
+      "faction-guard",
+      "faction-drow",
+      "faction-bandits"
+    ]
+  },
+  {
+    "id": "event-session-035",
+    "title": "이브의 부탁",
+    "date_label": "이브의 부탁",
+    "order": 350,
+    "summary": "여관의 한 방",
+    "source": "session-035",
+    "related_characters": [
+      "char-h1qtvjrj",
+      "char-hutxq0x",
+      "char-hrvxduz",
+      "char-hm8rvcj",
+      "char-h1n38m25",
+      "char-hb0qeob",
+      "char-hp",
+      "char-hyqprjc",
+      "char-h1a0thz2",
+      "char-hzduspa",
+      "char-h1srso9j",
+      "char-h12m2ztv"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-forest",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-red-anchor"
+    ]
+  },
+  {
+    "id": "event-session-036",
+    "title": "진범 찾기",
+    "date_label": "진범 찾기",
+    "order": 360,
+    "summary": "이브의 부탁으로 호위를 찾아온 일행.",
+    "source": "session-036",
+    "related_characters": [
+      "char-h1qtvjrj",
+      "char-h1n38m25",
+      "char-hrvxduz",
+      "char-nemo",
+      "char-hm8rvcj",
+      "char-hb0qeob",
+      "char-h1ummuqh",
+      "char-h1rtljvu",
+      "char-hubs176",
+      "char-h1bv0pc1",
+      "char-hx5f8rl",
+      "char-hzduspa"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-city",
+      "loc-yggdrasil-gap"
+    ],
+    "related_factions": [
+      "faction-guard"
+    ]
+  },
+  {
+    "id": "event-session-037",
+    "title": "포가튼 렐릭-독수리의손_compressed",
+    "date_label": "포가튼 렐릭-독수리의손_compressed",
+    "order": 370,
+    "summary": "포가튼 렐릭-독수리의손_compressed 원문은 OCR이 필요한 스캔 PDF로, 본문 정리가 아직 완료되지 않았습니다.",
+    "source": "session-037",
+    "related_characters": [],
+    "related_locations": [],
+    "related_factions": []
+  },
+  {
+    "id": "event-session-038",
+    "title": "함정",
+    "date_label": "함정",
+    "order": 380,
+    "summary": "관문 요새에서의 전투가 있고 벌써 이틀이 지났습니다.",
+    "source": "session-038",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h1otutgd",
+      "char-htaovsh",
+      "char-h1etqrq5",
+      "char-hlt9sfx",
+      "char-htmudh7",
+      "char-hp",
+      "char-hy1rn1n",
+      "char-hyz5kmx",
+      "char-h5rtmm7",
+      "char-h8shiks",
+      "char-x"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-forest"
+    ],
+    "related_factions": [
+      "faction-investigation-team",
+      "faction-guard",
+      "faction-drow"
+    ]
+  },
+  {
+    "id": "event-session-039",
+    "title": "fvtt-log-Mon-Mar-16-2026",
+    "date_label": "fvtt-log-Mon-Mar-16-2026",
+    "order": 390,
+    "summary": "(오늘의 방향은 어디냐!!! 주사위로 정해라!!!!",
+    "source": "session-039",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h1otutgd",
+      "char-ha7vcln",
+      "char-hyu8qlb",
+      "char-hy1rn1n",
+      "char-h13kiv25",
+      "char-h9nszo7",
+      "char-gm",
+      "char-h109h58p",
+      "char-hqf1guj",
+      "char-x"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-forest"
+    ],
+    "related_factions": []
+  },
+  {
+    "id": "event-session-040",
+    "title": "fvtt-log-Thu-Mar-05-2026",
+    "date_label": "fvtt-log-Thu-Mar-05-2026",
+    "order": 400,
+    "summary": "-------------------------------------------------------",
+    "source": "session-040",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h2kcs0k",
+      "char-h1otutgd",
+      "char-ha7vcln",
+      "char-hsq3s5x",
+      "char-hyu8qlb",
+      "char-hbfjmmh",
+      "char-helmed-horror",
+      "char-hq5uv6r",
+      "char-hldwpef",
+      "char-npc-3",
+      "char-h1a6ddm8"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-forest",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-041",
+    "title": "fvtt-log-Thu-Mar-05-2026.txt(2)",
+    "date_label": "fvtt-log-Thu-Mar-05-2026.txt(2)",
+    "order": 410,
+    "summary": "-------------------------------------------------------",
+    "source": "session-041",
+    "related_characters": [
+      "char-h1otutgd",
+      "char-h1u0zhr5",
+      "char-h2kcs0k",
+      "char-ha7vcln",
+      "char-hyu8qlb",
+      "char-h1k4qjk1",
+      "char-hbfjmmh",
+      "char-hsq3s5x",
+      "char-hobgoblin-warlord",
+      "char-hobgoblin-captain",
+      "char-helmed-horror",
+      "char-hobgoblin-warrior"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-baldurs-gate",
+      "loc-ruins",
+      "loc-forest",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-guard",
+      "faction-skeletons"
+    ]
+  },
+  {
+    "id": "event-session-042",
+    "title": "Tue-Apr-07-2026",
+    "date_label": "Tue-Apr-07-2026",
+    "order": 420,
+    "summary": "매력 Ability Check",
+    "source": "session-042",
+    "related_characters": [
+      "char-h1u0zhr5",
+      "char-h1a49coh",
+      "char-h1qtvjrj",
+      "char-hyu8qlb",
+      "char-ha7vcln",
+      "char-htaovsh",
+      "char-h1jf6pbq",
+      "char-huqi4jn",
+      "char-h1vcu60r",
+      "char-h10fpyv9",
+      "char-hrvxduz",
+      "char-hhalxp7"
+    ],
+    "related_locations": [
+      "loc-origin",
+      "loc-city"
+    ],
+    "related_factions": [
+      "faction-skeletons",
+      "faction-makinas"
+    ]
+  }
+]

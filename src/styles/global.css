@@ -1,0 +1,170 @@
+:root {
+  color-scheme: light;
+  --bg: #f7f4ec;
+  --panel: #fffdf7;
+  --ink: #221f1a;
+  --muted: #6d675b;
+  --line: #d8cfbd;
+  --accent: #285c62;
+  --accent-2: #8f3f2b;
+  --chip: #e8eee9;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Segoe UI", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
+  line-height: 1.65;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.shell {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--line);
+  background: var(--panel);
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.brand {
+  font-weight: 800;
+  color: var(--ink);
+}
+
+.nav-links {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  font-size: 0.95rem;
+}
+
+.hero {
+  padding: 44px 0 24px;
+}
+
+.eyebrow {
+  color: var(--accent-2);
+  font-weight: 700;
+  margin: 0 0 8px;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.25;
+}
+
+h1 {
+  margin: 0 0 12px;
+  font-size: clamp(2rem, 5vw, 4rem);
+}
+
+h2 {
+  margin-top: 36px;
+}
+
+.lead {
+  max-width: 780px;
+  color: var(--muted);
+  font-size: 1.08rem;
+}
+
+.grid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+}
+
+.card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  padding: 18px;
+}
+
+.card h2,
+.card h3 {
+  margin-top: 0;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  background: var(--chip);
+  color: #2f4137;
+  padding: 4px 10px;
+  font-size: 0.86rem;
+}
+
+.list {
+  display: grid;
+  gap: 12px;
+}
+
+.doc {
+  max-width: 920px;
+}
+
+.doc table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  background: var(--panel);
+}
+
+.doc th,
+.doc td {
+  border: 1px solid var(--line);
+  padding: 8px 10px;
+  vertical-align: top;
+}
+
+.doc blockquote {
+  border-left: 4px solid var(--accent);
+  margin: 16px 0;
+  padding: 8px 14px;
+  background: var(--panel);
+  color: var(--muted);
+}
+
+.footer {
+  margin-top: 48px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.9rem;
+}

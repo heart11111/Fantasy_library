@@ -1,0 +1,28 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+const { entry, title } = Astro.props;
+const data = entry.data;
+const tags = (data.tags ?? []) as string[];
+const sources = (data.sources ?? []) as string[];
+---
+
+<BaseLayout title={`${data.name ?? title} | Fantasy Library`}>
+  <article class="doc">
+    <p class="eyebrow">{data.type} · {data.canon_status} · {data.confidence}</p>
+    <h1>{data.name}</h1>
+    <p class="lead">{data.summary}</p>
+    <div class="chips">
+      {tags.map((tag: string) => <span class="chip">{tag}</span>)}
+    </div>
+    <slot />
+    {sources.length ? (
+      <section>
+        <h2>출처</h2>
+        <ul>
+          {sources.map((source: string) => <li><a href={`/${source}`}>{source}</a></li>)}
+        </ul>
+      </section>
+    ) : null}
+  </article>
+</BaseLayout>

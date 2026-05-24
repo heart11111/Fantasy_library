@@ -1,0 +1,19 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const entries = (await getCollection("locations")).sort((a, b) => a.data.name.localeCompare(b.data.name, "ko"));
+---
+
+<BaseLayout title="지역 | Fantasy Library">
+  <h1>지역</h1>
+  <div class="list">
+    {entries.map((entry) => (
+      <a class="card" href={`/locations/${entry.slug}`}>
+        <h2>{entry.data.name}</h2>
+        <p>{entry.data.summary}</p>
+        <p class="meta">{entry.data.id} · {entry.data.confidence}</p>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

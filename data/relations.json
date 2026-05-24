@@ -1,0 +1,4458 @@
+[
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "char-h1stj4cz",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "char-h183ytox",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "char-h8r7ikg",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "char-hbt6mg4",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "event-session-001",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "event-session-001",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "event-session-001",
+    "to": "loc-outpost",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "event-session-001",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "faction-investigation-team",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "faction-drow",
+    "to": "event-session-001",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-001"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "char-hutxq0x",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "char-h8shiks",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "event-session-002",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "event-session-002",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "event-session-002",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "event-session-002",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "faction-drow",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-002",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-002"
+  },
+  {
+    "from": "char-h1otutgd",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "char-h1etqrq5",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "char-hmphoje",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "char-hqkoaf",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "event-session-003",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "event-session-003",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "event-session-003",
+    "to": "loc-outpost",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "event-session-003",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "event-session-003",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "faction-investigation-team",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "faction-drow",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "faction-riskydice",
+    "to": "event-session-003",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-003"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-004",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-004",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "char-nemo",
+    "to": "event-session-004",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "char-hm8rvcj",
+    "to": "event-session-004",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "char-h1092ltt",
+    "to": "event-session-004",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "char-hv73dq0",
+    "to": "event-session-004",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "char-h81jx2e",
+    "to": "event-session-004",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "char-hc5hoop",
+    "to": "event-session-004",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "event-session-004",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "event-session-004",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "event-session-004",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-004"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-005",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "char-h1nkxsjr",
+    "to": "event-session-005",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "char-h5wh571",
+    "to": "event-session-005",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-005",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "char-h1ez168k",
+    "to": "event-session-005",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-005",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-005",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "char-h19yxvw3",
+    "to": "event-session-005",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "event-session-005",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "event-session-005",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "event-session-005",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "event-session-005",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-005",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-005"
+  },
+  {
+    "from": "char-h162wpxf",
+    "to": "event-session-006",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-006",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "char-hdknrqz",
+    "to": "event-session-006",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "char-h1nkxsjr",
+    "to": "event-session-006",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-006",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-006",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "char-h1s1hzsf",
+    "to": "event-session-006",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "char-h1jsj5rz",
+    "to": "event-session-006",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "event-session-006",
+    "to": "loc-luxterra",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "event-session-006",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "event-session-006",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "event-session-006",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "event-session-006",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-006",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-006"
+  },
+  {
+    "from": "char-h1n38m25",
+    "to": "event-session-007",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "char-h162wpxf",
+    "to": "event-session-007",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "char-h1stj4cz",
+    "to": "event-session-007",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "char-nemo",
+    "to": "event-session-007",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "char-hm8rvcj",
+    "to": "event-session-007",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "char-hmen750",
+    "to": "event-session-007",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-007",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "char-h166ykd7",
+    "to": "event-session-007",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "event-session-007",
+    "to": "loc-luxterra",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "event-session-007",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "event-session-007",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "event-session-007",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "event-session-007",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-007"
+  },
+  {
+    "from": "char-h1n38m25",
+    "to": "event-session-008",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "char-hutxq0x",
+    "to": "event-session-008",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "char-hvqt0o9",
+    "to": "event-session-008",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-008",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "char-hz6cjul",
+    "to": "event-session-008",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-008",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "char-h220ux9",
+    "to": "event-session-008",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "char-x",
+    "to": "event-session-008",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "event-session-008",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "event-session-008",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "event-session-008",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "event-session-008",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-008"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-009",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "char-hvqt0o9",
+    "to": "event-session-009",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "char-h1stj4cz",
+    "to": "event-session-009",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "char-hm8rvcj",
+    "to": "event-session-009",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "char-nemo",
+    "to": "event-session-009",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "char-h12u250w",
+    "to": "event-session-009",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "char-h19y1aet",
+    "to": "event-session-009",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "char-hoqk92t",
+    "to": "event-session-009",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "event-session-009",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "event-session-009",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "event-session-009",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "event-session-009",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "event-session-009",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-009",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-009"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "char-h1nkxsjr",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "char-ha7vcln",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "char-hdknrqz",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "char-h1a49coh",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "char-h1psx9jt",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "event-session-010",
+    "to": "loc-luxterra",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "event-session-010",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "event-session-010",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "event-session-010",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "event-session-010",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "event-session-010",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "faction-bandits",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "faction-riskydice",
+    "to": "event-session-010",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-010"
+  },
+  {
+    "from": "char-h162wpxf",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "char-ha7vcln",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "char-h1nkxsjr",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "char-hdknrqz",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "char-h1a49coh",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "char-h1s1hzsf",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "char-h17ewz3c",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "event-session-011",
+    "to": "loc-luxterra",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "event-session-011",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "event-session-011",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "event-session-011",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "event-session-011",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "faction-red-anchor",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "faction-riskydice",
+    "to": "event-session-011",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-011"
+  },
+  {
+    "from": "char-hdslylj",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "char-hz6cjul",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "char-h1ckg774",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "char-hdknrqz",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "char-hut16sk",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "char-h5vnc7x",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "char-h15exinr",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "event-session-012",
+    "to": "loc-luxterra",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "event-session-012",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "event-session-012",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "faction-red-anchor",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "faction-bandits",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-012",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-012"
+  },
+  {
+    "from": "char-h162wpxf",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "char-hdslylj",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "char-hdknrqz",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "char-hz6cjul",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "char-h13qb48p",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "char-h1skfz84",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "event-session-013",
+    "to": "loc-luxterra",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "event-session-013",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "event-session-013",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "event-session-013",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "event-session-013",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "faction-red-anchor",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "faction-bandits",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-013",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-013"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-014",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-014",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "char-hutxq0x",
+    "to": "event-session-014",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "char-hdknrqz",
+    "to": "event-session-014",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "char-hz6cjul",
+    "to": "event-session-014",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-014",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-014",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "char-h6wi2cd",
+    "to": "event-session-014",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "event-session-014",
+    "to": "loc-luxterra",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "event-session-014",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "event-session-014",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "event-session-014",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-014",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-014"
+  },
+  {
+    "from": "char-h1otutgd",
+    "to": "event-session-015",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-015",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "char-h1stj4cz",
+    "to": "event-session-015",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "char-hy1rn1n",
+    "to": "event-session-015",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-015",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-015",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "char-h9gfne5",
+    "to": "event-session-015",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "char-hkr0t6d",
+    "to": "event-session-015",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "event-session-015",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "event-session-015",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "event-session-015",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "event-session-015",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-015",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-015",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-015"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-016",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "char-h1kockfd",
+    "to": "event-session-016",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "char-hvqt0o9",
+    "to": "event-session-016",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-016",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-016",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "char-hrv1fcw",
+    "to": "event-session-016",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "char-h16e8n5s",
+    "to": "event-session-016",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "char-h1rmlpt3",
+    "to": "event-session-016",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "event-session-016",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "event-session-016",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "event-session-016",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-016",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-016",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-016"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "char-ha7vcln",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "char-hpchwsv",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "char-h1rmlpt3",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "char-htydczh",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "event-session-017",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "event-session-017",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "event-session-017",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "faction-drow",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "faction-bandits",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-017",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-017"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "char-h1stj4cz",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "char-h1kockfd",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "char-h135u528",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "char-h153y29o",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "char-h1rmlpt3",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-018",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-018"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-019",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-019",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "char-h1nkxsjr",
+    "to": "event-session-019",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "char-ha7vcln",
+    "to": "event-session-019",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-019",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "char-g",
+    "to": "event-session-019",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "char-h1a49coh",
+    "to": "event-session-019",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "char-h1rmlpt3",
+    "to": "event-session-019",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "event-session-019",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "event-session-019",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-019",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-019",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-019"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "char-ha7vcln",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "char-hz4kfjb",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "char-h1a49coh",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "char-horbfjo",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "event-session-020",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "event-session-020",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-020",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-020"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-021",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "char-nemo",
+    "to": "event-session-021",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "char-hrvxduz",
+    "to": "event-session-021",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "char-hz6cjul",
+    "to": "event-session-021",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "char-hc52cu9",
+    "to": "event-session-021",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "char-h1jayx8w",
+    "to": "event-session-021",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "char-hvihm9",
+    "to": "event-session-021",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "char-htydczh",
+    "to": "event-session-021",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "event-session-021",
+    "to": "loc-luxterra",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "event-session-021",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "event-session-021",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-021",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-021",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-021"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-022",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "char-h1stj4cz",
+    "to": "event-session-022",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "char-hm8rvcj",
+    "to": "event-session-022",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "char-nemo",
+    "to": "event-session-022",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-022",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "char-h1v1jjf6",
+    "to": "event-session-022",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "char-h1rmlpt3",
+    "to": "event-session-022",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "char-h1v8j9jw",
+    "to": "event-session-022",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "event-session-022",
+    "to": "loc-luxterra",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "event-session-022",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "event-session-022",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-022",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-022"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-023",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-023",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "char-h1rmlpt3",
+    "to": "event-session-023",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "char-h1stj4cz",
+    "to": "event-session-023",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-023",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "char-hvqt0o9",
+    "to": "event-session-023",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "char-hy80szy",
+    "to": "event-session-023",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-023",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "event-session-023",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "event-session-023",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "event-session-023",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "faction-investigation-team",
+    "to": "event-session-023",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-023",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-023"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-024",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "char-ha7vcln",
+    "to": "event-session-024",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-024",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "char-hy80szy",
+    "to": "event-session-024",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "char-h96tcky",
+    "to": "event-session-024",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-024",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "char-hnsb9s",
+    "to": "event-session-024",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "char-h1rmlpt3",
+    "to": "event-session-024",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "event-session-024",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "event-session-024",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "event-session-024",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "event-session-024",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "event-session-024",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-024",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-024",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-024"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-025",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-025"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-025",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-025"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-025",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-025"
+  },
+  {
+    "from": "char-h1stj4cz",
+    "to": "event-session-025",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-025"
+  },
+  {
+    "from": "char-h1kockfd",
+    "to": "event-session-025",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-025"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-025",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-025"
+  },
+  {
+    "from": "char-hvqt0o9",
+    "to": "event-session-025",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-025"
+  },
+  {
+    "from": "char-h1v8j9jw",
+    "to": "event-session-025",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-025"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-025",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-025"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-025",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-025"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-026",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-026",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-026",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-026",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-026",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-026",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "char-h8shiks",
+    "to": "event-session-026",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "char-htmudh7",
+    "to": "event-session-026",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "event-session-026",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "event-session-026",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-026",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-026",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-026"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-027",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "char-hrvxduz",
+    "to": "event-session-027",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "char-hutxq0x",
+    "to": "event-session-027",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "char-h1stj4cz",
+    "to": "event-session-027",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "char-hm8rvcj",
+    "to": "event-session-027",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "char-hy7zib7",
+    "to": "event-session-027",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-027",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "char-x",
+    "to": "event-session-027",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "event-session-027",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "event-session-027",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "event-session-027",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-027"
+  },
+  {
+    "from": "char-h1otutgd",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "char-hc52cu9",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "char-hc91dj2",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "char-htmudh7",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "char-hk4q1d0",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "event-session-028",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "event-session-028",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "event-session-028",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "faction-investigation-team",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "faction-drow",
+    "to": "event-session-028",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-028"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-029",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-029",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-029",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "char-hy1rn1n",
+    "to": "event-session-029",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-029",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "char-h183ytox",
+    "to": "event-session-029",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "char-h4asnhi",
+    "to": "event-session-029",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-029",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "event-session-029",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "event-session-029",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "event-session-029",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "event-session-029",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "faction-investigation-team",
+    "to": "event-session-029",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-029",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-029"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-030",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-030",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "char-h1stj4cz",
+    "to": "event-session-030",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "char-nemo",
+    "to": "event-session-030",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "char-hm8rvcj",
+    "to": "event-session-030",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "char-hyciw7o",
+    "to": "event-session-030",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-030",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "char-ho0hq4n",
+    "to": "event-session-030",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "event-session-030",
+    "to": "loc-luxterra",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "event-session-030",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "event-session-030",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "event-session-030",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-030"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "char-h1etqrq5",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "char-hy1rn1n",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "char-gargoyle",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "char-h18damj9",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "event-session-031",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "event-session-031",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "event-session-031",
+    "to": "loc-outpost",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "event-session-031",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "event-session-031",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "faction-investigation-team",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "faction-drow",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-031",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-031"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "char-h4asnhi",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "char-h1021ei9",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "event-session-032",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "event-session-032",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "event-session-032",
+    "to": "loc-outpost",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "event-session-032",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "event-session-032",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "faction-investigation-team",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "faction-drow",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-032",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-032"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-033",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-033",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "char-h1otutgd",
+    "to": "event-session-033",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "char-h1etqrq5",
+    "to": "event-session-033",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-033",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-033",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-033",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "char-htmudh7",
+    "to": "event-session-033",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "event-session-033",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "event-session-033",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "event-session-033",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-033",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "faction-bandits",
+    "to": "event-session-033",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-033"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "char-h1otutgd",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "char-h1etqrq5",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "char-h1doyqp9",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "char-htdvbxl",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "char-h8shiks",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "event-session-034",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "event-session-034",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "event-session-034",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "faction-investigation-team",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "faction-drow",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "faction-bandits",
+    "to": "event-session-034",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-034"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-035",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "char-hutxq0x",
+    "to": "event-session-035",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "char-hrvxduz",
+    "to": "event-session-035",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "char-hm8rvcj",
+    "to": "event-session-035",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "char-h1n38m25",
+    "to": "event-session-035",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-035",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-035",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "char-hyqprjc",
+    "to": "event-session-035",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "event-session-035",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "event-session-035",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "event-session-035",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "event-session-035",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "faction-red-anchor",
+    "to": "event-session-035",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-035"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-036",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "char-h1n38m25",
+    "to": "event-session-036",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "char-hrvxduz",
+    "to": "event-session-036",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "char-nemo",
+    "to": "event-session-036",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "char-hm8rvcj",
+    "to": "event-session-036",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "char-hb0qeob",
+    "to": "event-session-036",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "char-h1ummuqh",
+    "to": "event-session-036",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "char-h1rtljvu",
+    "to": "event-session-036",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "event-session-036",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "event-session-036",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "event-session-036",
+    "to": "loc-yggdrasil-gap",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-036",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-036"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "char-h1otutgd",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "char-h1etqrq5",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "char-hlt9sfx",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "char-htmudh7",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "char-hp",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "char-hy1rn1n",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "event-session-038",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "event-session-038",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "event-session-038",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "faction-investigation-team",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "faction-drow",
+    "to": "event-session-038",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-038"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-039",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-039"
+  },
+  {
+    "from": "char-h1otutgd",
+    "to": "event-session-039",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-039"
+  },
+  {
+    "from": "char-ha7vcln",
+    "to": "event-session-039",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-039"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-039",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-039"
+  },
+  {
+    "from": "char-hy1rn1n",
+    "to": "event-session-039",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-039"
+  },
+  {
+    "from": "char-h13kiv25",
+    "to": "event-session-039",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-039"
+  },
+  {
+    "from": "char-h9nszo7",
+    "to": "event-session-039",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-039"
+  },
+  {
+    "from": "char-gm",
+    "to": "event-session-039",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-039"
+  },
+  {
+    "from": "event-session-039",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-039"
+  },
+  {
+    "from": "event-session-039",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-039"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-040",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-040",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "char-h1otutgd",
+    "to": "event-session-040",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "char-ha7vcln",
+    "to": "event-session-040",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "char-hsq3s5x",
+    "to": "event-session-040",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-040",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-040",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "char-helmed-horror",
+    "to": "event-session-040",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "event-session-040",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "event-session-040",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "event-session-040",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "event-session-040",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-040",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-040",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-040"
+  },
+  {
+    "from": "char-h1otutgd",
+    "to": "event-session-041",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-041",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "char-h2kcs0k",
+    "to": "event-session-041",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "char-ha7vcln",
+    "to": "event-session-041",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-041",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "char-h1k4qjk1",
+    "to": "event-session-041",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "char-hbfjmmh",
+    "to": "event-session-041",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "char-hsq3s5x",
+    "to": "event-session-041",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "event-session-041",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "event-session-041",
+    "to": "loc-baldurs-gate",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "event-session-041",
+    "to": "loc-ruins",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "event-session-041",
+    "to": "loc-forest",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "event-session-041",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "faction-guard",
+    "to": "event-session-041",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-041",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-041"
+  },
+  {
+    "from": "char-h1u0zhr5",
+    "to": "event-session-042",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "char-h1a49coh",
+    "to": "event-session-042",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "char-h1qtvjrj",
+    "to": "event-session-042",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "char-hyu8qlb",
+    "to": "event-session-042",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "char-ha7vcln",
+    "to": "event-session-042",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "char-htaovsh",
+    "to": "event-session-042",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "char-h1jf6pbq",
+    "to": "event-session-042",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "char-huqi4jn",
+    "to": "event-session-042",
+    "type": "involved_in",
+    "label": "사건 등장",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "event-session-042",
+    "to": "loc-origin",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "event-session-042",
+    "to": "loc-city",
+    "type": "located_in",
+    "label": "관련 지역",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "faction-skeletons",
+    "to": "event-session-042",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-042"
+  },
+  {
+    "from": "faction-makinas",
+    "to": "event-session-042",
+    "type": "involved_in",
+    "label": "사건 관련",
+    "confidence": "medium",
+    "source": "session-042"
+  }
+]
