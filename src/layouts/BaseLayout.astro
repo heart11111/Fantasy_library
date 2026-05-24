@@ -2,14 +2,15 @@
 import "../styles/global.css";
 
 const { title = "Fantasy Library", description = "공개 로그 기반 세계관 Codex" } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const nav = [
-  ["세션", "/sessions"],
-  ["캐릭터", "/characters"],
-  ["지역", "/locations"],
-  ["팩션", "/factions"],
-  ["사건", "/events"],
-  ["타임라인", "/timeline"],
-  ["관계", "/relations"]
+  ["세션", `${base}/sessions`],
+  ["캐릭터", `${base}/characters`],
+  ["지역", `${base}/locations`],
+  ["팩션", `${base}/factions`],
+  ["사건", `${base}/events`],
+  ["타임라인", `${base}/timeline`],
+  ["관계", `${base}/relations`]
 ];
 ---
 
@@ -24,7 +25,7 @@ const nav = [
   <body>
     <header class="site-header">
       <div class="shell nav">
-        <a class="brand" href="/">Fantasy Library</a>
+        <a class="brand" href={`${base}/`}>Fantasy Library</a>
         <nav class="nav-links" aria-label="주요 메뉴">
           {nav.map(([label, href]) => <a href={href}>{label}</a>)}
         </nav>

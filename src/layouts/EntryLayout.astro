@@ -5,6 +5,7 @@ const { entry, title } = Astro.props;
 const data = entry.data;
 const tags = (data.tags ?? []) as string[];
 const sources = (data.sources ?? []) as string[];
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
 <BaseLayout title={`${data.name ?? title} | Fantasy Library`}>
@@ -20,7 +21,7 @@ const sources = (data.sources ?? []) as string[];
       <section>
         <h2>출처</h2>
         <ul>
-          {sources.map((source: string) => <li><a href={`/${source}`}>{source}</a></li>)}
+          {sources.map((source: string) => <li><a href={`${base}/${source}`}>{source}</a></li>)}
         </ul>
       </section>
     ) : null}

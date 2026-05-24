@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import timeline from "../../data/timeline.json";
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
 <BaseLayout title="타임라인 | Fantasy Library">
@@ -11,7 +12,7 @@ import timeline from "../../data/timeline.json";
         <p class="meta">{item.date_label} · order {item.order}</p>
         <h2>{item.title}</h2>
         <p>{item.summary}</p>
-        <p><a href={`/events/${item.id}`}>사건 문서</a></p>
+        <p><a href={`${base}/events/${item.id}`}>사건 문서</a></p>
       </article>
     ))}
   </div>
