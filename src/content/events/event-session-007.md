@@ -18,14 +18,14 @@ last_updated: "2026-05-24"
 date_label: "더 월드 40 룩스테라-유적 너머의 비밀"
 order: 70
 related_characters:
-  - "char-h1n38m25"
-  - "char-h162wpxf"
-  - "char-h1stj4cz"
+  - "char-magnus"
+  - "char-merak-altemecia"
+  - "char-wolf-ripper"
   - "char-nemo"
-  - "char-hm8rvcj"
+  - "char-kaguya"
   - "char-hmen750"
-  - "char-hb0qeob"
-  - "char-h166ykd7"
+  - "char-hekatriel"
+  - "char-noa-levinos"
   - "char-htwnpd9"
   - "char-h12vepm"
   - "char-htofj1s"
@@ -75,14 +75,14 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1n38m25 | 로그 등장 |
-| char-h162wpxf | 로그 등장 |
-| char-h1stj4cz | 로그 등장 |
+| char-magnus | 로그 등장 |
+| char-merak-altemecia | 로그 등장 |
+| char-wolf-ripper | 로그 등장 |
 | char-nemo | 로그 등장 |
-| char-hm8rvcj | 로그 등장 |
+| char-kaguya | 로그 등장 |
 | char-hmen750 | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
-| char-h166ykd7 | 로그 등장 |
+| char-hekatriel | 로그 등장 |
+| char-noa-levinos | 로그 등장 |
 | char-htwnpd9 | 로그 등장 |
 | char-h12vepm | 로그 등장 |
 | char-htofj1s | 로그 등장 |

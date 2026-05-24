@@ -15,17 +15,17 @@ first_seen: "session-042"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1a49coh"
-  - "char-h1qtvjrj"
-  - "char-hyu8qlb"
-  - "char-ha7vcln"
-  - "char-htaovsh"
+  - "char-lavinia"
+  - "char-ain"
+  - "char-eltera-maste"
+  - "char-sierla"
+  - "char-laika"
+  - "char-valerius-visconti"
   - "char-h1jf6pbq"
   - "char-huqi4jn"
   - "char-h1vcu60r"
   - "char-h10fpyv9"
-  - "char-hrvxduz"
+  - "char-karints"
   - "char-hhalxp7"
 related_locations:
   - "loc-origin"
@@ -54,17 +54,17 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 아인 (char-h1a49coh)
-- 엘테라 마스테 (char-h1qtvjrj)
-- 시엘라 (char-hyu8qlb)
-- 라이카 (char-ha7vcln)
-- 발레리우스 비스콘티 (char-htaovsh)
+- 라비니아 (char-lavinia)
+- 아인 (char-ain)
+- 엘테라 마스테 (char-eltera-maste)
+- 시엘라 (char-sierla)
+- 라이카 (char-laika)
+- 발레리우스 비스콘티 (char-valerius-visconti)
 - 탈로스 교단 광신도 (char-h1jf6pbq)
 - 비올라 (char-huqi4jn)
 - 마르타 벨몬드 (char-h1vcu60r)
 - 탈로스 교단 암살자 (char-h10fpyv9)
-- 카린츠 (char-hrvxduz)
+- 카린츠 (char-karints)
 - 탈로스 교단 성직자 (char-hhalxp7)
 
 ### 지역

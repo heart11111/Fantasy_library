@@ -1,6 +1,6 @@
 [
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-001",
     "type": "involved_in",
     "label": "사건 등장",
@@ -8,7 +8,7 @@
     "source": "session-001"
   },
   {
-    "from": "char-h1stj4cz",
+    "from": "char-wolf-ripper",
     "to": "event-session-001",
     "type": "involved_in",
     "label": "사건 등장",
@@ -16,7 +16,7 @@
     "source": "session-001"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-001",
     "type": "involved_in",
     "label": "사건 등장",
@@ -24,15 +24,7 @@
     "source": "session-001"
   },
   {
-    "from": "char-h183ytox",
-    "to": "event-session-001",
-    "type": "involved_in",
-    "label": "사건 등장",
-    "confidence": "medium",
-    "source": "session-001"
-  },
-  {
-    "from": "char-h8r7ikg",
+    "from": "char-falshu",
     "to": "event-session-001",
     "type": "involved_in",
     "label": "사건 등장",
@@ -48,7 +40,7 @@
     "source": "session-001"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-001",
     "type": "involved_in",
     "label": "사건 등장",
@@ -56,7 +48,7 @@
     "source": "session-001"
   },
   {
-    "from": "char-hbt6mg4",
+    "from": "char-drow-archer",
     "to": "event-session-001",
     "type": "involved_in",
     "label": "사건 등장",
@@ -120,7 +112,7 @@
     "source": "session-001"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-002",
     "type": "involved_in",
     "label": "사건 등장",
@@ -128,7 +120,7 @@
     "source": "session-002"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-002",
     "type": "involved_in",
     "label": "사건 등장",
@@ -136,7 +128,7 @@
     "source": "session-002"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-002",
     "type": "involved_in",
     "label": "사건 등장",
@@ -144,7 +136,7 @@
     "source": "session-002"
   },
   {
-    "from": "char-hutxq0x",
+    "from": "char-sundae",
     "to": "event-session-002",
     "type": "involved_in",
     "label": "사건 등장",
@@ -152,7 +144,7 @@
     "source": "session-002"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-002",
     "type": "involved_in",
     "label": "사건 등장",
@@ -168,7 +160,7 @@
     "source": "session-002"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-002",
     "type": "involved_in",
     "label": "사건 등장",
@@ -176,7 +168,7 @@
     "source": "session-002"
   },
   {
-    "from": "char-h8shiks",
+    "from": "char-soldier",
     "to": "event-session-002",
     "type": "involved_in",
     "label": "사건 등장",
@@ -240,7 +232,7 @@
     "source": "session-002"
   },
   {
-    "from": "char-h1otutgd",
+    "from": "char-arsian-eldayne",
     "to": "event-session-003",
     "type": "involved_in",
     "label": "사건 등장",
@@ -248,7 +240,7 @@
     "source": "session-003"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-003",
     "type": "involved_in",
     "label": "사건 등장",
@@ -256,7 +248,7 @@
     "source": "session-003"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-003",
     "type": "involved_in",
     "label": "사건 등장",
@@ -264,7 +256,7 @@
     "source": "session-003"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-003",
     "type": "involved_in",
     "label": "사건 등장",
@@ -272,7 +264,7 @@
     "source": "session-003"
   },
   {
-    "from": "char-h1etqrq5",
+    "from": "char-fiesta",
     "to": "event-session-003",
     "type": "involved_in",
     "label": "사건 등장",
@@ -296,7 +288,7 @@
     "source": "session-003"
   },
   {
-    "from": "char-hqkoaf",
+    "from": "char-garia",
     "to": "event-session-003",
     "type": "involved_in",
     "label": "사건 등장",
@@ -376,7 +368,7 @@
     "source": "session-003"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-004",
     "type": "involved_in",
     "label": "사건 등장",
@@ -384,7 +376,7 @@
     "source": "session-004"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-004",
     "type": "involved_in",
     "label": "사건 등장",
@@ -400,7 +392,7 @@
     "source": "session-004"
   },
   {
-    "from": "char-hm8rvcj",
+    "from": "char-kaguya",
     "to": "event-session-004",
     "type": "involved_in",
     "label": "사건 등장",
@@ -464,7 +456,7 @@
     "source": "session-004"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-005",
     "type": "involved_in",
     "label": "사건 등장",
@@ -472,7 +464,7 @@
     "source": "session-005"
   },
   {
-    "from": "char-h1nkxsjr",
+    "from": "char-demian",
     "to": "event-session-005",
     "type": "involved_in",
     "label": "사건 등장",
@@ -488,7 +480,7 @@
     "source": "session-005"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-005",
     "type": "involved_in",
     "label": "사건 등장",
@@ -504,7 +496,7 @@
     "source": "session-005"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-005",
     "type": "involved_in",
     "label": "사건 등장",
@@ -568,7 +560,7 @@
     "source": "session-005"
   },
   {
-    "from": "char-h162wpxf",
+    "from": "char-merak-altemecia",
     "to": "event-session-006",
     "type": "involved_in",
     "label": "사건 등장",
@@ -576,7 +568,7 @@
     "source": "session-006"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-006",
     "type": "involved_in",
     "label": "사건 등장",
@@ -584,7 +576,7 @@
     "source": "session-006"
   },
   {
-    "from": "char-hdknrqz",
+    "from": "char-lunasha",
     "to": "event-session-006",
     "type": "involved_in",
     "label": "사건 등장",
@@ -592,7 +584,7 @@
     "source": "session-006"
   },
   {
-    "from": "char-h1nkxsjr",
+    "from": "char-demian",
     "to": "event-session-006",
     "type": "involved_in",
     "label": "사건 등장",
@@ -600,7 +592,7 @@
     "source": "session-006"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-006",
     "type": "involved_in",
     "label": "사건 등장",
@@ -608,7 +600,7 @@
     "source": "session-006"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-006",
     "type": "involved_in",
     "label": "사건 등장",
@@ -680,7 +672,7 @@
     "source": "session-006"
   },
   {
-    "from": "char-h1n38m25",
+    "from": "char-magnus",
     "to": "event-session-007",
     "type": "involved_in",
     "label": "사건 등장",
@@ -688,7 +680,7 @@
     "source": "session-007"
   },
   {
-    "from": "char-h162wpxf",
+    "from": "char-merak-altemecia",
     "to": "event-session-007",
     "type": "involved_in",
     "label": "사건 등장",
@@ -696,7 +688,7 @@
     "source": "session-007"
   },
   {
-    "from": "char-h1stj4cz",
+    "from": "char-wolf-ripper",
     "to": "event-session-007",
     "type": "involved_in",
     "label": "사건 등장",
@@ -712,7 +704,7 @@
     "source": "session-007"
   },
   {
-    "from": "char-hm8rvcj",
+    "from": "char-kaguya",
     "to": "event-session-007",
     "type": "involved_in",
     "label": "사건 등장",
@@ -728,7 +720,7 @@
     "source": "session-007"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-007",
     "type": "involved_in",
     "label": "사건 등장",
@@ -736,7 +728,7 @@
     "source": "session-007"
   },
   {
-    "from": "char-h166ykd7",
+    "from": "char-noa-levinos",
     "to": "event-session-007",
     "type": "involved_in",
     "label": "사건 등장",
@@ -784,7 +776,7 @@
     "source": "session-007"
   },
   {
-    "from": "char-h1n38m25",
+    "from": "char-magnus",
     "to": "event-session-008",
     "type": "involved_in",
     "label": "사건 등장",
@@ -792,7 +784,7 @@
     "source": "session-008"
   },
   {
-    "from": "char-hutxq0x",
+    "from": "char-sundae",
     "to": "event-session-008",
     "type": "involved_in",
     "label": "사건 등장",
@@ -800,7 +792,7 @@
     "source": "session-008"
   },
   {
-    "from": "char-hvqt0o9",
+    "from": "char-anton",
     "to": "event-session-008",
     "type": "involved_in",
     "label": "사건 등장",
@@ -816,7 +808,7 @@
     "source": "session-008"
   },
   {
-    "from": "char-hz6cjul",
+    "from": "char-eve",
     "to": "event-session-008",
     "type": "involved_in",
     "label": "사건 등장",
@@ -824,7 +816,7 @@
     "source": "session-008"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-008",
     "type": "involved_in",
     "label": "사건 등장",
@@ -880,7 +872,7 @@
     "source": "session-008"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-009",
     "type": "involved_in",
     "label": "사건 등장",
@@ -888,7 +880,7 @@
     "source": "session-009"
   },
   {
-    "from": "char-hvqt0o9",
+    "from": "char-anton",
     "to": "event-session-009",
     "type": "involved_in",
     "label": "사건 등장",
@@ -896,7 +888,7 @@
     "source": "session-009"
   },
   {
-    "from": "char-h1stj4cz",
+    "from": "char-wolf-ripper",
     "to": "event-session-009",
     "type": "involved_in",
     "label": "사건 등장",
@@ -904,7 +896,7 @@
     "source": "session-009"
   },
   {
-    "from": "char-hm8rvcj",
+    "from": "char-kaguya",
     "to": "event-session-009",
     "type": "involved_in",
     "label": "사건 등장",
@@ -992,7 +984,7 @@
     "source": "session-009"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-010",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1000,7 +992,7 @@
     "source": "session-010"
   },
   {
-    "from": "char-h1nkxsjr",
+    "from": "char-demian",
     "to": "event-session-010",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1008,7 +1000,7 @@
     "source": "session-010"
   },
   {
-    "from": "char-ha7vcln",
+    "from": "char-laika",
     "to": "event-session-010",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1016,7 +1008,7 @@
     "source": "session-010"
   },
   {
-    "from": "char-hdknrqz",
+    "from": "char-lunasha",
     "to": "event-session-010",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1032,7 +1024,7 @@
     "source": "session-010"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-010",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1040,7 +1032,7 @@
     "source": "session-010"
   },
   {
-    "from": "char-h1a49coh",
+    "from": "char-ain",
     "to": "event-session-010",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1048,7 +1040,7 @@
     "source": "session-010"
   },
   {
-    "from": "char-h1psx9jt",
+    "from": "char-arin",
     "to": "event-session-010",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1128,7 +1120,7 @@
     "source": "session-010"
   },
   {
-    "from": "char-h162wpxf",
+    "from": "char-merak-altemecia",
     "to": "event-session-011",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1136,7 +1128,7 @@
     "source": "session-011"
   },
   {
-    "from": "char-ha7vcln",
+    "from": "char-laika",
     "to": "event-session-011",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1144,7 +1136,7 @@
     "source": "session-011"
   },
   {
-    "from": "char-h1nkxsjr",
+    "from": "char-demian",
     "to": "event-session-011",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1152,7 +1144,7 @@
     "source": "session-011"
   },
   {
-    "from": "char-hdknrqz",
+    "from": "char-lunasha",
     "to": "event-session-011",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1160,7 +1152,7 @@
     "source": "session-011"
   },
   {
-    "from": "char-h1a49coh",
+    "from": "char-ain",
     "to": "event-session-011",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1168,7 +1160,7 @@
     "source": "session-011"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-011",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1264,7 +1256,7 @@
     "source": "session-012"
   },
   {
-    "from": "char-hz6cjul",
+    "from": "char-eve",
     "to": "event-session-012",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1280,7 +1272,7 @@
     "source": "session-012"
   },
   {
-    "from": "char-hdknrqz",
+    "from": "char-lunasha",
     "to": "event-session-012",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1296,7 +1288,7 @@
     "source": "session-012"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-012",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1368,7 +1360,7 @@
     "source": "session-012"
   },
   {
-    "from": "char-h162wpxf",
+    "from": "char-merak-altemecia",
     "to": "event-session-013",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1376,7 +1368,7 @@
     "source": "session-013"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-013",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1392,7 +1384,7 @@
     "source": "session-013"
   },
   {
-    "from": "char-hdknrqz",
+    "from": "char-lunasha",
     "to": "event-session-013",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1400,7 +1392,7 @@
     "source": "session-013"
   },
   {
-    "from": "char-hz6cjul",
+    "from": "char-eve",
     "to": "event-session-013",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1408,7 +1400,7 @@
     "source": "session-013"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-013",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1504,7 +1496,7 @@
     "source": "session-013"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-014",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1512,7 +1504,7 @@
     "source": "session-014"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-014",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1520,7 +1512,7 @@
     "source": "session-014"
   },
   {
-    "from": "char-hutxq0x",
+    "from": "char-sundae",
     "to": "event-session-014",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1528,7 +1520,7 @@
     "source": "session-014"
   },
   {
-    "from": "char-hdknrqz",
+    "from": "char-lunasha",
     "to": "event-session-014",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1536,7 +1528,7 @@
     "source": "session-014"
   },
   {
-    "from": "char-hz6cjul",
+    "from": "char-eve",
     "to": "event-session-014",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1552,7 +1544,7 @@
     "source": "session-014"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-014",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1608,7 +1600,7 @@
     "source": "session-014"
   },
   {
-    "from": "char-h1otutgd",
+    "from": "char-arsian-eldayne",
     "to": "event-session-015",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1616,7 +1608,7 @@
     "source": "session-015"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-015",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1624,7 +1616,7 @@
     "source": "session-015"
   },
   {
-    "from": "char-h1stj4cz",
+    "from": "char-wolf-ripper",
     "to": "event-session-015",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1632,7 +1624,7 @@
     "source": "session-015"
   },
   {
-    "from": "char-hy1rn1n",
+    "from": "char-sargon",
     "to": "event-session-015",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1640,7 +1632,7 @@
     "source": "session-015"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-015",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1720,7 +1712,7 @@
     "source": "session-015"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-016",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1728,7 +1720,7 @@
     "source": "session-016"
   },
   {
-    "from": "char-h1kockfd",
+    "from": "char-nisha",
     "to": "event-session-016",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1736,7 +1728,7 @@
     "source": "session-016"
   },
   {
-    "from": "char-hvqt0o9",
+    "from": "char-anton",
     "to": "event-session-016",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1744,7 +1736,7 @@
     "source": "session-016"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-016",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1752,7 +1744,7 @@
     "source": "session-016"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-016",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1776,7 +1768,7 @@
     "source": "session-016"
   },
   {
-    "from": "char-h1rmlpt3",
+    "from": "char-makina-dread-wildser",
     "to": "event-session-016",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1824,7 +1816,7 @@
     "source": "session-016"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-017",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1832,7 +1824,7 @@
     "source": "session-017"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-017",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1840,7 +1832,7 @@
     "source": "session-017"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-017",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1848,7 +1840,7 @@
     "source": "session-017"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-017",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1856,7 +1848,7 @@
     "source": "session-017"
   },
   {
-    "from": "char-ha7vcln",
+    "from": "char-laika",
     "to": "event-session-017",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1872,7 +1864,7 @@
     "source": "session-017"
   },
   {
-    "from": "char-h1rmlpt3",
+    "from": "char-makina-dread-wildser",
     "to": "event-session-017",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1944,7 +1936,7 @@
     "source": "session-017"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-018",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1952,7 +1944,7 @@
     "source": "session-018"
   },
   {
-    "from": "char-h1stj4cz",
+    "from": "char-wolf-ripper",
     "to": "event-session-018",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1960,7 +1952,7 @@
     "source": "session-018"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-018",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1968,7 +1960,7 @@
     "source": "session-018"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-018",
     "type": "involved_in",
     "label": "사건 등장",
@@ -1976,7 +1968,7 @@
     "source": "session-018"
   },
   {
-    "from": "char-h1kockfd",
+    "from": "char-nisha",
     "to": "event-session-018",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2000,7 +1992,7 @@
     "source": "session-018"
   },
   {
-    "from": "char-h1rmlpt3",
+    "from": "char-makina-dread-wildser",
     "to": "event-session-018",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2032,7 +2024,7 @@
     "source": "session-018"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-019",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2040,7 +2032,7 @@
     "source": "session-019"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-019",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2048,7 +2040,7 @@
     "source": "session-019"
   },
   {
-    "from": "char-h1nkxsjr",
+    "from": "char-demian",
     "to": "event-session-019",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2056,7 +2048,7 @@
     "source": "session-019"
   },
   {
-    "from": "char-ha7vcln",
+    "from": "char-laika",
     "to": "event-session-019",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2064,7 +2056,7 @@
     "source": "session-019"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-019",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2080,7 +2072,7 @@
     "source": "session-019"
   },
   {
-    "from": "char-h1a49coh",
+    "from": "char-ain",
     "to": "event-session-019",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2088,7 +2080,7 @@
     "source": "session-019"
   },
   {
-    "from": "char-h1rmlpt3",
+    "from": "char-makina-dread-wildser",
     "to": "event-session-019",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2128,7 +2120,7 @@
     "source": "session-019"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-020",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2136,7 +2128,7 @@
     "source": "session-020"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-020",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2144,7 +2136,7 @@
     "source": "session-020"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-020",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2152,7 +2144,7 @@
     "source": "session-020"
   },
   {
-    "from": "char-ha7vcln",
+    "from": "char-laika",
     "to": "event-session-020",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2168,7 +2160,7 @@
     "source": "session-020"
   },
   {
-    "from": "char-h1a49coh",
+    "from": "char-ain",
     "to": "event-session-020",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2176,7 +2168,7 @@
     "source": "session-020"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-020",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2232,7 +2224,7 @@
     "source": "session-020"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-021",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2248,7 +2240,7 @@
     "source": "session-021"
   },
   {
-    "from": "char-hrvxduz",
+    "from": "char-karints",
     "to": "event-session-021",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2256,7 +2248,7 @@
     "source": "session-021"
   },
   {
-    "from": "char-hz6cjul",
+    "from": "char-eve",
     "to": "event-session-021",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2336,7 +2328,7 @@
     "source": "session-021"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-022",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2344,7 +2336,7 @@
     "source": "session-022"
   },
   {
-    "from": "char-h1stj4cz",
+    "from": "char-wolf-ripper",
     "to": "event-session-022",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2352,7 +2344,7 @@
     "source": "session-022"
   },
   {
-    "from": "char-hm8rvcj",
+    "from": "char-kaguya",
     "to": "event-session-022",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2368,7 +2360,7 @@
     "source": "session-022"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-022",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2384,7 +2376,7 @@
     "source": "session-022"
   },
   {
-    "from": "char-h1rmlpt3",
+    "from": "char-makina-dread-wildser",
     "to": "event-session-022",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2392,7 +2384,7 @@
     "source": "session-022"
   },
   {
-    "from": "char-h1v8j9jw",
+    "from": "char-makina-dread-berserker",
     "to": "event-session-022",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2432,7 +2424,7 @@
     "source": "session-022"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-023",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2440,7 +2432,7 @@
     "source": "session-023"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-023",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2448,7 +2440,7 @@
     "source": "session-023"
   },
   {
-    "from": "char-h1rmlpt3",
+    "from": "char-makina-dread-wildser",
     "to": "event-session-023",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2456,7 +2448,7 @@
     "source": "session-023"
   },
   {
-    "from": "char-h1stj4cz",
+    "from": "char-wolf-ripper",
     "to": "event-session-023",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2464,7 +2456,7 @@
     "source": "session-023"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-023",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2472,7 +2464,7 @@
     "source": "session-023"
   },
   {
-    "from": "char-hvqt0o9",
+    "from": "char-anton",
     "to": "event-session-023",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2480,7 +2472,7 @@
     "source": "session-023"
   },
   {
-    "from": "char-hy80szy",
+    "from": "char-makina-dread-warrior",
     "to": "event-session-023",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2488,7 +2480,7 @@
     "source": "session-023"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-023",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2536,7 +2528,7 @@
     "source": "session-023"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-024",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2544,7 +2536,7 @@
     "source": "session-024"
   },
   {
-    "from": "char-ha7vcln",
+    "from": "char-laika",
     "to": "event-session-024",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2552,7 +2544,7 @@
     "source": "session-024"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-024",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2560,7 +2552,7 @@
     "source": "session-024"
   },
   {
-    "from": "char-hy80szy",
+    "from": "char-makina-dread-warrior",
     "to": "event-session-024",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2576,7 +2568,7 @@
     "source": "session-024"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-024",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2592,7 +2584,7 @@
     "source": "session-024"
   },
   {
-    "from": "char-h1rmlpt3",
+    "from": "char-makina-dread-wildser",
     "to": "event-session-024",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2656,7 +2648,7 @@
     "source": "session-024"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-025",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2664,7 +2656,7 @@
     "source": "session-025"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-025",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2672,7 +2664,7 @@
     "source": "session-025"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-025",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2680,7 +2672,7 @@
     "source": "session-025"
   },
   {
-    "from": "char-h1stj4cz",
+    "from": "char-wolf-ripper",
     "to": "event-session-025",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2688,7 +2680,7 @@
     "source": "session-025"
   },
   {
-    "from": "char-h1kockfd",
+    "from": "char-nisha",
     "to": "event-session-025",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2696,7 +2688,7 @@
     "source": "session-025"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-025",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2704,7 +2696,7 @@
     "source": "session-025"
   },
   {
-    "from": "char-hvqt0o9",
+    "from": "char-anton",
     "to": "event-session-025",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2712,7 +2704,7 @@
     "source": "session-025"
   },
   {
-    "from": "char-h1v8j9jw",
+    "from": "char-makina-dread-berserker",
     "to": "event-session-025",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2736,7 +2728,7 @@
     "source": "session-025"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-026",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2744,7 +2736,7 @@
     "source": "session-026"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-026",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2752,7 +2744,7 @@
     "source": "session-026"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-026",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2760,7 +2752,7 @@
     "source": "session-026"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-026",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2776,7 +2768,7 @@
     "source": "session-026"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-026",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2784,7 +2776,7 @@
     "source": "session-026"
   },
   {
-    "from": "char-h8shiks",
+    "from": "char-soldier",
     "to": "event-session-026",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2792,7 +2784,7 @@
     "source": "session-026"
   },
   {
-    "from": "char-htmudh7",
+    "from": "char-elite-soldier",
     "to": "event-session-026",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2832,7 +2824,7 @@
     "source": "session-026"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-027",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2840,7 +2832,7 @@
     "source": "session-027"
   },
   {
-    "from": "char-hrvxduz",
+    "from": "char-karints",
     "to": "event-session-027",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2848,7 +2840,7 @@
     "source": "session-027"
   },
   {
-    "from": "char-hutxq0x",
+    "from": "char-sundae",
     "to": "event-session-027",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2856,7 +2848,7 @@
     "source": "session-027"
   },
   {
-    "from": "char-h1stj4cz",
+    "from": "char-wolf-ripper",
     "to": "event-session-027",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2864,7 +2856,7 @@
     "source": "session-027"
   },
   {
-    "from": "char-hm8rvcj",
+    "from": "char-kaguya",
     "to": "event-session-027",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2920,7 +2912,7 @@
     "source": "session-027"
   },
   {
-    "from": "char-h1otutgd",
+    "from": "char-arsian-eldayne",
     "to": "event-session-028",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2928,7 +2920,7 @@
     "source": "session-028"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-028",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2936,7 +2928,7 @@
     "source": "session-028"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-028",
     "type": "involved_in",
     "label": "사건 등장",
@@ -2968,7 +2960,7 @@
     "source": "session-028"
   },
   {
-    "from": "char-htmudh7",
+    "from": "char-elite-soldier",
     "to": "event-session-028",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3032,7 +3024,7 @@
     "source": "session-028"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-029",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3040,7 +3032,7 @@
     "source": "session-029"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-029",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3048,7 +3040,7 @@
     "source": "session-029"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-029",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3056,7 +3048,7 @@
     "source": "session-029"
   },
   {
-    "from": "char-hy1rn1n",
+    "from": "char-sargon",
     "to": "event-session-029",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3064,7 +3056,7 @@
     "source": "session-029"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-029",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3072,7 +3064,7 @@
     "source": "session-029"
   },
   {
-    "from": "char-h183ytox",
+    "from": "char-falshu",
     "to": "event-session-029",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3144,7 +3136,7 @@
     "source": "session-029"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-030",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3152,7 +3144,7 @@
     "source": "session-030"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-030",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3160,7 +3152,7 @@
     "source": "session-030"
   },
   {
-    "from": "char-h1stj4cz",
+    "from": "char-wolf-ripper",
     "to": "event-session-030",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3176,7 +3168,7 @@
     "source": "session-030"
   },
   {
-    "from": "char-hm8rvcj",
+    "from": "char-kaguya",
     "to": "event-session-030",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3192,7 +3184,7 @@
     "source": "session-030"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-030",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3240,7 +3232,7 @@
     "source": "session-030"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-031",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3248,7 +3240,7 @@
     "source": "session-031"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-031",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3256,7 +3248,7 @@
     "source": "session-031"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-031",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3264,7 +3256,7 @@
     "source": "session-031"
   },
   {
-    "from": "char-h1etqrq5",
+    "from": "char-fiesta",
     "to": "event-session-031",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3280,7 +3272,7 @@
     "source": "session-031"
   },
   {
-    "from": "char-hy1rn1n",
+    "from": "char-sargon",
     "to": "event-session-031",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3296,7 +3288,7 @@
     "source": "session-031"
   },
   {
-    "from": "char-h18damj9",
+    "from": "char-drow-warrior",
     "to": "event-session-031",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3376,7 +3368,7 @@
     "source": "session-031"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-032",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3384,7 +3376,7 @@
     "source": "session-032"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-032",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3392,7 +3384,7 @@
     "source": "session-032"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-032",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3400,7 +3392,7 @@
     "source": "session-032"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-032",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3408,7 +3400,7 @@
     "source": "session-032"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-032",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3512,7 +3504,7 @@
     "source": "session-032"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-033",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3520,7 +3512,7 @@
     "source": "session-033"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-033",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3528,7 +3520,7 @@
     "source": "session-033"
   },
   {
-    "from": "char-h1otutgd",
+    "from": "char-arsian-eldayne",
     "to": "event-session-033",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3536,7 +3528,7 @@
     "source": "session-033"
   },
   {
-    "from": "char-h1etqrq5",
+    "from": "char-fiesta",
     "to": "event-session-033",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3544,7 +3536,7 @@
     "source": "session-033"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-033",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3560,7 +3552,7 @@
     "source": "session-033"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-033",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3568,7 +3560,7 @@
     "source": "session-033"
   },
   {
-    "from": "char-htmudh7",
+    "from": "char-elite-soldier",
     "to": "event-session-033",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3616,7 +3608,7 @@
     "source": "session-033"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-034",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3624,7 +3616,7 @@
     "source": "session-034"
   },
   {
-    "from": "char-h1otutgd",
+    "from": "char-arsian-eldayne",
     "to": "event-session-034",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3632,7 +3624,7 @@
     "source": "session-034"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-034",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3640,7 +3632,7 @@
     "source": "session-034"
   },
   {
-    "from": "char-h1etqrq5",
+    "from": "char-fiesta",
     "to": "event-session-034",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3672,7 +3664,7 @@
     "source": "session-034"
   },
   {
-    "from": "char-h8shiks",
+    "from": "char-soldier",
     "to": "event-session-034",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3736,7 +3728,7 @@
     "source": "session-034"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-035",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3744,7 +3736,7 @@
     "source": "session-035"
   },
   {
-    "from": "char-hutxq0x",
+    "from": "char-sundae",
     "to": "event-session-035",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3752,7 +3744,7 @@
     "source": "session-035"
   },
   {
-    "from": "char-hrvxduz",
+    "from": "char-karints",
     "to": "event-session-035",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3760,7 +3752,7 @@
     "source": "session-035"
   },
   {
-    "from": "char-hm8rvcj",
+    "from": "char-kaguya",
     "to": "event-session-035",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3768,7 +3760,7 @@
     "source": "session-035"
   },
   {
-    "from": "char-h1n38m25",
+    "from": "char-magnus",
     "to": "event-session-035",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3776,7 +3768,7 @@
     "source": "session-035"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-035",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3840,7 +3832,7 @@
     "source": "session-035"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-036",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3848,7 +3840,7 @@
     "source": "session-036"
   },
   {
-    "from": "char-h1n38m25",
+    "from": "char-magnus",
     "to": "event-session-036",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3856,7 +3848,7 @@
     "source": "session-036"
   },
   {
-    "from": "char-hrvxduz",
+    "from": "char-karints",
     "to": "event-session-036",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3872,7 +3864,7 @@
     "source": "session-036"
   },
   {
-    "from": "char-hm8rvcj",
+    "from": "char-kaguya",
     "to": "event-session-036",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3880,7 +3872,7 @@
     "source": "session-036"
   },
   {
-    "from": "char-hb0qeob",
+    "from": "char-hekatriel",
     "to": "event-session-036",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3936,7 +3928,7 @@
     "source": "session-036"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-038",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3944,7 +3936,7 @@
     "source": "session-038"
   },
   {
-    "from": "char-h1otutgd",
+    "from": "char-arsian-eldayne",
     "to": "event-session-038",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3952,7 +3944,7 @@
     "source": "session-038"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-038",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3960,7 +3952,7 @@
     "source": "session-038"
   },
   {
-    "from": "char-h1etqrq5",
+    "from": "char-fiesta",
     "to": "event-session-038",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3976,7 +3968,7 @@
     "source": "session-038"
   },
   {
-    "from": "char-htmudh7",
+    "from": "char-elite-soldier",
     "to": "event-session-038",
     "type": "involved_in",
     "label": "사건 등장",
@@ -3992,7 +3984,7 @@
     "source": "session-038"
   },
   {
-    "from": "char-hy1rn1n",
+    "from": "char-sargon",
     "to": "event-session-038",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4048,7 +4040,7 @@
     "source": "session-038"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-039",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4056,7 +4048,7 @@
     "source": "session-039"
   },
   {
-    "from": "char-h1otutgd",
+    "from": "char-arsian-eldayne",
     "to": "event-session-039",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4064,7 +4056,7 @@
     "source": "session-039"
   },
   {
-    "from": "char-ha7vcln",
+    "from": "char-laika",
     "to": "event-session-039",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4072,7 +4064,7 @@
     "source": "session-039"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-039",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4080,7 +4072,7 @@
     "source": "session-039"
   },
   {
-    "from": "char-hy1rn1n",
+    "from": "char-sargon",
     "to": "event-session-039",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4128,7 +4120,7 @@
     "source": "session-039"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-040",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4136,7 +4128,7 @@
     "source": "session-040"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-040",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4144,7 +4136,7 @@
     "source": "session-040"
   },
   {
-    "from": "char-h1otutgd",
+    "from": "char-arsian-eldayne",
     "to": "event-session-040",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4152,7 +4144,7 @@
     "source": "session-040"
   },
   {
-    "from": "char-ha7vcln",
+    "from": "char-laika",
     "to": "event-session-040",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4168,7 +4160,7 @@
     "source": "session-040"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-040",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4176,7 +4168,7 @@
     "source": "session-040"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-040",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4240,7 +4232,7 @@
     "source": "session-040"
   },
   {
-    "from": "char-h1otutgd",
+    "from": "char-arsian-eldayne",
     "to": "event-session-041",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4248,7 +4240,7 @@
     "source": "session-041"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-041",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4256,7 +4248,7 @@
     "source": "session-041"
   },
   {
-    "from": "char-h2kcs0k",
+    "from": "char-lucky",
     "to": "event-session-041",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4264,7 +4256,7 @@
     "source": "session-041"
   },
   {
-    "from": "char-ha7vcln",
+    "from": "char-laika",
     "to": "event-session-041",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4272,7 +4264,7 @@
     "source": "session-041"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-041",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4288,7 +4280,7 @@
     "source": "session-041"
   },
   {
-    "from": "char-hbfjmmh",
+    "from": "char-kaizelin",
     "to": "event-session-041",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4360,7 +4352,7 @@
     "source": "session-041"
   },
   {
-    "from": "char-h1u0zhr5",
+    "from": "char-lavinia",
     "to": "event-session-042",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4368,7 +4360,7 @@
     "source": "session-042"
   },
   {
-    "from": "char-h1a49coh",
+    "from": "char-ain",
     "to": "event-session-042",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4376,7 +4368,7 @@
     "source": "session-042"
   },
   {
-    "from": "char-h1qtvjrj",
+    "from": "char-eltera-maste",
     "to": "event-session-042",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4384,7 +4376,7 @@
     "source": "session-042"
   },
   {
-    "from": "char-hyu8qlb",
+    "from": "char-sierla",
     "to": "event-session-042",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4392,7 +4384,7 @@
     "source": "session-042"
   },
   {
-    "from": "char-ha7vcln",
+    "from": "char-laika",
     "to": "event-session-042",
     "type": "involved_in",
     "label": "사건 등장",
@@ -4400,7 +4392,7 @@
     "source": "session-042"
   },
   {
-    "from": "char-htaovsh",
+    "from": "char-valerius-visconti",
     "to": "event-session-042",
     "type": "involved_in",
     "label": "사건 등장",

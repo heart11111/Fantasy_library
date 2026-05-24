@@ -18,18 +18,18 @@ last_updated: "2026-05-24"
 date_label: "마키나즈6"
 order: 250
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-hyu8qlb"
-  - "char-h1stj4cz"
-  - "char-h1kockfd"
-  - "char-htaovsh"
-  - "char-hvqt0o9"
-  - "char-h1v8j9jw"
-  - "char-hy80szy"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-sierla"
+  - "char-wolf-ripper"
+  - "char-nisha"
+  - "char-valerius-visconti"
+  - "char-anton"
+  - "char-makina-dread-berserker"
+  - "char-makina-dread-warrior"
   - "char-h19hvhs9"
   - "char-h1h1j3ik"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
 related_locations:
   []
 related_factions:
@@ -72,18 +72,18 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
-| char-h1stj4cz | 로그 등장 |
-| char-h1kockfd | 로그 등장 |
-| char-htaovsh | 로그 등장 |
-| char-hvqt0o9 | 로그 등장 |
-| char-h1v8j9jw | 로그 등장 |
-| char-hy80szy | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-sierla | 로그 등장 |
+| char-wolf-ripper | 로그 등장 |
+| char-nisha | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
+| char-anton | 로그 등장 |
+| char-makina-dread-berserker | 로그 등장 |
+| char-makina-dread-warrior | 로그 등장 |
 | char-h19hvhs9 | 로그 등장 |
 | char-h1h1j3ik | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 
 ## 관련 지역
 

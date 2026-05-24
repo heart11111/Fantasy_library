@@ -18,14 +18,14 @@ last_updated: "2026-05-24"
 date_label: "더월드 25 - 룩스테라-1 도적이 숨은 숲"
 order: 100
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1nkxsjr"
-  - "char-ha7vcln"
-  - "char-hdknrqz"
+  - "char-eltera-maste"
+  - "char-demian"
+  - "char-laika"
+  - "char-lunasha"
   - "char-hp"
-  - "char-hb0qeob"
-  - "char-h1a49coh"
-  - "char-h1psx9jt"
+  - "char-hekatriel"
+  - "char-ain"
+  - "char-arin"
   - "char-h1c0n0hf"
   - "char-h12bfmue"
   - "char-h1kf7psf"
@@ -78,14 +78,14 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1qtvjrj | 로그 등장 |
-| char-h1nkxsjr | 로그 등장 |
-| char-ha7vcln | 로그 등장 |
-| char-hdknrqz | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-demian | 로그 등장 |
+| char-laika | 로그 등장 |
+| char-lunasha | 로그 등장 |
 | char-hp | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
-| char-h1a49coh | 로그 등장 |
-| char-h1psx9jt | 로그 등장 |
+| char-hekatriel | 로그 등장 |
+| char-ain | 로그 등장 |
+| char-arin | 로그 등장 |
 | char-h1c0n0hf | 로그 등장 |
 | char-h12bfmue | 로그 등장 |
 | char-h1kf7psf | 로그 등장 |

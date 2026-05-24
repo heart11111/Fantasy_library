@@ -18,15 +18,14 @@ last_updated: "2026-05-24"
 date_label: "경쟁자배제"
 order: 10
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1stj4cz"
-  - "char-h2kcs0k"
-  - "char-h183ytox"
-  - "char-h8r7ikg"
+  - "char-lavinia"
+  - "char-wolf-ripper"
+  - "char-lucky"
+  - "char-falshu"
   - "char-hp"
-  - "char-hbfjmmh"
-  - "char-hbt6mg4"
-  - "char-h18damj9"
+  - "char-kaizelin"
+  - "char-drow-archer"
+  - "char-drow-warrior"
   - "char-hx18tkj"
   - "char-h1q8z5nq"
   - "char-hdj26qh"
@@ -76,15 +75,15 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h1stj4cz | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-h183ytox | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-wolf-ripper | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-falshu | 로그 등장 |
 | char-h8r7ikg | 로그 등장 |
 | char-hp | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
-| char-hbt6mg4 | 로그 등장 |
-| char-h18damj9 | 로그 등장 |
+| char-kaizelin | 로그 등장 |
+| char-drow-archer | 로그 등장 |
+| char-drow-warrior | 로그 등장 |
 | char-hx18tkj | 로그 등장 |
 | char-h1q8z5nq | 로그 등장 |
 | char-hdj26qh | 로그 등장 |

@@ -2,7 +2,7 @@
 id: "session-010"
 type: "session"
 name: "더월드 25 - 룩스테라-1 도적이 숨은 숲"
-summary: "이계의 마법사 엔자를 상대한 후, 신성한 나뭇가지라는 안경을 손에 넣은 여러분은 얼마 뒤 또"
+summary: "이계 마법사 엔자를 쓰러뜨리고 신성한 나뭇가지를 획득한 이후, 오리진 주변 마을들이 도적단에 연달아 약탈당하는 사건이 발생한다. 파티는 숲에 잠복한 도적들을 소탕하러 출발하며 데미안과 라이카가 합류한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,14 +15,14 @@ first_seen: "session-010"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1nkxsjr"
-  - "char-ha7vcln"
-  - "char-hdknrqz"
+  - "char-eltera-maste"
+  - "char-demian"
+  - "char-laika"
+  - "char-lunasha"
   - "char-hp"
-  - "char-hb0qeob"
-  - "char-h1a49coh"
-  - "char-h1psx9jt"
+  - "char-hekatriel"
+  - "char-ain"
+  - "char-arin"
   - "char-h1c0n0hf"
   - "char-h12bfmue"
   - "char-h1kf7psf"
@@ -59,14 +59,14 @@ related_events:
 
 ### 캐릭터
 
-- 엘테라 마스테 (char-h1qtvjrj)
-- 데미안 (char-h1nkxsjr)
-- 라이카 (char-ha7vcln)
-- 루나샤 (char-hdknrqz)
+- 엘테라 마스테 (char-eltera-maste)
+- 데미안 (char-demian)
+- 라이카 (char-laika)
+- 루나샤 (char-lunasha)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
-- 헤카트리엘 (char-hb0qeob)
-- 아인 (char-h1a49coh)
-- 아린 (char-h1psx9jt)
+- 헤카트리엘 (char-hekatriel)
+- 아인 (char-ain)
+- 아린 (char-arin)
 - 도적 궁수 (char-h1c0n0hf)
 - 도적대장 알라릭 (char-h12bfmue)
 - 엘더 만티코어 (char-h1kf7psf)

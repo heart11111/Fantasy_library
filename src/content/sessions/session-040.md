@@ -15,13 +15,13 @@ first_seen: "session-040"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-h1otutgd"
-  - "char-ha7vcln"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-arsian-eldayne"
+  - "char-laika"
   - "char-hsq3s5x"
-  - "char-hyu8qlb"
-  - "char-hbfjmmh"
+  - "char-sierla"
+  - "char-kaizelin"
   - "char-helmed-horror"
   - "char-hq5uv6r"
   - "char-hldwpef"
@@ -56,13 +56,13 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 럭키 (char-h2kcs0k)
-- 아르시안 엘다인 (char-h1otutgd)
-- 라이카 (char-ha7vcln)
+- 라비니아 (char-lavinia)
+- 럭키 (char-lucky)
+- 아르시안 엘다인 (char-arsian-eldayne)
+- 라이카 (char-laika)
 - 발타자르 (char-hsq3s5x)
-- 시엘라 (char-hyu8qlb)
-- 카이젤린 (char-hbfjmmh)
+- 시엘라 (char-sierla)
+- 카이젤린 (char-kaizelin)
 - Helmed Horror (char-helmed-horror)
 - 망령 (char-hq5uv6r)
 - 마을사람들 (char-hldwpef)

@@ -2,7 +2,7 @@
 id: "session-017"
 type: "session"
 name: "마키나즈 4"
-summary: "와ㅏㅏㅏㅏㅏ"
+summary: "포레스트 로드에서 마키나 드레드 간부를 토벌하고 발로우를 무사히 데려오는 데 성공한다. 발로우는 행정 능력을 발휘하기 시작하며 레지스탕스에 새로운 정보를 가져온다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,13 +15,13 @@ first_seen: "session-017"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-htaovsh"
-  - "char-h2kcs0k"
-  - "char-hbfjmmh"
-  - "char-ha7vcln"
+  - "char-lavinia"
+  - "char-valerius-visconti"
+  - "char-lucky"
+  - "char-kaizelin"
+  - "char-laika"
   - "char-hpchwsv"
-  - "char-h1rmlpt3"
+  - "char-makina-dread-wildser"
   - "char-htydczh"
   - "char-h1fpybou"
   - "char-h1nu0048"
@@ -57,13 +57,13 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 발레리우스 비스콘티 (char-htaovsh)
-- 럭키 (char-h2kcs0k)
-- 카이젤린 (char-hbfjmmh)
-- 라이카 (char-ha7vcln)
+- 라비니아 (char-lavinia)
+- 발레리우스 비스콘티 (char-valerius-visconti)
+- 럭키 (char-lucky)
+- 카이젤린 (char-kaizelin)
+- 라이카 (char-laika)
 - 마키나 드레드 - 리저렉셔너 (char-hpchwsv)
-- 마키나 드레드 - 슈팅 와일저 (char-h1rmlpt3)
+- 마키나 드레드 - 슈팅 와일저 (char-makina-dread-wildser)
 - 라이딩 아머 - 비행용 (char-htydczh)
 - 대-포 (char-h1fpybou)
 - 마키나 드레드 넘버즈 - 가이아 (char-h1nu0048)

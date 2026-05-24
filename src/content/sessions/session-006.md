@@ -2,7 +2,7 @@
 id: "session-006"
 type: "session"
 name: "더 월드 29 룩스테라-해골 틈에서 춤을 추다"
-summary: "새로운 세계를 여러분의 눈으로 목도하고 시간이 꽤 흐른 시점. 각자의 문제들을 해결하고 다시금 모이기 시작했습니다. 여러분은 세계와 세계의 틈새인 이 곳에서 만나는 것으로 시작합니다."
+summary: "위그드라실의 틈새(이세계와 현실 사이의 공간)에서 파티가 재집결한다. 새 멤버 루나샤와 순대가 합류하고, 엘테라 대신 대타로 온 메라크 알테메기아가 첫 등장한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,18 +15,18 @@ first_seen: "session-006"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h162wpxf"
-  - "char-h1u0zhr5"
-  - "char-hdknrqz"
-  - "char-h1nkxsjr"
-  - "char-htaovsh"
-  - "char-hb0qeob"
+  - "char-merak-altemecia"
+  - "char-lavinia"
+  - "char-lunasha"
+  - "char-demian"
+  - "char-valerius-visconti"
+  - "char-hekatriel"
   - "char-h1s1hzsf"
   - "char-h1jsj5rz"
-  - "char-h1psx9jt"
+  - "char-arin"
   - "char-hm2rerp"
   - "char-hxwq4td"
-  - "char-h1hn5m4l"
+  - "char-levinos"
 related_locations:
   - "loc-luxterra"
   - "loc-origin"
@@ -56,18 +56,18 @@ related_events:
 
 ### 캐릭터
 
-- 메라크 알테메기아 (char-h162wpxf)
-- 라비니아 (char-h1u0zhr5)
-- 루나샤 (char-hdknrqz)
-- 데미안 (char-h1nkxsjr)
-- 발레리우스 비스콘티 (char-htaovsh)
-- 헤카트리엘 (char-hb0qeob)
+- 메라크 알테메기아 (char-merak-altemecia)
+- 라비니아 (char-lavinia)
+- 루나샤 (char-lunasha)
+- 데미안 (char-demian)
+- 발레리우스 비스콘티 (char-valerius-visconti)
+- 헤카트리엘 (char-hekatriel)
 - 스켈레톤 전사 (char-h1s1hzsf)
 - 해골 토템 (char-h1jsj5rz)
-- 아린 (char-h1psx9jt)
+- 아린 (char-arin)
 - 스켈레톤 메이지 (char-hm2rerp)
 - 스켈레톤 버서커 (char-hxwq4td)
-- 레비노스 (char-h1hn5m4l)
+- 레비노스 (char-levinos)
 
 ### 지역
 

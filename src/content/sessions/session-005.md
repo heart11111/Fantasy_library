@@ -2,7 +2,7 @@
 id: "session-005"
 type: "session"
 name: "더 월드 - 24 작은 마법사의 꿈"
-summary: "시끄러웠던 나날 뒤 모처럼 휴일을 만끽하던 여러분 각자는 눈에 띄는 벽보를 발견하게 됩니다."
+summary: "오리진 모험가들이 이름 없는 작은 마을의 벽보를 보고 처음으로 한 자리에 모인다. 서로 초면인 엘테라 마스테, 헤카트리엘, 시엘라, 데미안 등이 의뢰를 받고 마을 입구에서 파티를 결성하기 시작한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,15 +15,15 @@ first_seen: "session-005"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1nkxsjr"
+  - "char-eltera-maste"
+  - "char-demian"
   - "char-h5wh571"
-  - "char-hyu8qlb"
+  - "char-sierla"
   - "char-h1ez168k"
-  - "char-hb0qeob"
+  - "char-hekatriel"
   - "char-hp"
   - "char-h19yxvw3"
-  - "char-h1hn5m4l"
+  - "char-levinos"
   - "char-h1dmfv1v"
   - "char-ho628hn"
   - "char-h30455d"
@@ -55,15 +55,15 @@ related_events:
 
 ### 캐릭터
 
-- 엘테라 마스테 (char-h1qtvjrj)
-- 데미안 (char-h1nkxsjr)
+- 엘테라 마스테 (char-eltera-maste)
+- 데미안 (char-demian)
 - 비알 (char-h5wh571)
-- 시엘라 (char-hyu8qlb)
+- 시엘라 (char-sierla)
 - 흉수 전투원 (char-h1ez168k)
-- 헤카트리엘 (char-hb0qeob)
+- 헤카트리엘 (char-hekatriel)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
 - 작은 마법사 플루 (char-h19yxvw3)
-- 레비노스 (char-h1hn5m4l)
+- 레비노스 (char-levinos)
 - 작은 마법사 엔자 (char-h1dmfv1v)
 - 카스라 (char-ho628hn)
 - 밀메 (char-h30455d)

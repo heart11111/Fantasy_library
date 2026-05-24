@@ -15,11 +15,11 @@ first_seen: "session-027"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-hrvxduz"
-  - "char-hutxq0x"
-  - "char-h1stj4cz"
-  - "char-hm8rvcj"
+  - "char-lavinia"
+  - "char-karints"
+  - "char-sundae"
+  - "char-wolf-ripper"
+  - "char-kaguya"
   - "char-hy7zib7"
   - "char-hp"
   - "char-x"
@@ -54,11 +54,11 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 카린츠 (char-hrvxduz)
-- 순대 (char-hutxq0x)
-- 갈기갈기 찢는 이리 (char-h1stj4cz)
-- 카구야 (char-hm8rvcj)
+- 라비니아 (char-lavinia)
+- 카린츠 (char-karints)
+- 순대 (char-sundae)
+- 갈기갈기 찢는 이리 (char-wolf-ripper)
+- 카구야 (char-kaguya)
 - 헤카트리엘 타이타니아 (char-hy7zib7)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
 - x (char-x)

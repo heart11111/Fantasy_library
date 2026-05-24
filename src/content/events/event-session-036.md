@@ -18,12 +18,12 @@ last_updated: "2026-05-24"
 date_label: "진범 찾기"
 order: 360
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1n38m25"
-  - "char-hrvxduz"
+  - "char-eltera-maste"
+  - "char-magnus"
+  - "char-karints"
   - "char-nemo"
-  - "char-hm8rvcj"
-  - "char-hb0qeob"
+  - "char-kaguya"
+  - "char-hekatriel"
   - "char-h1ummuqh"
   - "char-h1rtljvu"
   - "char-hubs176"
@@ -73,12 +73,12 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1qtvjrj | 로그 등장 |
-| char-h1n38m25 | 로그 등장 |
-| char-hrvxduz | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-magnus | 로그 등장 |
+| char-karints | 로그 등장 |
 | char-nemo | 로그 등장 |
-| char-hm8rvcj | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
+| char-kaguya | 로그 등장 |
+| char-hekatriel | 로그 등장 |
 | char-h1ummuqh | 로그 등장 |
 | char-h1rtljvu | 로그 등장 |
 | char-hubs176 | 로그 등장 |

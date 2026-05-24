@@ -18,16 +18,16 @@ last_updated: "2026-05-24"
 date_label: "기로"
 order: 30
 related_characters:
-  - "char-h1otutgd"
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-htaovsh"
-  - "char-h1etqrq5"
+  - "char-arsian-eldayne"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-valerius-visconti"
+  - "char-fiesta"
   - "char-hp"
   - "char-hmphoje"
-  - "char-hqkoaf"
+  - "char-garia"
   - "char-h1s41l85"
-  - "char-hbt6mg4"
+  - "char-drow-archer"
   - "char-h1en8u5x"
   - "char-x"
 related_locations:
@@ -78,16 +78,16 @@ Automated welcome message
 
 | 인물 | 역할 |
 |---|---|
-| char-h1otutgd | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-htaovsh | 로그 등장 |
-| char-h1etqrq5 | 로그 등장 |
+| char-arsian-eldayne | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
+| char-fiesta | 로그 등장 |
 | char-hp | 로그 등장 |
 | char-hmphoje | 로그 등장 |
-| char-hqkoaf | 로그 등장 |
+| char-garia | 로그 등장 |
 | char-h1s41l85 | 로그 등장 |
-| char-hbt6mg4 | 로그 등장 |
+| char-drow-archer | 로그 등장 |
 | char-h1en8u5x | 로그 등장 |
 | char-x | 로그 등장 |
 

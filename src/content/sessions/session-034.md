@@ -15,14 +15,14 @@ first_seen: "session-034"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h2kcs0k"
-  - "char-h1otutgd"
-  - "char-hyu8qlb"
-  - "char-h1etqrq5"
+  - "char-lucky"
+  - "char-arsian-eldayne"
+  - "char-sierla"
+  - "char-fiesta"
   - "char-h1doyqp9"
   - "char-hp"
   - "char-htdvbxl"
-  - "char-h8shiks"
+  - "char-soldier"
   - "char-h4s948b"
   - "char-h1pa5zry"
   - "char-1d8-5-1"
@@ -57,14 +57,14 @@ related_events:
 
 ### 캐릭터
 
-- 럭키 (char-h2kcs0k)
-- 아르시안 엘다인 (char-h1otutgd)
-- 시엘라 (char-hyu8qlb)
-- 피에스타 (char-h1etqrq5)
+- 럭키 (char-lucky)
+- 아르시안 엘다인 (char-arsian-eldayne)
+- 시엘라 (char-sierla)
+- 피에스타 (char-fiesta)
 - 침투요원 (char-h1doyqp9)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
 - 침투조원 (char-htdvbxl)
-- 병졸 (char-h8shiks)
+- 병졸 (char-soldier)
 - 마법장교 (char-h4s948b)
 - 전령 (char-h1pa5zry)
 - 🎲 1d8 + 5 + 1 = (char-1d8-5-1)

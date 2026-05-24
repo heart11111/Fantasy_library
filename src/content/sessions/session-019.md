@@ -2,7 +2,7 @@
 id: "session-019"
 type: "session"
 name: "마키나즈 7 (2)"
-summary: "신풍과 디바인의 폭격 작전을 성공적으로 막은 여러분은"
+summary: "마키나 드레드 간부 신풍과 디바인의 공중 폭격 작전을 성공적으로 저지한다. 그러나 작전 시발점이었던 넬피스가 독방에 갇히는 사태가 발생한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,18 +15,18 @@ first_seen: "session-019"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-htaovsh"
-  - "char-h1nkxsjr"
-  - "char-ha7vcln"
-  - "char-hbfjmmh"
+  - "char-lavinia"
+  - "char-valerius-visconti"
+  - "char-demian"
+  - "char-laika"
+  - "char-kaizelin"
   - "char-g"
-  - "char-h1a49coh"
-  - "char-h1rmlpt3"
+  - "char-ain"
+  - "char-makina-dread-wildser"
   - "char-h1v15x37"
-  - "char-h1v8j9jw"
+  - "char-makina-dread-berserker"
   - "char-h1fpybou"
-  - "char-hy80szy"
+  - "char-makina-dread-warrior"
 related_locations:
   - "loc-origin"
   - "loc-city"
@@ -54,18 +54,18 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 발레리우스 비스콘티 (char-htaovsh)
-- 데미안 (char-h1nkxsjr)
-- 라이카 (char-ha7vcln)
-- 카이젤린 (char-hbfjmmh)
+- 라비니아 (char-lavinia)
+- 발레리우스 비스콘티 (char-valerius-visconti)
+- 데미안 (char-demian)
+- 라이카 (char-laika)
+- 카이젤린 (char-kaizelin)
 - 마키나 드레드 넘버즈 - G.안토니오 (char-g)
-- 아인 (char-h1a49coh)
-- 마키나 드레드 - 슈팅 와일저 (char-h1rmlpt3)
+- 아인 (char-ain)
+- 마키나 드레드 - 슈팅 와일저 (char-makina-dread-wildser)
 - 마키나 드레드 - 빅 실드너 (char-h1v15x37)
-- 마키나 드레드 - 서든 버서커 (char-h1v8j9jw)
+- 마키나 드레드 - 서든 버서커 (char-makina-dread-berserker)
 - 대-포 (char-h1fpybou)
-- 마키나 드레드  - 워리어 (char-hy80szy)
+- 마키나 드레드  - 워리어 (char-makina-dread-warrior)
 
 ### 지역
 

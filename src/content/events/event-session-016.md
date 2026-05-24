@@ -18,14 +18,14 @@ last_updated: "2026-05-24"
 date_label: "마키나즈 1"
 order: 160
 related_characters:
-  - "char-h2kcs0k"
-  - "char-h1kockfd"
-  - "char-hvqt0o9"
-  - "char-hyu8qlb"
-  - "char-hbfjmmh"
+  - "char-lucky"
+  - "char-nisha"
+  - "char-anton"
+  - "char-sierla"
+  - "char-kaizelin"
   - "char-hrv1fcw"
   - "char-h16e8n5s"
-  - "char-h1rmlpt3"
+  - "char-makina-dread-wildser"
   - "char-h1xyqag"
   - "char-psychic-gray-ooze"
   - "char-black-pudding"
@@ -74,14 +74,14 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h2kcs0k | 로그 등장 |
-| char-h1kockfd | 로그 등장 |
-| char-hvqt0o9 | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-nisha | 로그 등장 |
+| char-anton | 로그 등장 |
+| char-sierla | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-hrv1fcw | 로그 등장 |
 | char-h16e8n5s | 로그 등장 |
-| char-h1rmlpt3 | 로그 등장 |
+| char-makina-dread-wildser | 로그 등장 |
 | char-h1xyqag | 로그 등장 |
 | char-psychic-gray-ooze | 로그 등장 |
 | char-black-pudding | 로그 등장 |

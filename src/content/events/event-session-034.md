@@ -18,14 +18,14 @@ last_updated: "2026-05-24"
 date_label: "요안"
 order: 340
 related_characters:
-  - "char-h2kcs0k"
-  - "char-h1otutgd"
-  - "char-hyu8qlb"
-  - "char-h1etqrq5"
+  - "char-lucky"
+  - "char-arsian-eldayne"
+  - "char-sierla"
+  - "char-fiesta"
   - "char-h1doyqp9"
   - "char-hp"
   - "char-htdvbxl"
-  - "char-h8shiks"
+  - "char-soldier"
   - "char-h4s948b"
   - "char-h1pa5zry"
   - "char-1d8-5-1"
@@ -76,14 +76,14 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h2kcs0k | 로그 등장 |
-| char-h1otutgd | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
-| char-h1etqrq5 | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-arsian-eldayne | 로그 등장 |
+| char-sierla | 로그 등장 |
+| char-fiesta | 로그 등장 |
 | char-h1doyqp9 | 로그 등장 |
 | char-hp | 로그 등장 |
 | char-htdvbxl | 로그 등장 |
-| char-h8shiks | 로그 등장 |
+| char-soldier | 로그 등장 |
 | char-h4s948b | 로그 등장 |
 | char-h1pa5zry | 로그 등장 |
 | char-1d8-5-1 | 로그 등장 |

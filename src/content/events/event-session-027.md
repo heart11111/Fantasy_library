@@ -18,11 +18,11 @@ last_updated: "2026-05-24"
 date_label: "불온한 소문"
 order: 270
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-hrvxduz"
-  - "char-hutxq0x"
-  - "char-h1stj4cz"
-  - "char-hm8rvcj"
+  - "char-lavinia"
+  - "char-karints"
+  - "char-sundae"
+  - "char-wolf-ripper"
+  - "char-kaguya"
   - "char-hy7zib7"
   - "char-hp"
   - "char-x"
@@ -73,11 +73,11 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-hrvxduz | 로그 등장 |
-| char-hutxq0x | 로그 등장 |
-| char-h1stj4cz | 로그 등장 |
-| char-hm8rvcj | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-karints | 로그 등장 |
+| char-sundae | 로그 등장 |
+| char-wolf-ripper | 로그 등장 |
+| char-kaguya | 로그 등장 |
 | char-hy7zib7 | 로그 등장 |
 | char-hp | 로그 등장 |
 | char-x | 로그 등장 |

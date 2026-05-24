@@ -15,11 +15,11 @@ first_seen: "session-039"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1otutgd"
-  - "char-ha7vcln"
-  - "char-hyu8qlb"
-  - "char-hy1rn1n"
+  - "char-lavinia"
+  - "char-arsian-eldayne"
+  - "char-laika"
+  - "char-sierla"
+  - "char-sargon"
   - "char-h13kiv25"
   - "char-h9nszo7"
   - "char-gm"
@@ -52,11 +52,11 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 아르시안 엘다인 (char-h1otutgd)
-- 라이카 (char-ha7vcln)
-- 시엘라 (char-hyu8qlb)
-- 사르곤 (char-hy1rn1n)
+- 라비니아 (char-lavinia)
+- 아르시안 엘다인 (char-arsian-eldayne)
+- 라이카 (char-laika)
+- 시엘라 (char-sierla)
+- 사르곤 (char-sargon)
 - 안나 (char-h13kiv25)
 - 뱀파이어 스폰 (char-h9nszo7)
 - gm (char-gm)

@@ -18,15 +18,15 @@ last_updated: "2026-05-24"
 date_label: "더 월드 - 24 작은 마법사의 꿈"
 order: 50
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1nkxsjr"
+  - "char-eltera-maste"
+  - "char-demian"
   - "char-h5wh571"
-  - "char-hyu8qlb"
+  - "char-sierla"
   - "char-h1ez168k"
-  - "char-hb0qeob"
+  - "char-hekatriel"
   - "char-hp"
   - "char-h19yxvw3"
-  - "char-h1hn5m4l"
+  - "char-levinos"
   - "char-h1dmfv1v"
   - "char-ho628hn"
   - "char-h30455d"
@@ -74,15 +74,15 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1qtvjrj | 로그 등장 |
-| char-h1nkxsjr | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-demian | 로그 등장 |
 | char-h5wh571 | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
+| char-sierla | 로그 등장 |
 | char-h1ez168k | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
+| char-hekatriel | 로그 등장 |
 | char-hp | 로그 등장 |
 | char-h19yxvw3 | 로그 등장 |
-| char-h1hn5m4l | 로그 등장 |
+| char-levinos | 로그 등장 |
 | char-h1dmfv1v | 로그 등장 |
 | char-ho628hn | 로그 등장 |
 | char-h30455d | 로그 등장 |

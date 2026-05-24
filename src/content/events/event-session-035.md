@@ -18,12 +18,12 @@ last_updated: "2026-05-24"
 date_label: "이브의 부탁"
 order: 350
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-hutxq0x"
-  - "char-hrvxduz"
-  - "char-hm8rvcj"
-  - "char-h1n38m25"
-  - "char-hb0qeob"
+  - "char-eltera-maste"
+  - "char-sundae"
+  - "char-karints"
+  - "char-kaguya"
+  - "char-magnus"
+  - "char-hekatriel"
   - "char-hp"
   - "char-hyqprjc"
   - "char-h1a0thz2"
@@ -74,12 +74,12 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1qtvjrj | 로그 등장 |
-| char-hutxq0x | 로그 등장 |
-| char-hrvxduz | 로그 등장 |
-| char-hm8rvcj | 로그 등장 |
-| char-h1n38m25 | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-sundae | 로그 등장 |
+| char-karints | 로그 등장 |
+| char-kaguya | 로그 등장 |
+| char-magnus | 로그 등장 |
+| char-hekatriel | 로그 등장 |
 | char-hp | 로그 등장 |
 | char-hyqprjc | 로그 등장 |
 | char-h1a0thz2 | 로그 등장 |

@@ -18,14 +18,14 @@ last_updated: "2026-05-24"
 date_label: "반격"
 order: 260
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-h1qtvjrj"
-  - "char-hyu8qlb"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-eltera-maste"
+  - "char-sierla"
   - "char-hp"
-  - "char-hbfjmmh"
-  - "char-h8shiks"
-  - "char-htmudh7"
+  - "char-kaizelin"
+  - "char-soldier"
+  - "char-elite-soldier"
   - "char-h1qygi9o"
   - "char-hc91dj2"
   - "char-h1usvgct"
@@ -73,14 +73,14 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-h1qtvjrj | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-sierla | 로그 등장 |
 | char-hp | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
-| char-h8shiks | 로그 등장 |
-| char-htmudh7 | 로그 등장 |
+| char-kaizelin | 로그 등장 |
+| char-soldier | 로그 등장 |
+| char-elite-soldier | 로그 등장 |
 | char-h1qygi9o | 로그 등장 |
 | char-hc91dj2 | 로그 등장 |
 | char-h1usvgct | 로그 등장 |

@@ -18,18 +18,18 @@ last_updated: "2026-05-24"
 date_label: "더 월드 29 룩스테라-해골 틈에서 춤을 추다"
 order: 60
 related_characters:
-  - "char-h162wpxf"
-  - "char-h1u0zhr5"
-  - "char-hdknrqz"
-  - "char-h1nkxsjr"
-  - "char-htaovsh"
-  - "char-hb0qeob"
+  - "char-merak-altemecia"
+  - "char-lavinia"
+  - "char-lunasha"
+  - "char-demian"
+  - "char-valerius-visconti"
+  - "char-hekatriel"
   - "char-h1s1hzsf"
   - "char-h1jsj5rz"
-  - "char-h1psx9jt"
+  - "char-arin"
   - "char-hm2rerp"
   - "char-hxwq4td"
-  - "char-h1hn5m4l"
+  - "char-levinos"
 related_locations:
   - "loc-luxterra"
   - "loc-origin"
@@ -75,18 +75,18 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h162wpxf | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
-| char-hdknrqz | 로그 등장 |
-| char-h1nkxsjr | 로그 등장 |
-| char-htaovsh | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
+| char-merak-altemecia | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-lunasha | 로그 등장 |
+| char-demian | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
+| char-hekatriel | 로그 등장 |
 | char-h1s1hzsf | 로그 등장 |
 | char-h1jsj5rz | 로그 등장 |
-| char-h1psx9jt | 로그 등장 |
+| char-arin | 로그 등장 |
 | char-hm2rerp | 로그 등장 |
 | char-hxwq4td | 로그 등장 |
-| char-h1hn5m4l | 로그 등장 |
+| char-levinos | 로그 등장 |
 
 ## 관련 지역
 

@@ -18,17 +18,17 @@ last_updated: "2026-05-24"
 date_label: "요안-2"
 order: 330
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-h1otutgd"
-  - "char-h1etqrq5"
-  - "char-hyu8qlb"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-arsian-eldayne"
+  - "char-fiesta"
+  - "char-sierla"
   - "char-hp"
-  - "char-hbfjmmh"
-  - "char-htmudh7"
+  - "char-kaizelin"
+  - "char-elite-soldier"
   - "char-hyaxs41"
   - "char-h1grh160"
-  - "char-h8shiks"
+  - "char-soldier"
   - "char-hjnu884"
 related_locations:
   - "loc-origin"
@@ -74,17 +74,17 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-h1otutgd | 로그 등장 |
-| char-h1etqrq5 | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-arsian-eldayne | 로그 등장 |
+| char-fiesta | 로그 등장 |
+| char-sierla | 로그 등장 |
 | char-hp | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
-| char-htmudh7 | 로그 등장 |
+| char-kaizelin | 로그 등장 |
+| char-elite-soldier | 로그 등장 |
 | char-hyaxs41 | 로그 등장 |
 | char-h1grh160 | 로그 등장 |
-| char-h8shiks | 로그 등장 |
+| char-soldier | 로그 등장 |
 | char-hjnu884 | 로그 등장 |
 
 ## 관련 지역

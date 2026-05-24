@@ -18,18 +18,18 @@ last_updated: "2026-05-24"
 date_label: "마키나즈 7"
 order: 200
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-htaovsh"
-  - "char-ha7vcln"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-valerius-visconti"
+  - "char-laika"
   - "char-hz4kfjb"
-  - "char-h1a49coh"
-  - "char-hb0qeob"
+  - "char-ain"
+  - "char-hekatriel"
   - "char-horbfjo"
-  - "char-h1v8j9jw"
-  - "char-h1hn5m4l"
+  - "char-makina-dread-berserker"
+  - "char-levinos"
   - "char-h1fykrcc"
-  - "char-hy80szy"
+  - "char-makina-dread-warrior"
 related_locations:
   - "loc-origin"
   - "loc-city"
@@ -74,18 +74,18 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-htaovsh | 로그 등장 |
-| char-ha7vcln | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
+| char-laika | 로그 등장 |
 | char-hz4kfjb | 로그 등장 |
-| char-h1a49coh | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
+| char-ain | 로그 등장 |
+| char-hekatriel | 로그 등장 |
 | char-horbfjo | 로그 등장 |
-| char-h1v8j9jw | 로그 등장 |
-| char-h1hn5m4l | 로그 등장 |
+| char-makina-dread-berserker | 로그 등장 |
+| char-levinos | 로그 등장 |
 | char-h1fykrcc | 로그 등장 |
-| char-hy80szy | 로그 등장 |
+| char-makina-dread-warrior | 로그 등장 |
 
 ## 관련 지역
 

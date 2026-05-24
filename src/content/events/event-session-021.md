@@ -18,15 +18,15 @@ last_updated: "2026-05-24"
 date_label: "마키나즈 8"
 order: 210
 related_characters:
-  - "char-h1u0zhr5"
+  - "char-lavinia"
   - "char-nemo"
-  - "char-hrvxduz"
-  - "char-hz6cjul"
+  - "char-karints"
+  - "char-eve"
   - "char-hc52cu9"
   - "char-h1jayx8w"
   - "char-hvihm9"
   - "char-htydczh"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-h1fr5nov"
   - "char-h1xyqag"
   - "char-h1fpn5an"
@@ -74,15 +74,15 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
+| char-lavinia | 로그 등장 |
 | char-nemo | 로그 등장 |
-| char-hrvxduz | 로그 등장 |
-| char-hz6cjul | 로그 등장 |
+| char-karints | 로그 등장 |
+| char-eve | 로그 등장 |
 | char-hc52cu9 | 로그 등장 |
 | char-h1jayx8w | 로그 등장 |
 | char-hvihm9 | 로그 등장 |
 | char-htydczh | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-h1fr5nov | 로그 등장 |
 | char-h1xyqag | 로그 등장 |
 | char-h1fpn5an | 로그 등장 |

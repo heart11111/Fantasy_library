@@ -2,7 +2,7 @@
 id: "session-008"
 type: "session"
 name: "더 월드 41 룩스테라-재료 수급로 참변 수색"
-summary: "지난 날, 유적 의뢰를 마치고 돌아온 일행은 충격적인 소식을 듣게 됩니다."
+summary: "유적 탐사 중 오리진에서 다른 팀 전원이 전멸하는 사건이 발생한다. 연구자료 호송대 납치와 거대 짐승 목격이 겹치며 오리진에 위기감이 고조되고, 이브·안톤·카이젤린이 새로 합류한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,12 +15,12 @@ first_seen: "session-008"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1n38m25"
-  - "char-hutxq0x"
-  - "char-hvqt0o9"
+  - "char-magnus"
+  - "char-sundae"
+  - "char-anton"
   - "char-hp"
-  - "char-hz6cjul"
-  - "char-hbfjmmh"
+  - "char-eve"
+  - "char-kaizelin"
   - "char-h220ux9"
   - "char-x"
   - "char-h1xf9zef"
@@ -55,12 +55,12 @@ related_events:
 
 ### 캐릭터
 
-- 매그너스 (char-h1n38m25)
-- 순대 (char-hutxq0x)
-- 안톤 (char-hvqt0o9)
+- 매그너스 (char-magnus)
+- 순대 (char-sundae)
+- 안톤 (char-anton)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
-- 이브 (char-hz6cjul)
-- 카이젤린 (char-hbfjmmh)
+- 이브 (char-eve)
+- 카이젤린 (char-kaizelin)
 - 흰 고릴라 투척병 (char-h220ux9)
 - x (char-x)
 - 빨간 이빨 부족장 카사카르 (char-h1xf9zef)

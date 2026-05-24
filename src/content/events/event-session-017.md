@@ -18,13 +18,13 @@ last_updated: "2026-05-24"
 date_label: "마키나즈 4"
 order: 170
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-htaovsh"
-  - "char-h2kcs0k"
-  - "char-hbfjmmh"
-  - "char-ha7vcln"
+  - "char-lavinia"
+  - "char-valerius-visconti"
+  - "char-lucky"
+  - "char-kaizelin"
+  - "char-laika"
   - "char-hpchwsv"
-  - "char-h1rmlpt3"
+  - "char-makina-dread-wildser"
   - "char-htydczh"
   - "char-h1fpybou"
   - "char-h1nu0048"
@@ -76,13 +76,13 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-htaovsh | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
-| char-ha7vcln | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-kaizelin | 로그 등장 |
+| char-laika | 로그 등장 |
 | char-hpchwsv | 로그 등장 |
-| char-h1rmlpt3 | 로그 등장 |
+| char-makina-dread-wildser | 로그 등장 |
 | char-htydczh | 로그 등장 |
 | char-h1fpybou | 로그 등장 |
 | char-h1nu0048 | 로그 등장 |

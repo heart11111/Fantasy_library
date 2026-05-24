@@ -15,14 +15,14 @@ first_seen: "session-026"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-h1qtvjrj"
-  - "char-hyu8qlb"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-eltera-maste"
+  - "char-sierla"
   - "char-hp"
-  - "char-hbfjmmh"
-  - "char-h8shiks"
-  - "char-htmudh7"
+  - "char-kaizelin"
+  - "char-soldier"
+  - "char-elite-soldier"
   - "char-h1qygi9o"
   - "char-hc91dj2"
   - "char-h1usvgct"
@@ -54,14 +54,14 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 럭키 (char-h2kcs0k)
-- 엘테라 마스테 (char-h1qtvjrj)
-- 시엘라 (char-hyu8qlb)
+- 라비니아 (char-lavinia)
+- 럭키 (char-lucky)
+- 엘테라 마스테 (char-eltera-maste)
+- 시엘라 (char-sierla)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
-- 카이젤린 (char-hbfjmmh)
-- 병졸 (char-h8shiks)
-- 정예병 (char-htmudh7)
+- 카이젤린 (char-kaizelin)
+- 병졸 (char-soldier)
+- 정예병 (char-elite-soldier)
 - 궁수 (char-h1qygi9o)
 - 가리아의 궁수 (char-hc91dj2)
 - 반란군 사제 (char-h1usvgct)

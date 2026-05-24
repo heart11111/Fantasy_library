@@ -15,12 +15,12 @@ first_seen: "session-036"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1n38m25"
-  - "char-hrvxduz"
+  - "char-eltera-maste"
+  - "char-magnus"
+  - "char-karints"
   - "char-nemo"
-  - "char-hm8rvcj"
-  - "char-hb0qeob"
+  - "char-kaguya"
+  - "char-hekatriel"
   - "char-h1ummuqh"
   - "char-h1rtljvu"
   - "char-hubs176"
@@ -54,12 +54,12 @@ related_events:
 
 ### 캐릭터
 
-- 엘테라 마스테 (char-h1qtvjrj)
-- 매그너스 (char-h1n38m25)
-- 카린츠 (char-hrvxduz)
+- 엘테라 마스테 (char-eltera-maste)
+- 매그너스 (char-magnus)
+- 카린츠 (char-karints)
 - 네모(Nemo) (char-nemo)
-- 카구야 (char-hm8rvcj)
-- 헤카트리엘 (char-hb0qeob)
+- 카구야 (char-kaguya)
+- 헤카트리엘 (char-hekatriel)
 - 세계수의 적 - 카르덴 (char-h1ummuqh)
 - 세계수의 적 전사 (char-h1rtljvu)
 - 세계수의 적 심문관 (char-hubs176)

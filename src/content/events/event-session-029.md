@@ -18,12 +18,12 @@ last_updated: "2026-05-24"
 date_label: "소탕 작전"
 order: 290
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h2kcs0k"
-  - "char-h1u0zhr5"
-  - "char-hy1rn1n"
-  - "char-htaovsh"
-  - "char-h183ytox"
+  - "char-eltera-maste"
+  - "char-lucky"
+  - "char-lavinia"
+  - "char-sargon"
+  - "char-valerius-visconti"
+  - "char-falshu"
   - "char-h4asnhi"
   - "char-hp"
   - "char-h1en8u5x"
@@ -75,12 +75,12 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1qtvjrj | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
-| char-hy1rn1n | 로그 등장 |
-| char-htaovsh | 로그 등장 |
-| char-h183ytox | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-sargon | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
+| char-falshu | 로그 등장 |
 | char-h4asnhi | 로그 등장 |
 | char-hp | 로그 등장 |
 | char-h1en8u5x | 로그 등장 |

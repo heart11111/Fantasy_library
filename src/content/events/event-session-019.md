@@ -18,18 +18,18 @@ last_updated: "2026-05-24"
 date_label: "마키나즈 7 (2)"
 order: 190
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-htaovsh"
-  - "char-h1nkxsjr"
-  - "char-ha7vcln"
-  - "char-hbfjmmh"
+  - "char-lavinia"
+  - "char-valerius-visconti"
+  - "char-demian"
+  - "char-laika"
+  - "char-kaizelin"
   - "char-g"
-  - "char-h1a49coh"
-  - "char-h1rmlpt3"
+  - "char-ain"
+  - "char-makina-dread-wildser"
   - "char-h1v15x37"
-  - "char-h1v8j9jw"
+  - "char-makina-dread-berserker"
   - "char-h1fpybou"
-  - "char-hy80szy"
+  - "char-makina-dread-warrior"
 related_locations:
   - "loc-origin"
   - "loc-city"
@@ -73,18 +73,18 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-htaovsh | 로그 등장 |
-| char-h1nkxsjr | 로그 등장 |
-| char-ha7vcln | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
+| char-demian | 로그 등장 |
+| char-laika | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-g | 로그 등장 |
-| char-h1a49coh | 로그 등장 |
-| char-h1rmlpt3 | 로그 등장 |
+| char-ain | 로그 등장 |
+| char-makina-dread-wildser | 로그 등장 |
 | char-h1v15x37 | 로그 등장 |
-| char-h1v8j9jw | 로그 등장 |
+| char-makina-dread-berserker | 로그 등장 |
 | char-h1fpybou | 로그 등장 |
-| char-hy80szy | 로그 등장 |
+| char-makina-dread-warrior | 로그 등장 |
 
 ## 관련 지역
 

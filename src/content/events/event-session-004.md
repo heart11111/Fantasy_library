@@ -18,15 +18,15 @@ last_updated: "2026-05-24"
 date_label: "더 다크 에이지"
 order: 40
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1u0zhr5"
+  - "char-eltera-maste"
+  - "char-lavinia"
   - "char-nemo"
-  - "char-hm8rvcj"
+  - "char-kaguya"
   - "char-h1092ltt"
   - "char-hv73dq0"
   - "char-h81jx2e"
   - "char-hc5hoop"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-hc2lk13"
   - "char-h1xd1jfv"
   - "char-h1t72b7t"
@@ -73,15 +73,15 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1qtvjrj | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-lavinia | 로그 등장 |
 | char-nemo | 로그 등장 |
-| char-hm8rvcj | 로그 등장 |
+| char-kaguya | 로그 등장 |
 | char-h1092ltt | 로그 등장 |
 | char-hv73dq0 | 로그 등장 |
 | char-h81jx2e | 로그 등장 |
 | char-hc5hoop | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-hc2lk13 | 로그 등장 |
 | char-h1xd1jfv | 로그 등장 |
 | char-h1t72b7t | 로그 등장 |

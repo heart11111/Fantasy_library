@@ -2,7 +2,7 @@
 id: "session-018"
 type: "session"
 name: "마키나즈 5"
-summary: "마키나 드레드의 간부가 있다는 무기 공장을 습격, 그 곳의 리더였던 가이아를 회유에 성공한 여러분은"
+summary: "무기 공장 습격 후 마키나 드레드 간부 가이아를 회유하는 데 성공한다. 기지 귀환 후 레지스탕스 리더 넬피스와 부대장 발로우 사이의 심각한 내부 불화가 드러난다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,18 +15,18 @@ first_seen: "session-018"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1stj4cz"
-  - "char-htaovsh"
-  - "char-hyu8qlb"
-  - "char-h1kockfd"
+  - "char-lavinia"
+  - "char-wolf-ripper"
+  - "char-valerius-visconti"
+  - "char-sierla"
+  - "char-nisha"
   - "char-h135u528"
   - "char-h153y29o"
-  - "char-h1rmlpt3"
-  - "char-h1eazjg1"
+  - "char-makina-dread-wildser"
+  - "char-nelpis"
   - "char-h1b1ydmi"
   - "char-h16kp8cp"
-  - "char-hy80szy"
+  - "char-makina-dread-warrior"
 related_locations:
   []
 related_factions:
@@ -54,18 +54,18 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 갈기갈기 찢는 이리 (char-h1stj4cz)
-- 발레리우스 비스콘티 (char-htaovsh)
-- 시엘라 (char-hyu8qlb)
-- 니샤 (char-h1kockfd)
+- 라비니아 (char-lavinia)
+- 갈기갈기 찢는 이리 (char-wolf-ripper)
+- 발레리우스 비스콘티 (char-valerius-visconti)
+- 시엘라 (char-sierla)
+- 니샤 (char-nisha)
 - 마키나 드레드 -  소우마 (char-h135u528)
 - 마키나 드레드 - 버스터 (char-h153y29o)
-- 마키나 드레드 - 슈팅 와일저 (char-h1rmlpt3)
-- 레지스탕스 리더 - 넬피스 (char-h1eazjg1)
+- 마키나 드레드 - 슈팅 와일저 (char-makina-dread-wildser)
+- 레지스탕스 리더 - 넬피스 (char-nelpis)
 - 마키나즈 상인 (char-h1b1ydmi)
 - 마키나즈 수도승 -  우온 (char-h16kp8cp)
-- 마키나 드레드  - 워리어 (char-hy80szy)
+- 마키나 드레드  - 워리어 (char-makina-dread-warrior)
 
 ### 지역
 

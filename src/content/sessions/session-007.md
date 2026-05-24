@@ -2,7 +2,7 @@
 id: "session-007"
 type: "session"
 name: "더 월드 40 룩스테라-유적 너머의 비밀"
-summary: "붉은 모루 대장간의 대장장이 그림니르의 의뢰를 마치고 수일 후. 오리진에서 생활하던 여러분은 가벼운 몸을 이끌고 중앙 게시판으로 발걸음 했습니다."
+summary: "오리진 중앙 게시판에 올라온 세 건의 의뢰 중 수인족 모험단과 협력하는 유적 탐사를 선택한다. 매그너스, 카구야, 네모, 갈기갈기 찢는 이리 등 새 멤버가 대거 등장한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,14 +15,14 @@ first_seen: "session-007"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1n38m25"
-  - "char-h162wpxf"
-  - "char-h1stj4cz"
+  - "char-magnus"
+  - "char-merak-altemecia"
+  - "char-wolf-ripper"
   - "char-nemo"
-  - "char-hm8rvcj"
+  - "char-kaguya"
   - "char-hmen750"
-  - "char-hb0qeob"
-  - "char-h166ykd7"
+  - "char-hekatriel"
+  - "char-noa-levinos"
   - "char-htwnpd9"
   - "char-h12vepm"
   - "char-htofj1s"
@@ -56,14 +56,14 @@ related_events:
 
 ### 캐릭터
 
-- 매그너스 (char-h1n38m25)
-- 메라크 알테메기아 (char-h162wpxf)
-- 갈기갈기 찢는 이리 (char-h1stj4cz)
+- 매그너스 (char-magnus)
+- 메라크 알테메기아 (char-merak-altemecia)
+- 갈기갈기 찢는 이리 (char-wolf-ripper)
 - 네모(Nemo) (char-nemo)
-- 카구야 (char-hm8rvcj)
+- 카구야 (char-kaguya)
 - 유적 석조 파수병 (char-hmen750)
-- 헤카트리엘 (char-hb0qeob)
-- 노아 레비노스 (char-h166ykd7)
+- 헤카트리엘 (char-hekatriel)
+- 노아 레비노스 (char-noa-levinos)
 - 마가츠키 카스라 (char-htwnpd9)
 - 유적 석조 수호대장 (char-h12vepm)
 - 유적 석조 늑대 (char-htofj1s)

@@ -15,18 +15,18 @@ first_seen: "session-002"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-hutxq0x"
-  - "char-hyu8qlb"
+  - "char-eltera-maste"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-sundae"
+  - "char-sierla"
   - "char-hp"
-  - "char-hb0qeob"
-  - "char-h8shiks"
-  - "char-hqkoaf"
+  - "char-hekatriel"
+  - "char-soldier"
+  - "char-garia"
   - "char-hokdqjn"
-  - "char-h166ykd7"
-  - "char-hyz5kmx"
+  - "char-noa-levinos"
+  - "char-knight"
 related_locations:
   - "loc-origin"
   - "loc-baldurs-gate"
@@ -57,18 +57,18 @@ related_events:
 
 ### 캐릭터
 
-- 엘테라 마스테 (char-h1qtvjrj)
-- 라비니아 (char-h1u0zhr5)
-- 럭키 (char-h2kcs0k)
-- 순대 (char-hutxq0x)
-- 시엘라 (char-hyu8qlb)
+- 엘테라 마스테 (char-eltera-maste)
+- 라비니아 (char-lavinia)
+- 럭키 (char-lucky)
+- 순대 (char-sundae)
+- 시엘라 (char-sierla)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
-- 헤카트리엘 (char-hb0qeob)
-- 병졸 (char-h8shiks)
-- 가리아 (char-hqkoaf)
+- 헤카트리엘 (char-hekatriel)
+- 병졸 (char-soldier)
+- 가리아 (char-garia)
 - 반란군 싸움꾼 (char-hokdqjn)
-- 노아 레비노스 (char-h166ykd7)
-- 기사 (char-hyz5kmx)
+- 노아 레비노스 (char-noa-levinos)
+- 기사 (char-knight)
 
 ### 지역
 

@@ -18,12 +18,12 @@ last_updated: "2026-05-24"
 date_label: "더월드 35 룩스테라-모험의 서막"
 order: 130
 related_characters:
-  - "char-h162wpxf"
-  - "char-h1u0zhr5"
+  - "char-merak-altemecia"
+  - "char-lavinia"
   - "char-hdslylj"
-  - "char-hdknrqz"
-  - "char-hz6cjul"
-  - "char-hb0qeob"
+  - "char-lunasha"
+  - "char-eve"
+  - "char-hekatriel"
   - "char-h13qb48p"
   - "char-h1skfz84"
   - "char-hd11vjr"
@@ -78,12 +78,12 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h162wpxf | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
+| char-merak-altemecia | 로그 등장 |
+| char-lavinia | 로그 등장 |
 | char-hdslylj | 로그 등장 |
-| char-hdknrqz | 로그 등장 |
-| char-hz6cjul | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
+| char-lunasha | 로그 등장 |
+| char-eve | 로그 등장 |
+| char-hekatriel | 로그 등장 |
 | char-h13qb48p | 로그 등장 |
 | char-h1skfz84 | 로그 등장 |
 | char-hd11vjr | 로그 등장 |

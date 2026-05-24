@@ -15,17 +15,17 @@ first_seen: "session-033"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-h1otutgd"
-  - "char-h1etqrq5"
-  - "char-hyu8qlb"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-arsian-eldayne"
+  - "char-fiesta"
+  - "char-sierla"
   - "char-hp"
-  - "char-hbfjmmh"
-  - "char-htmudh7"
+  - "char-kaizelin"
+  - "char-elite-soldier"
   - "char-hyaxs41"
   - "char-h1grh160"
-  - "char-h8shiks"
+  - "char-soldier"
   - "char-hjnu884"
 related_locations:
   - "loc-origin"
@@ -55,17 +55,17 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 럭키 (char-h2kcs0k)
-- 아르시안 엘다인 (char-h1otutgd)
-- 피에스타 (char-h1etqrq5)
-- 시엘라 (char-hyu8qlb)
+- 라비니아 (char-lavinia)
+- 럭키 (char-lucky)
+- 아르시안 엘다인 (char-arsian-eldayne)
+- 피에스타 (char-fiesta)
+- 시엘라 (char-sierla)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
-- 카이젤린 (char-hbfjmmh)
-- 정예병 (char-htmudh7)
+- 카이젤린 (char-kaizelin)
+- 정예병 (char-elite-soldier)
 - 요안 (char-hyaxs41)
 - 요안의 근위병 (char-h1grh160)
-- 병졸 (char-h8shiks)
+- 병졸 (char-soldier)
 - 요안의 호위병 (char-hjnu884)
 
 ### 지역

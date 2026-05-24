@@ -2,7 +2,7 @@
 id: "session-024"
 type: "session"
 name: "마키나즈3"
-summary: "시간이 지나 여러분은 휴식을 취했습니다"
+summary: "이전 작전 후 시엘라와 카이젤린만 레지스탕스에 남아 있다. 후발대로 온 럭키와 라이카가 도착하여 팀을 재편성하고, 리더 넬피스가 지휘를 이어간다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,17 +15,17 @@ first_seen: "session-024"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h2kcs0k"
-  - "char-ha7vcln"
-  - "char-hyu8qlb"
-  - "char-hy80szy"
+  - "char-lucky"
+  - "char-laika"
+  - "char-sierla"
+  - "char-makina-dread-warrior"
   - "char-h96tcky"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-hnsb9s"
-  - "char-h1rmlpt3"
+  - "char-makina-dread-wildser"
   - "char-h1d7fomw"
   - "char-h182hqy6"
-  - "char-h1eazjg1"
+  - "char-nelpis"
   - "char-h1d8tn57"
 related_locations:
   - "loc-origin"
@@ -57,17 +57,17 @@ related_events:
 
 ### 캐릭터
 
-- 럭키 (char-h2kcs0k)
-- 라이카 (char-ha7vcln)
-- 시엘라 (char-hyu8qlb)
-- 마키나 드레드  - 워리어 (char-hy80szy)
+- 럭키 (char-lucky)
+- 라이카 (char-laika)
+- 시엘라 (char-sierla)
+- 마키나 드레드  - 워리어 (char-makina-dread-warrior)
 - 레지스탕스 부대장 - 발로우 (char-h96tcky)
-- 카이젤린 (char-hbfjmmh)
+- 카이젤린 (char-kaizelin)
 - 마키나 드레드 넘버즈 - 그랜드 (char-hnsb9s)
-- 마키나 드레드 - 슈팅 와일저 (char-h1rmlpt3)
+- 마키나 드레드 - 슈팅 와일저 (char-makina-dread-wildser)
 - 마키나 드레드 - 페인 매지션 (char-h1d7fomw)
 - 레지스탕스 부대장 - 이세느 (char-h182hqy6)
-- 레지스탕스 리더 - 넬피스 (char-h1eazjg1)
+- 레지스탕스 리더 - 넬피스 (char-nelpis)
 - 레지스탕스 병사 (char-h1d8tn57)
 
 ### 지역

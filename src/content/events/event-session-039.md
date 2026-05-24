@@ -18,11 +18,11 @@ last_updated: "2026-05-24"
 date_label: "fvtt-log-Mon-Mar-16-2026"
 order: 390
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1otutgd"
-  - "char-ha7vcln"
-  - "char-hyu8qlb"
-  - "char-hy1rn1n"
+  - "char-lavinia"
+  - "char-arsian-eldayne"
+  - "char-laika"
+  - "char-sierla"
+  - "char-sargon"
   - "char-h13kiv25"
   - "char-h9nszo7"
   - "char-gm"
@@ -71,11 +71,11 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h1otutgd | 로그 등장 |
-| char-ha7vcln | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
-| char-hy1rn1n | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-arsian-eldayne | 로그 등장 |
+| char-laika | 로그 등장 |
+| char-sierla | 로그 등장 |
+| char-sargon | 로그 등장 |
 | char-h13kiv25 | 로그 등장 |
 | char-h9nszo7 | 로그 등장 |
 | char-gm | 로그 등장 |

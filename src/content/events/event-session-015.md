@@ -18,11 +18,11 @@ last_updated: "2026-05-24"
 date_label: "드워프 유적"
 order: 150
 related_characters:
-  - "char-h1otutgd"
-  - "char-h1u0zhr5"
-  - "char-h1stj4cz"
-  - "char-hy1rn1n"
-  - "char-hyu8qlb"
+  - "char-arsian-eldayne"
+  - "char-lavinia"
+  - "char-wolf-ripper"
+  - "char-sargon"
+  - "char-sierla"
   - "char-hp"
   - "char-h9gfne5"
   - "char-hkr0t6d"
@@ -75,11 +75,11 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1otutgd | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
-| char-h1stj4cz | 로그 등장 |
-| char-hy1rn1n | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
+| char-arsian-eldayne | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-wolf-ripper | 로그 등장 |
+| char-sargon | 로그 등장 |
+| char-sierla | 로그 등장 |
 | char-hp | 로그 등장 |
 | char-h9gfne5 | 로그 등장 |
 | char-hkr0t6d | 로그 등장 |

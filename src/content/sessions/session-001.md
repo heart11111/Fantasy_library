@@ -15,15 +15,14 @@ first_seen: "session-001"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1stj4cz"
-  - "char-h2kcs0k"
-  - "char-h183ytox"
-  - "char-h8r7ikg"
+  - "char-lavinia"
+  - "char-wolf-ripper"
+  - "char-lucky"
+  - "char-falshu"
   - "char-hp"
-  - "char-hbfjmmh"
-  - "char-hbt6mg4"
-  - "char-h18damj9"
+  - "char-kaizelin"
+  - "char-drow-archer"
+  - "char-drow-warrior"
   - "char-hx18tkj"
   - "char-h1q8z5nq"
   - "char-hdj26qh"
@@ -57,15 +56,15 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 갈기갈기 찢는 이리 (char-h1stj4cz)
-- 럭키 (char-h2kcs0k)
-- 팔슈 (char-h183ytox)
+- 라비니아 (char-lavinia)
+- 갈기갈기 찢는 이리 (char-wolf-ripper)
+- 럭키 (char-lucky)
+- 팔슈 (char-falshu)
 - 자이릭스 에테리온 (char-h8r7ikg)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
-- 카이젤린 (char-hbfjmmh)
-- 드로우 궁수 (char-hbt6mg4)
-- 드로우 전사 (char-h18damj9)
+- 카이젤린 (char-kaizelin)
+- 드로우 궁수 (char-drow-archer)
+- 드로우 전사 (char-drow-warrior)
 - 엄버 헐크 (char-hx18tkj)
 - 드로우 마법사 (char-h1q8z5nq)
 - 드로우 졸개 (char-hdj26qh)

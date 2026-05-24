@@ -18,17 +18,17 @@ last_updated: "2026-05-24"
 date_label: "Tue-Apr-07-2026"
 order: 420
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1a49coh"
-  - "char-h1qtvjrj"
-  - "char-hyu8qlb"
-  - "char-ha7vcln"
-  - "char-htaovsh"
+  - "char-lavinia"
+  - "char-ain"
+  - "char-eltera-maste"
+  - "char-sierla"
+  - "char-laika"
+  - "char-valerius-visconti"
   - "char-h1jf6pbq"
   - "char-huqi4jn"
   - "char-h1vcu60r"
   - "char-h10fpyv9"
-  - "char-hrvxduz"
+  - "char-karints"
   - "char-hhalxp7"
 related_locations:
   - "loc-origin"
@@ -73,17 +73,17 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h1a49coh | 로그 등장 |
-| char-h1qtvjrj | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
-| char-ha7vcln | 로그 등장 |
-| char-htaovsh | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-ain | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-sierla | 로그 등장 |
+| char-laika | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
 | char-h1jf6pbq | 로그 등장 |
 | char-huqi4jn | 로그 등장 |
 | char-h1vcu60r | 로그 등장 |
 | char-h10fpyv9 | 로그 등장 |
-| char-hrvxduz | 로그 등장 |
+| char-karints | 로그 등장 |
 | char-hhalxp7 | 로그 등장 |
 
 ## 관련 지역

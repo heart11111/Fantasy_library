@@ -15,11 +15,11 @@ first_seen: "session-015"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1otutgd"
-  - "char-h1u0zhr5"
-  - "char-h1stj4cz"
-  - "char-hy1rn1n"
-  - "char-hyu8qlb"
+  - "char-arsian-eldayne"
+  - "char-lavinia"
+  - "char-wolf-ripper"
+  - "char-sargon"
+  - "char-sierla"
   - "char-hp"
   - "char-h9gfne5"
   - "char-hkr0t6d"
@@ -56,11 +56,11 @@ related_events:
 
 ### 캐릭터
 
-- 아르시안 엘다인 (char-h1otutgd)
-- 라비니아 (char-h1u0zhr5)
-- 갈기갈기 찢는 이리 (char-h1stj4cz)
-- 사르곤 (char-hy1rn1n)
-- 시엘라 (char-hyu8qlb)
+- 아르시안 엘다인 (char-arsian-eldayne)
+- 라비니아 (char-lavinia)
+- 갈기갈기 찢는 이리 (char-wolf-ripper)
+- 사르곤 (char-sargon)
+- 시엘라 (char-sierla)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
 - 무법자 두목 (char-h9gfne5)
 - 군인 (char-hkr0t6d)

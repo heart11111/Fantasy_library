@@ -18,15 +18,15 @@ last_updated: "2026-05-24"
 date_label: "더 월드 47 룩스테라-연구자료 호송대를 찾아서"
 order: 90
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-hvqt0o9"
-  - "char-h1stj4cz"
-  - "char-hm8rvcj"
+  - "char-eltera-maste"
+  - "char-anton"
+  - "char-wolf-ripper"
+  - "char-kaguya"
   - "char-nemo"
   - "char-h12u250w"
   - "char-h19y1aet"
   - "char-hoqk92t"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-h3c3etx"
   - "char-hteon8i"
   - "char-h9ya317"
@@ -75,15 +75,15 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1qtvjrj | 로그 등장 |
-| char-hvqt0o9 | 로그 등장 |
-| char-h1stj4cz | 로그 등장 |
-| char-hm8rvcj | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-anton | 로그 등장 |
+| char-wolf-ripper | 로그 등장 |
+| char-kaguya | 로그 등장 |
 | char-nemo | 로그 등장 |
 | char-h12u250w | 로그 등장 |
 | char-h19y1aet | 로그 등장 |
 | char-hoqk92t | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-h3c3etx | 로그 등장 |
 | char-hteon8i | 로그 등장 |
 | char-h9ya317 | 로그 등장 |

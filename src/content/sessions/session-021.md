@@ -2,7 +2,7 @@
 id: "session-021"
 type: "session"
 name: "마키나즈 8"
-summary: "타워즈 시티의 안토니오를 쓰러트린 여러분은 지친 몸을 이끌고 다시 레지스탕스 기지로 돌아왔습니다"
+summary: "타워즈 시티의 마키나 드레드 간부 안토니오를 격퇴한다. 기지 귀환 후 오리진에서 파견된 새 용병들—카린츠 일행—이 레지스탕스에 합류한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,15 +15,15 @@ first_seen: "session-021"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
+  - "char-lavinia"
   - "char-nemo"
-  - "char-hrvxduz"
-  - "char-hz6cjul"
+  - "char-karints"
+  - "char-eve"
   - "char-hc52cu9"
   - "char-h1jayx8w"
   - "char-hvihm9"
   - "char-htydczh"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-h1fr5nov"
   - "char-h1xyqag"
   - "char-h1fpn5an"
@@ -55,15 +55,15 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
+- 라비니아 (char-lavinia)
 - 네모(Nemo) (char-nemo)
-- 카린츠 (char-hrvxduz)
-- 이브 (char-hz6cjul)
+- 카린츠 (char-karints)
+- 이브 (char-eve)
 - 에레보른 (char-hc52cu9)
 - 마키나 드레드 넘버즈 - 사미엔 (char-h1jayx8w)
 - 라이딩 아머 - 지상용 (char-hvihm9)
 - 라이딩 아머 - 비행용 (char-htydczh)
-- 카이젤린 (char-hbfjmmh)
+- 카이젤린 (char-kaizelin)
 - 카이저 (char-h1fr5nov)
 - 오리진 경비대장 - 카이로스 (char-h1xyqag)
 - 네벨스타인 (char-h1fpn5an)

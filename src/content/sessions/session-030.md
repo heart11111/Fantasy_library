@@ -15,13 +15,13 @@ first_seen: "session-030"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1qtvjrj"
-  - "char-h1stj4cz"
+  - "char-lavinia"
+  - "char-eltera-maste"
+  - "char-wolf-ripper"
   - "char-nemo"
-  - "char-hm8rvcj"
+  - "char-kaguya"
   - "char-hyciw7o"
-  - "char-hb0qeob"
+  - "char-hekatriel"
   - "char-ho0hq4n"
   - "char-h6sbsi4"
   - "char-huqjnoo"
@@ -55,13 +55,13 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 엘테라 마스테 (char-h1qtvjrj)
-- 갈기갈기 찢는 이리 (char-h1stj4cz)
+- 라비니아 (char-lavinia)
+- 엘테라 마스테 (char-eltera-maste)
+- 갈기갈기 찢는 이리 (char-wolf-ripper)
 - 네모(Nemo) (char-nemo)
-- 카구야 (char-hm8rvcj)
+- 카구야 (char-kaguya)
 - ??? (char-hyciw7o)
-- 헤카트리엘 (char-hb0qeob)
+- 헤카트리엘 (char-hekatriel)
 - 잡병 (char-ho0hq4n)
 - 광신자 (char-h6sbsi4)
 - 교구장 아로나르 (char-huqjnoo)

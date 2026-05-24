@@ -2,7 +2,7 @@
 id: "session-025"
 type: "session"
 name: "마키나즈6"
-summary: "럭키와 안톤이 없었을 때"
+summary: "럭키·안톤 부재 중, 나머지 팀원들이 루오 수도원에서 마키나 드레드에 쫓기던 넬피스를 체포해 귀환한다. 귀환 도중 럭키·안톤과 기적적으로 합류한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,18 +15,18 @@ first_seen: "session-025"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-hyu8qlb"
-  - "char-h1stj4cz"
-  - "char-h1kockfd"
-  - "char-htaovsh"
-  - "char-hvqt0o9"
-  - "char-h1v8j9jw"
-  - "char-hy80szy"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-sierla"
+  - "char-wolf-ripper"
+  - "char-nisha"
+  - "char-valerius-visconti"
+  - "char-anton"
+  - "char-makina-dread-berserker"
+  - "char-makina-dread-warrior"
   - "char-h19hvhs9"
   - "char-h1h1j3ik"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
 related_locations:
   []
 related_factions:
@@ -53,18 +53,18 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 럭키 (char-h2kcs0k)
-- 시엘라 (char-hyu8qlb)
-- 갈기갈기 찢는 이리 (char-h1stj4cz)
-- 니샤 (char-h1kockfd)
-- 발레리우스 비스콘티 (char-htaovsh)
-- 안톤 (char-hvqt0o9)
-- 마키나 드레드 - 서든 버서커 (char-h1v8j9jw)
-- 마키나 드레드  - 워리어 (char-hy80szy)
+- 라비니아 (char-lavinia)
+- 럭키 (char-lucky)
+- 시엘라 (char-sierla)
+- 갈기갈기 찢는 이리 (char-wolf-ripper)
+- 니샤 (char-nisha)
+- 발레리우스 비스콘티 (char-valerius-visconti)
+- 안톤 (char-anton)
+- 마키나 드레드 - 서든 버서커 (char-makina-dread-berserker)
+- 마키나 드레드  - 워리어 (char-makina-dread-warrior)
 - 마키나 드레드 넘버즈 - 서든? (char-h19hvhs9)
 - 마키나 드레드 넘버즈 - 서든 (char-h1h1j3ik)
-- 카이젤린 (char-hbfjmmh)
+- 카이젤린 (char-kaizelin)
 
 ### 지역
 

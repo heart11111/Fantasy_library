@@ -18,13 +18,13 @@ last_updated: "2026-05-24"
 date_label: "실종 아동 찾기"
 order: 300
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1qtvjrj"
-  - "char-h1stj4cz"
+  - "char-lavinia"
+  - "char-eltera-maste"
+  - "char-wolf-ripper"
   - "char-nemo"
-  - "char-hm8rvcj"
+  - "char-kaguya"
   - "char-hyciw7o"
-  - "char-hb0qeob"
+  - "char-hekatriel"
   - "char-ho0hq4n"
   - "char-h6sbsi4"
   - "char-huqjnoo"
@@ -74,13 +74,13 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h1qtvjrj | 로그 등장 |
-| char-h1stj4cz | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-wolf-ripper | 로그 등장 |
 | char-nemo | 로그 등장 |
-| char-hm8rvcj | 로그 등장 |
+| char-kaguya | 로그 등장 |
 | char-hyciw7o | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
+| char-hekatriel | 로그 등장 |
 | char-ho0hq4n | 로그 등장 |
 | char-h6sbsi4 | 로그 등장 |
 | char-huqjnoo | 로그 등장 |

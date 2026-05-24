@@ -2,7 +2,7 @@
 id: "session-022"
 type: "session"
 name: "마키나즈 9"
-summary: "사미엔이라는 간부까지 쓰러트린 여러분은"
+summary: "마지막 간부 사미엔을 격파한다. 이제 마키나 드레드에 간부가 사실상 전멸했지만, 총수는 여전히 모습을 드러내지 않아 불안감이 남는다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,14 +15,14 @@ first_seen: "session-022"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1stj4cz"
-  - "char-hm8rvcj"
+  - "char-lavinia"
+  - "char-wolf-ripper"
+  - "char-kaguya"
   - "char-nemo"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-h1v1jjf6"
-  - "char-h1rmlpt3"
-  - "char-h1v8j9jw"
+  - "char-makina-dread-wildser"
+  - "char-makina-dread-berserker"
   - "char-h1fykrcc"
   - "char-h1ux4wb6"
   - "char-h1eqkocw"
@@ -54,14 +54,14 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 갈기갈기 찢는 이리 (char-h1stj4cz)
-- 카구야 (char-hm8rvcj)
+- 라비니아 (char-lavinia)
+- 갈기갈기 찢는 이리 (char-wolf-ripper)
+- 카구야 (char-kaguya)
 - 네모(Nemo) (char-nemo)
-- 카이젤린 (char-hbfjmmh)
+- 카이젤린 (char-kaizelin)
 - 마키나 드레드 로얄 - 오르곤라이트 퍼니셔 (char-h1v1jjf6)
-- 마키나 드레드 - 슈팅 와일저 (char-h1rmlpt3)
-- 마키나 드레드 - 서든 버서커 (char-h1v8j9jw)
+- 마키나 드레드 - 슈팅 와일저 (char-makina-dread-wildser)
+- 마키나 드레드 - 서든 버서커 (char-makina-dread-berserker)
 - 마키나 드레드 - 엘리트 캐논 (char-h1fykrcc)
 - 마키나 드레드 로얄 - 오르곤라이트 드라군 (char-h1ux4wb6)
 - 이레귤러 헌터 - 슈라이그 (char-h1eqkocw)

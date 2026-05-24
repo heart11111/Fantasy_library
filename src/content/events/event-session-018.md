@@ -18,18 +18,18 @@ last_updated: "2026-05-24"
 date_label: "마키나즈 5"
 order: 180
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1stj4cz"
-  - "char-htaovsh"
-  - "char-hyu8qlb"
-  - "char-h1kockfd"
+  - "char-lavinia"
+  - "char-wolf-ripper"
+  - "char-valerius-visconti"
+  - "char-sierla"
+  - "char-nisha"
   - "char-h135u528"
   - "char-h153y29o"
-  - "char-h1rmlpt3"
-  - "char-h1eazjg1"
+  - "char-makina-dread-wildser"
+  - "char-nelpis"
   - "char-h1b1ydmi"
   - "char-h16kp8cp"
-  - "char-hy80szy"
+  - "char-makina-dread-warrior"
 related_locations:
   []
 related_factions:
@@ -73,18 +73,18 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h1stj4cz | 로그 등장 |
-| char-htaovsh | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
-| char-h1kockfd | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-wolf-ripper | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
+| char-sierla | 로그 등장 |
+| char-nisha | 로그 등장 |
 | char-h135u528 | 로그 등장 |
 | char-h153y29o | 로그 등장 |
-| char-h1rmlpt3 | 로그 등장 |
-| char-h1eazjg1 | 로그 등장 |
+| char-makina-dread-wildser | 로그 등장 |
+| char-nelpis | 로그 등장 |
 | char-h1b1ydmi | 로그 등장 |
 | char-h16kp8cp | 로그 등장 |
-| char-hy80szy | 로그 등장 |
+| char-makina-dread-warrior | 로그 등장 |
 
 ## 관련 지역
 

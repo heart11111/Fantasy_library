@@ -19,17 +19,17 @@ date_label: "더월드 33 룩스테라-붉은 닻의 심지"
 order: 120
 related_characters:
   - "char-hdslylj"
-  - "char-hz6cjul"
+  - "char-eve"
   - "char-h1ckg774"
-  - "char-hdknrqz"
+  - "char-lunasha"
   - "char-hut16sk"
-  - "char-hb0qeob"
+  - "char-hekatriel"
   - "char-h5vnc7x"
   - "char-h15exinr"
   - "char-h2qidky"
   - "char-h1np88gm"
   - "char-nemo"
-  - "char-h1hn5m4l"
+  - "char-levinos"
 related_locations:
   - "loc-luxterra"
   - "loc-city"
@@ -76,17 +76,17 @@ consequences:
 | 인물 | 역할 |
 |---|---|
 | char-hdslylj | 로그 등장 |
-| char-hz6cjul | 로그 등장 |
+| char-eve | 로그 등장 |
 | char-h1ckg774 | 로그 등장 |
-| char-hdknrqz | 로그 등장 |
+| char-lunasha | 로그 등장 |
 | char-hut16sk | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
+| char-hekatriel | 로그 등장 |
 | char-h5vnc7x | 로그 등장 |
 | char-h15exinr | 로그 등장 |
 | char-h2qidky | 로그 등장 |
 | char-h1np88gm | 로그 등장 |
 | char-nemo | 로그 등장 |
-| char-h1hn5m4l | 로그 등장 |
+| char-levinos | 로그 등장 |
 
 ## 관련 지역
 

@@ -15,16 +15,16 @@ first_seen: "session-003"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1otutgd"
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-htaovsh"
-  - "char-h1etqrq5"
+  - "char-arsian-eldayne"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-valerius-visconti"
+  - "char-fiesta"
   - "char-hp"
   - "char-hmphoje"
-  - "char-hqkoaf"
+  - "char-garia"
   - "char-h1s41l85"
-  - "char-hbt6mg4"
+  - "char-drow-archer"
   - "char-h1en8u5x"
   - "char-x"
 related_locations:
@@ -59,16 +59,16 @@ Automated welcome message
 
 ### 캐릭터
 
-- 아르시안 엘다인 (char-h1otutgd)
-- 라비니아 (char-h1u0zhr5)
-- 럭키 (char-h2kcs0k)
-- 발레리우스 비스콘티 (char-htaovsh)
-- 피에스타 (char-h1etqrq5)
+- 아르시안 엘다인 (char-arsian-eldayne)
+- 라비니아 (char-lavinia)
+- 럭키 (char-lucky)
+- 발레리우스 비스콘티 (char-valerius-visconti)
+- 피에스타 (char-fiesta)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
 - 조사대장 (char-hmphoje)
-- 가리아 (char-hqkoaf)
+- 가리아 (char-garia)
 - 드라이더 (char-h1s41l85)
-- 드로우 궁수 (char-hbt6mg4)
+- 드로우 궁수 (char-drow-archer)
 - 쭉정이 (char-h1en8u5x)
 - x (char-x)
 

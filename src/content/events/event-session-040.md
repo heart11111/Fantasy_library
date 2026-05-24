@@ -18,13 +18,13 @@ last_updated: "2026-05-24"
 date_label: "fvtt-log-Thu-Mar-05-2026"
 order: 400
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-h1otutgd"
-  - "char-ha7vcln"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-arsian-eldayne"
+  - "char-laika"
   - "char-hsq3s5x"
-  - "char-hyu8qlb"
-  - "char-hbfjmmh"
+  - "char-sierla"
+  - "char-kaizelin"
   - "char-helmed-horror"
   - "char-hq5uv6r"
   - "char-hldwpef"
@@ -75,13 +75,13 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-h1otutgd | 로그 등장 |
-| char-ha7vcln | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-arsian-eldayne | 로그 등장 |
+| char-laika | 로그 등장 |
 | char-hsq3s5x | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-sierla | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-helmed-horror | 로그 등장 |
 | char-hq5uv6r | 로그 등장 |
 | char-hldwpef | 로그 등장 |

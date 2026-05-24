@@ -18,17 +18,17 @@ last_updated: "2026-05-24"
 date_label: "더월드 30 룩스테라-해골의 뒤에 보이는 것은"
 order: 110
 related_characters:
-  - "char-h162wpxf"
-  - "char-ha7vcln"
-  - "char-h1nkxsjr"
-  - "char-hdknrqz"
-  - "char-h1a49coh"
-  - "char-hb0qeob"
+  - "char-merak-altemecia"
+  - "char-laika"
+  - "char-demian"
+  - "char-lunasha"
+  - "char-ain"
+  - "char-hekatriel"
   - "char-h1s1hzsf"
   - "char-h17ewz3c"
-  - "char-h1hn5m4l"
+  - "char-levinos"
   - "char-h5vnc7x"
-  - "char-h1psx9jt"
+  - "char-arin"
   - "char-h2qidky"
 related_locations:
   - "loc-luxterra"
@@ -77,17 +77,17 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h162wpxf | 로그 등장 |
-| char-ha7vcln | 로그 등장 |
-| char-h1nkxsjr | 로그 등장 |
-| char-hdknrqz | 로그 등장 |
-| char-h1a49coh | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
+| char-merak-altemecia | 로그 등장 |
+| char-laika | 로그 등장 |
+| char-demian | 로그 등장 |
+| char-lunasha | 로그 등장 |
+| char-ain | 로그 등장 |
+| char-hekatriel | 로그 등장 |
 | char-h1s1hzsf | 로그 등장 |
 | char-h17ewz3c | 로그 등장 |
-| char-h1hn5m4l | 로그 등장 |
+| char-levinos | 로그 등장 |
 | char-h5vnc7x | 로그 등장 |
-| char-h1psx9jt | 로그 등장 |
+| char-arin | 로그 등장 |
 | char-h2qidky | 로그 등장 |
 
 ## 관련 지역

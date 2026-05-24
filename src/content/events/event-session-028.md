@@ -18,18 +18,18 @@ last_updated: "2026-05-24"
 date_label: "산적 토벌"
 order: 280
 related_characters:
-  - "char-h1otutgd"
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
+  - "char-arsian-eldayne"
+  - "char-lavinia"
+  - "char-lucky"
   - "char-hc52cu9"
   - "char-hp"
   - "char-hc91dj2"
-  - "char-htmudh7"
+  - "char-elite-soldier"
   - "char-hk4q1d0"
   - "char-hkr0t6d"
   - "char-h1azy6yd"
   - "char-h15me4b3"
-  - "char-hqkoaf"
+  - "char-garia"
 related_locations:
   - "loc-origin"
   - "loc-baldurs-gate"
@@ -75,18 +75,18 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1otutgd | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
+| char-arsian-eldayne | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-lucky | 로그 등장 |
 | char-hc52cu9 | 로그 등장 |
 | char-hp | 로그 등장 |
 | char-hc91dj2 | 로그 등장 |
-| char-htmudh7 | 로그 등장 |
+| char-elite-soldier | 로그 등장 |
 | char-hk4q1d0 | 로그 등장 |
 | char-hkr0t6d | 로그 등장 |
 | char-h1azy6yd | 로그 등장 |
 | char-h15me4b3 | 로그 등장 |
-| char-hqkoaf | 로그 등장 |
+| char-garia | 로그 등장 |
 
 ## 관련 지역
 

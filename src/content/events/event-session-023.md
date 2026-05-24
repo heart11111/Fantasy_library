@@ -18,16 +18,16 @@ last_updated: "2026-05-24"
 date_label: "마키나즈2"
 order: 230
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-htaovsh"
-  - "char-h1rmlpt3"
-  - "char-h1stj4cz"
-  - "char-hyu8qlb"
-  - "char-hvqt0o9"
-  - "char-hy80szy"
-  - "char-hbfjmmh"
+  - "char-lavinia"
+  - "char-valerius-visconti"
+  - "char-makina-dread-wildser"
+  - "char-wolf-ripper"
+  - "char-sierla"
+  - "char-anton"
+  - "char-makina-dread-warrior"
+  - "char-kaizelin"
   - "char-h1v15x37"
-  - "char-h1eazjg1"
+  - "char-nelpis"
   - "char-h1d8tn57"
   - "char-hpchwsv"
 related_locations:
@@ -74,16 +74,16 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-htaovsh | 로그 등장 |
-| char-h1rmlpt3 | 로그 등장 |
-| char-h1stj4cz | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
-| char-hvqt0o9 | 로그 등장 |
-| char-hy80szy | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
+| char-makina-dread-wildser | 로그 등장 |
+| char-wolf-ripper | 로그 등장 |
+| char-sierla | 로그 등장 |
+| char-anton | 로그 등장 |
+| char-makina-dread-warrior | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-h1v15x37 | 로그 등장 |
-| char-h1eazjg1 | 로그 등장 |
+| char-nelpis | 로그 등장 |
 | char-h1d8tn57 | 로그 등장 |
 | char-hpchwsv | 로그 등장 |
 

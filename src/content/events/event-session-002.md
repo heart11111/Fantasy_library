@@ -18,18 +18,18 @@ last_updated: "2026-05-24"
 date_label: "궁지에 몰린 쥐"
 order: 20
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-hutxq0x"
-  - "char-hyu8qlb"
+  - "char-eltera-maste"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-sundae"
+  - "char-sierla"
   - "char-hp"
-  - "char-hb0qeob"
-  - "char-h8shiks"
-  - "char-hqkoaf"
+  - "char-hekatriel"
+  - "char-soldier"
+  - "char-garia"
   - "char-hokdqjn"
-  - "char-h166ykd7"
-  - "char-hyz5kmx"
+  - "char-noa-levinos"
+  - "char-knight"
 related_locations:
   - "loc-origin"
   - "loc-baldurs-gate"
@@ -76,18 +76,18 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1qtvjrj | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-hutxq0x | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-sundae | 로그 등장 |
+| char-sierla | 로그 등장 |
 | char-hp | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
-| char-h8shiks | 로그 등장 |
-| char-hqkoaf | 로그 등장 |
+| char-hekatriel | 로그 등장 |
+| char-soldier | 로그 등장 |
+| char-garia | 로그 등장 |
 | char-hokdqjn | 로그 등장 |
-| char-h166ykd7 | 로그 등장 |
-| char-hyz5kmx | 로그 등장 |
+| char-noa-levinos | 로그 등장 |
+| char-knight | 로그 등장 |
 
 ## 관련 지역
 

@@ -15,18 +15,18 @@ first_seen: "session-028"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1otutgd"
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
+  - "char-arsian-eldayne"
+  - "char-lavinia"
+  - "char-lucky"
   - "char-hc52cu9"
   - "char-hp"
   - "char-hc91dj2"
-  - "char-htmudh7"
+  - "char-elite-soldier"
   - "char-hk4q1d0"
   - "char-hkr0t6d"
   - "char-h1azy6yd"
   - "char-h15me4b3"
-  - "char-hqkoaf"
+  - "char-garia"
 related_locations:
   - "loc-origin"
   - "loc-baldurs-gate"
@@ -56,18 +56,18 @@ related_events:
 
 ### 캐릭터
 
-- 아르시안 엘다인 (char-h1otutgd)
-- 라비니아 (char-h1u0zhr5)
-- 럭키 (char-h2kcs0k)
+- 아르시안 엘다인 (char-arsian-eldayne)
+- 라비니아 (char-lavinia)
+- 럭키 (char-lucky)
 - 에레보른 (char-hc52cu9)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
 - 가리아의 궁수 (char-hc91dj2)
-- 정예병 (char-htmudh7)
+- 정예병 (char-elite-soldier)
 - 관문 수비대장 (char-hk4q1d0)
 - 군인 (char-hkr0t6d)
 - 거대 유인원 (char-h1azy6yd)
 - 유인원 (char-h15me4b3)
-- 가리아 (char-hqkoaf)
+- 가리아 (char-garia)
 
 ### 지역
 

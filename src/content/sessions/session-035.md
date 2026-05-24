@@ -15,12 +15,12 @@ first_seen: "session-035"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-hutxq0x"
-  - "char-hrvxduz"
-  - "char-hm8rvcj"
-  - "char-h1n38m25"
-  - "char-hb0qeob"
+  - "char-eltera-maste"
+  - "char-sundae"
+  - "char-karints"
+  - "char-kaguya"
+  - "char-magnus"
+  - "char-hekatriel"
   - "char-hp"
   - "char-hyqprjc"
   - "char-h1a0thz2"
@@ -55,12 +55,12 @@ related_events:
 
 ### 캐릭터
 
-- 엘테라 마스테 (char-h1qtvjrj)
-- 순대 (char-hutxq0x)
-- 카린츠 (char-hrvxduz)
-- 카구야 (char-hm8rvcj)
-- 매그너스 (char-h1n38m25)
-- 헤카트리엘 (char-hb0qeob)
+- 엘테라 마스테 (char-eltera-maste)
+- 순대 (char-sundae)
+- 카린츠 (char-karints)
+- 카구야 (char-kaguya)
+- 매그너스 (char-magnus)
+- 헤카트리엘 (char-hekatriel)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
 - 세계수의 적 잡병 (char-hyqprjc)
 - 세계수의 적 기사 (char-h1a0thz2)

@@ -2,7 +2,7 @@
 id: "session-023"
 type: "session"
 name: "마키나즈2"
-summary: "[마키나 드레드]"
+summary: "마키나 드레드가 각지에서 봉기·살인·테러를 일으킨다는 정보가 유입된다. 경비대장 카이로스가 카이젤린·안톤·갈기갈기 찢는 이리를 추가 파견해 레지스탕스 전력을 강화한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,16 +15,16 @@ first_seen: "session-023"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-htaovsh"
-  - "char-h1rmlpt3"
-  - "char-h1stj4cz"
-  - "char-hyu8qlb"
-  - "char-hvqt0o9"
-  - "char-hy80szy"
-  - "char-hbfjmmh"
+  - "char-lavinia"
+  - "char-valerius-visconti"
+  - "char-makina-dread-wildser"
+  - "char-wolf-ripper"
+  - "char-sierla"
+  - "char-anton"
+  - "char-makina-dread-warrior"
+  - "char-kaizelin"
   - "char-h1v15x37"
-  - "char-h1eazjg1"
+  - "char-nelpis"
   - "char-h1d8tn57"
   - "char-hpchwsv"
 related_locations:
@@ -55,16 +55,16 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 발레리우스 비스콘티 (char-htaovsh)
-- 마키나 드레드 - 슈팅 와일저 (char-h1rmlpt3)
-- 갈기갈기 찢는 이리 (char-h1stj4cz)
-- 시엘라 (char-hyu8qlb)
-- 안톤 (char-hvqt0o9)
-- 마키나 드레드  - 워리어 (char-hy80szy)
-- 카이젤린 (char-hbfjmmh)
+- 라비니아 (char-lavinia)
+- 발레리우스 비스콘티 (char-valerius-visconti)
+- 마키나 드레드 - 슈팅 와일저 (char-makina-dread-wildser)
+- 갈기갈기 찢는 이리 (char-wolf-ripper)
+- 시엘라 (char-sierla)
+- 안톤 (char-anton)
+- 마키나 드레드  - 워리어 (char-makina-dread-warrior)
+- 카이젤린 (char-kaizelin)
 - 마키나 드레드 - 빅 실드너 (char-h1v15x37)
-- 레지스탕스 리더 - 넬피스 (char-h1eazjg1)
+- 레지스탕스 리더 - 넬피스 (char-nelpis)
 - 레지스탕스 병사 (char-h1d8tn57)
 - 마키나 드레드 - 리저렉셔너 (char-hpchwsv)
 

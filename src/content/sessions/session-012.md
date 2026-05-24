@@ -2,7 +2,7 @@
 id: "session-012"
 type: "session"
 name: "더월드 33 룩스테라-붉은 닻의 심지"
-summary: "지금까지의 룩스테라 스토리: 룩스테라에 본격적으로 발을 디딘 여러분. 이 신비로운 룩스테라를 구석 구석 탐험하기 위해서는 모험가 자격이 필요했다."
+summary: "붉은 닻 도적단이 숨겨둔 비밀 지하 동굴에 진입한다. 피 비린내와 비명 소리, 검이 부딪히는 소리가 가득한 소지옥 같은 현장에서 파티는 안쪽을 향해 달려간다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -16,17 +16,17 @@ last_updated: "2026-05-24"
 date_played: ""
 related_characters:
   - "char-hdslylj"
-  - "char-hz6cjul"
+  - "char-eve"
   - "char-h1ckg774"
-  - "char-hdknrqz"
+  - "char-lunasha"
   - "char-hut16sk"
-  - "char-hb0qeob"
+  - "char-hekatriel"
   - "char-h5vnc7x"
   - "char-h15exinr"
   - "char-h2qidky"
   - "char-h1np88gm"
   - "char-nemo"
-  - "char-h1hn5m4l"
+  - "char-levinos"
 related_locations:
   - "loc-luxterra"
   - "loc-city"
@@ -57,17 +57,17 @@ related_events:
 ### 캐릭터
 
 - 지크프리드 (char-hdslylj)
-- 이브 (char-hz6cjul)
+- 이브 (char-eve)
 - 샤자르(네모) (char-h1ckg774)
-- 루나샤 (char-hdknrqz)
+- 루나샤 (char-lunasha)
 - 붉은 닻 저격수 (char-hut16sk)
-- 헤카트리엘 (char-hb0qeob)
+- 헤카트리엘 (char-hekatriel)
 - 붉은 닻 전투원 (char-h5vnc7x)
 - 붉은 닻 저거너트 (char-h15exinr)
 - 붉은 닻 창술사 (char-h2qidky)
 - 촌장 아카이럼 (char-h1np88gm)
 - 네모(Nemo) (char-nemo)
-- 레비노스 (char-h1hn5m4l)
+- 레비노스 (char-levinos)
 
 ### 지역
 

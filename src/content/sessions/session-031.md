@@ -15,14 +15,14 @@ first_seen: "session-031"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-h1etqrq5"
+  - "char-eltera-maste"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-fiesta"
   - "char-hp"
-  - "char-hy1rn1n"
+  - "char-sargon"
   - "char-gargoyle"
-  - "char-h18damj9"
+  - "char-drow-warrior"
   - "char-h830kkz"
   - "char-hqmoxcj"
   - "char-h1610s4q"
@@ -59,14 +59,14 @@ related_events:
 
 ### 캐릭터
 
-- 엘테라 마스테 (char-h1qtvjrj)
-- 라비니아 (char-h1u0zhr5)
-- 럭키 (char-h2kcs0k)
-- 피에스타 (char-h1etqrq5)
+- 엘테라 마스테 (char-eltera-maste)
+- 라비니아 (char-lavinia)
+- 럭키 (char-lucky)
+- 피에스타 (char-fiesta)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
-- 사르곤 (char-hy1rn1n)
+- 사르곤 (char-sargon)
 - Gargoyle (char-gargoyle)
-- 드로우 전사 (char-h18damj9)
+- 드로우 전사 (char-drow-warrior)
 - 드로우 감시자 (char-h830kkz)
 - 드로우 언데드 (char-hqmoxcj)
 - 스펙터 (char-h1610s4q)

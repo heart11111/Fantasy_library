@@ -18,17 +18,17 @@ last_updated: "2026-05-24"
 date_label: "함정"
 order: 380
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1otutgd"
-  - "char-htaovsh"
-  - "char-h1etqrq5"
+  - "char-lavinia"
+  - "char-arsian-eldayne"
+  - "char-valerius-visconti"
+  - "char-fiesta"
   - "char-hlt9sfx"
-  - "char-htmudh7"
+  - "char-elite-soldier"
   - "char-hp"
-  - "char-hy1rn1n"
-  - "char-hyz5kmx"
+  - "char-sargon"
+  - "char-knight"
   - "char-h5rtmm7"
-  - "char-h8shiks"
+  - "char-soldier"
   - "char-x"
 related_locations:
   - "loc-origin"
@@ -75,17 +75,17 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h1otutgd | 로그 등장 |
-| char-htaovsh | 로그 등장 |
-| char-h1etqrq5 | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-arsian-eldayne | 로그 등장 |
+| char-valerius-visconti | 로그 등장 |
+| char-fiesta | 로그 등장 |
 | char-hlt9sfx | 로그 등장 |
-| char-htmudh7 | 로그 등장 |
+| char-elite-soldier | 로그 등장 |
 | char-hp | 로그 등장 |
-| char-hy1rn1n | 로그 등장 |
-| char-hyz5kmx | 로그 등장 |
+| char-sargon | 로그 등장 |
+| char-knight | 로그 등장 |
 | char-h5rtmm7 | 로그 등장 |
-| char-h8shiks | 로그 등장 |
+| char-soldier | 로그 등장 |
 | char-x | 로그 등장 |
 
 ## 관련 지역

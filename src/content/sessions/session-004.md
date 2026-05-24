@@ -15,15 +15,15 @@ first_seen: "session-004"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1u0zhr5"
+  - "char-eltera-maste"
+  - "char-lavinia"
   - "char-nemo"
-  - "char-hm8rvcj"
+  - "char-kaguya"
   - "char-h1092ltt"
   - "char-hv73dq0"
   - "char-h81jx2e"
   - "char-hc5hoop"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-hc2lk13"
   - "char-h1xd1jfv"
   - "char-h1t72b7t"
@@ -54,15 +54,15 @@ related_events:
 
 ### 캐릭터
 
-- 엘테라 마스테 (char-h1qtvjrj)
-- 라비니아 (char-h1u0zhr5)
+- 엘테라 마스테 (char-eltera-maste)
+- 라비니아 (char-lavinia)
 - 네모(Nemo) (char-nemo)
-- 카구야 (char-hm8rvcj)
+- 카구야 (char-kaguya)
 - 가름 (char-h1092ltt)
 - 패잔병 (char-hv73dq0)
 - 수집가 (char-h81jx2e)
 - 살점거인 (char-hc5hoop)
-- 카이젤린 (char-hbfjmmh)
+- 카이젤린 (char-kaizelin)
 - 아담 로스 (char-hc2lk13)
 - 마리안 (char-h1xd1jfv)
 - 패잔병 잡졸 (char-h1t72b7t)

@@ -15,11 +15,11 @@ first_seen: "session-032"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h2kcs0k"
-  - "char-h1qtvjrj"
-  - "char-h1u0zhr5"
-  - "char-hyu8qlb"
-  - "char-hbfjmmh"
+  - "char-lucky"
+  - "char-eltera-maste"
+  - "char-lavinia"
+  - "char-sierla"
+  - "char-kaizelin"
   - "char-hp"
   - "char-h4asnhi"
   - "char-h1021ei9"
@@ -59,11 +59,11 @@ related_events:
 
 ### 캐릭터
 
-- 럭키 (char-h2kcs0k)
-- 엘테라 마스테 (char-h1qtvjrj)
-- 라비니아 (char-h1u0zhr5)
-- 시엘라 (char-hyu8qlb)
-- 카이젤린 (char-hbfjmmh)
+- 럭키 (char-lucky)
+- 엘테라 마스테 (char-eltera-maste)
+- 라비니아 (char-lavinia)
+- 시엘라 (char-sierla)
+- 카이젤린 (char-kaizelin)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
 - 어둑이 (char-h4asnhi)
 - 기이한 안개 (char-h1021ei9)

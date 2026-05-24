@@ -18,14 +18,14 @@ last_updated: "2026-05-24"
 date_label: "마키나즈 9"
 order: 220
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1stj4cz"
-  - "char-hm8rvcj"
+  - "char-lavinia"
+  - "char-wolf-ripper"
+  - "char-kaguya"
   - "char-nemo"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-h1v1jjf6"
-  - "char-h1rmlpt3"
-  - "char-h1v8j9jw"
+  - "char-makina-dread-wildser"
+  - "char-makina-dread-berserker"
   - "char-h1fykrcc"
   - "char-h1ux4wb6"
   - "char-h1eqkocw"
@@ -73,14 +73,14 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1u0zhr5 | 로그 등장 |
-| char-h1stj4cz | 로그 등장 |
-| char-hm8rvcj | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-wolf-ripper | 로그 등장 |
+| char-kaguya | 로그 등장 |
 | char-nemo | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-h1v1jjf6 | 로그 등장 |
-| char-h1rmlpt3 | 로그 등장 |
-| char-h1v8j9jw | 로그 등장 |
+| char-makina-dread-wildser | 로그 등장 |
+| char-makina-dread-berserker | 로그 등장 |
 | char-h1fykrcc | 로그 등장 |
 | char-h1ux4wb6 | 로그 등장 |
 | char-h1eqkocw | 로그 등장 |

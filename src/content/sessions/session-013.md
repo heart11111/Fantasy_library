@@ -2,7 +2,7 @@
 id: "session-013"
 type: "session"
 name: "더월드 35 룩스테라-모험의 서막"
-summary: "지금까지의 룩스테라 이야기:"
+summary: "붉은 닻 도적단 소탕 후 촌장 아카이럼과 이브를 구출한다. 그레이브록 마을에서 정제사 에리나를 만나 부정한 핵이 아이템이 되는 과정을 목격하고, 다음날 아침 메라크와 라비니아가 도착해 파티가 재결집한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,12 +15,12 @@ first_seen: "session-013"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h162wpxf"
-  - "char-h1u0zhr5"
+  - "char-merak-altemecia"
+  - "char-lavinia"
   - "char-hdslylj"
-  - "char-hdknrqz"
-  - "char-hz6cjul"
-  - "char-hb0qeob"
+  - "char-lunasha"
+  - "char-eve"
+  - "char-hekatriel"
   - "char-h13qb48p"
   - "char-h1skfz84"
   - "char-hd11vjr"
@@ -59,12 +59,12 @@ related_events:
 
 ### 캐릭터
 
-- 메라크 알테메기아 (char-h162wpxf)
-- 라비니아 (char-h1u0zhr5)
+- 메라크 알테메기아 (char-merak-altemecia)
+- 라비니아 (char-lavinia)
 - 지크프리드 (char-hdslylj)
-- 루나샤 (char-hdknrqz)
-- 이브 (char-hz6cjul)
-- 헤카트리엘 (char-hb0qeob)
+- 루나샤 (char-lunasha)
+- 이브 (char-eve)
+- 헤카트리엘 (char-hekatriel)
 - 흑마석 거인 (char-h13qb48p)
 - 촉수 감염체 (char-h1skfz84)
 - 맹독 돌연변이 군주 (char-hd11vjr)

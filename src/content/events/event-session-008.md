@@ -18,12 +18,12 @@ last_updated: "2026-05-24"
 date_label: "더 월드 41 룩스테라-재료 수급로 참변 수색"
 order: 80
 related_characters:
-  - "char-h1n38m25"
-  - "char-hutxq0x"
-  - "char-hvqt0o9"
+  - "char-magnus"
+  - "char-sundae"
+  - "char-anton"
   - "char-hp"
-  - "char-hz6cjul"
-  - "char-hbfjmmh"
+  - "char-eve"
+  - "char-kaizelin"
   - "char-h220ux9"
   - "char-x"
   - "char-h1xf9zef"
@@ -74,12 +74,12 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1n38m25 | 로그 등장 |
-| char-hutxq0x | 로그 등장 |
-| char-hvqt0o9 | 로그 등장 |
+| char-magnus | 로그 등장 |
+| char-sundae | 로그 등장 |
+| char-anton | 로그 등장 |
 | char-hp | 로그 등장 |
-| char-hz6cjul | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-eve | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-h220ux9 | 로그 등장 |
 | char-x | 로그 등장 |
 | char-h1xf9zef | 로그 등장 |

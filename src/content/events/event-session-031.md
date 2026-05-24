@@ -18,14 +18,14 @@ last_updated: "2026-05-24"
 date_label: "심층-2"
 order: 310
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-h1etqrq5"
+  - "char-eltera-maste"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-fiesta"
   - "char-hp"
-  - "char-hy1rn1n"
+  - "char-sargon"
   - "char-gargoyle"
-  - "char-h18damj9"
+  - "char-drow-warrior"
   - "char-h830kkz"
   - "char-hqmoxcj"
   - "char-h1610s4q"
@@ -78,14 +78,14 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1qtvjrj | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
-| char-h2kcs0k | 로그 등장 |
-| char-h1etqrq5 | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-fiesta | 로그 등장 |
 | char-hp | 로그 등장 |
-| char-hy1rn1n | 로그 등장 |
+| char-sargon | 로그 등장 |
 | char-gargoyle | 로그 등장 |
-| char-h18damj9 | 로그 등장 |
+| char-drow-warrior | 로그 등장 |
 | char-h830kkz | 로그 등장 |
 | char-hqmoxcj | 로그 등장 |
 | char-h1610s4q | 로그 등장 |

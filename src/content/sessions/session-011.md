@@ -2,7 +2,7 @@
 id: "session-011"
 type: "session"
 name: "더월드 30 룩스테라-해골의 뒤에 보이는 것은"
-summary: "룩스테라: 해골의 뒤에 보이는 것은"
+summary: "해골 유적의 마지막 관문 앞에서 파티가 휴식을 취하는 도중, 라이카와 아인이 지원군으로 도착한다. 발레리우스와 라비니아는 깊은 잠에 빠져 전투 불가 상태다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,17 +15,17 @@ first_seen: "session-011"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h162wpxf"
-  - "char-ha7vcln"
-  - "char-h1nkxsjr"
-  - "char-hdknrqz"
-  - "char-h1a49coh"
-  - "char-hb0qeob"
+  - "char-merak-altemecia"
+  - "char-laika"
+  - "char-demian"
+  - "char-lunasha"
+  - "char-ain"
+  - "char-hekatriel"
   - "char-h1s1hzsf"
   - "char-h17ewz3c"
-  - "char-h1hn5m4l"
+  - "char-levinos"
   - "char-h5vnc7x"
-  - "char-h1psx9jt"
+  - "char-arin"
   - "char-h2qidky"
 related_locations:
   - "loc-luxterra"
@@ -58,17 +58,17 @@ related_events:
 
 ### 캐릭터
 
-- 메라크 알테메기아 (char-h162wpxf)
-- 라이카 (char-ha7vcln)
-- 데미안 (char-h1nkxsjr)
-- 루나샤 (char-hdknrqz)
-- 아인 (char-h1a49coh)
-- 헤카트리엘 (char-hb0qeob)
+- 메라크 알테메기아 (char-merak-altemecia)
+- 라이카 (char-laika)
+- 데미안 (char-demian)
+- 루나샤 (char-lunasha)
+- 아인 (char-ain)
+- 헤카트리엘 (char-hekatriel)
 - 스켈레톤 전사 (char-h1s1hzsf)
 - 불사의 왕 레오리크 (char-h17ewz3c)
-- 레비노스 (char-h1hn5m4l)
+- 레비노스 (char-levinos)
 - 붉은 닻 전투원 (char-h5vnc7x)
-- 아린 (char-h1psx9jt)
+- 아린 (char-arin)
 - 붉은 닻 창술사 (char-h2qidky)
 
 ### 지역

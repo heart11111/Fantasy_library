@@ -2,7 +2,7 @@
 id: "session-016"
 type: "session"
 name: "마키나즈 1"
-summary: "어느 날, 오리진의 경비대에서 의뢰서가 날아왔습니다"
+summary: "오리진 경비대에서 지하수로 조사단 실종 사건 의뢰가 접수된다. 경비대장 카이로스가 럭키, 시엘라, 니샤로 구성된 팀을 소집하며 마키나즈 캠페인이 시작된다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,14 +15,14 @@ first_seen: "session-016"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h2kcs0k"
-  - "char-h1kockfd"
-  - "char-hvqt0o9"
-  - "char-hyu8qlb"
-  - "char-hbfjmmh"
+  - "char-lucky"
+  - "char-nisha"
+  - "char-anton"
+  - "char-sierla"
+  - "char-kaizelin"
   - "char-hrv1fcw"
   - "char-h16e8n5s"
-  - "char-h1rmlpt3"
+  - "char-makina-dread-wildser"
   - "char-h1xyqag"
   - "char-psychic-gray-ooze"
   - "char-black-pudding"
@@ -55,14 +55,14 @@ related_events:
 
 ### 캐릭터
 
-- 럭키 (char-h2kcs0k)
-- 니샤 (char-h1kockfd)
-- 안톤 (char-hvqt0o9)
-- 시엘라 (char-hyu8qlb)
-- 카이젤린 (char-hbfjmmh)
+- 럭키 (char-lucky)
+- 니샤 (char-nisha)
+- 안톤 (char-anton)
+- 시엘라 (char-sierla)
+- 카이젤린 (char-kaizelin)
 - 마키나 드레드 넘버즈 - 레피드 (char-hrv1fcw)
 - 마키나 드레드 - 워리어 (char-h16e8n5s)
-- 마키나 드레드 - 슈팅 와일저 (char-h1rmlpt3)
+- 마키나 드레드 - 슈팅 와일저 (char-makina-dread-wildser)
 - 오리진 경비대장 - 카이로스 (char-h1xyqag)
 - Psychic Gray Ooze (char-psychic-gray-ooze)
 - Black Pudding (char-black-pudding)

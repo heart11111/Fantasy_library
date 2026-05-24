@@ -15,12 +15,12 @@ first_seen: "session-029"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h2kcs0k"
-  - "char-h1u0zhr5"
-  - "char-hy1rn1n"
-  - "char-htaovsh"
-  - "char-h183ytox"
+  - "char-eltera-maste"
+  - "char-lucky"
+  - "char-lavinia"
+  - "char-sargon"
+  - "char-valerius-visconti"
+  - "char-falshu"
   - "char-h4asnhi"
   - "char-hp"
   - "char-h1en8u5x"
@@ -56,12 +56,12 @@ related_events:
 
 ### 캐릭터
 
-- 엘테라 마스테 (char-h1qtvjrj)
-- 럭키 (char-h2kcs0k)
-- 라비니아 (char-h1u0zhr5)
-- 사르곤 (char-hy1rn1n)
-- 발레리우스 비스콘티 (char-htaovsh)
-- 팔슈 (char-h183ytox)
+- 엘테라 마스테 (char-eltera-maste)
+- 럭키 (char-lucky)
+- 라비니아 (char-lavinia)
+- 사르곤 (char-sargon)
+- 발레리우스 비스콘티 (char-valerius-visconti)
+- 팔슈 (char-falshu)
 - 어둑이 (char-h4asnhi)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
 - 쭉정이 (char-h1en8u5x)

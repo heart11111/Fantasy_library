@@ -15,13 +15,13 @@ first_seen: "session-041"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1otutgd"
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-ha7vcln"
-  - "char-hyu8qlb"
+  - "char-arsian-eldayne"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-laika"
+  - "char-sierla"
   - "char-h1k4qjk1"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-hsq3s5x"
   - "char-hobgoblin-warlord"
   - "char-hobgoblin-captain"
@@ -57,13 +57,13 @@ related_events:
 
 ### 캐릭터
 
-- 아르시안 엘다인 (char-h1otutgd)
-- 라비니아 (char-h1u0zhr5)
-- 럭키 (char-h2kcs0k)
-- 라이카 (char-ha7vcln)
-- 시엘라 (char-hyu8qlb)
+- 아르시안 엘다인 (char-arsian-eldayne)
+- 라비니아 (char-lavinia)
+- 럭키 (char-lucky)
+- 라이카 (char-laika)
+- 시엘라 (char-sierla)
 - 고블린 전사 (char-h1k4qjk1)
-- 카이젤린 (char-hbfjmmh)
+- 카이젤린 (char-kaizelin)
 - 발타자르 (char-hsq3s5x)
 - Hobgoblin Warlord (char-hobgoblin-warlord)
 - Hobgoblin Captain (char-hobgoblin-captain)

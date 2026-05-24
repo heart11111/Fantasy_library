@@ -18,11 +18,11 @@ last_updated: "2026-05-24"
 date_label: "심층"
 order: 320
 related_characters:
-  - "char-h2kcs0k"
-  - "char-h1qtvjrj"
-  - "char-h1u0zhr5"
-  - "char-hyu8qlb"
-  - "char-hbfjmmh"
+  - "char-lucky"
+  - "char-eltera-maste"
+  - "char-lavinia"
+  - "char-sierla"
+  - "char-kaizelin"
   - "char-hp"
   - "char-h4asnhi"
   - "char-h1021ei9"
@@ -78,11 +78,11 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h2kcs0k | 로그 등장 |
-| char-h1qtvjrj | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-sierla | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-hp | 로그 등장 |
 | char-h4asnhi | 로그 등장 |
 | char-h1021ei9 | 로그 등장 |

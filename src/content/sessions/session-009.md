@@ -2,7 +2,7 @@
 id: "session-009"
 type: "session"
 name: "더 월드 47 룩스테라-연구자료 호송대를 찾아서"
-summary: "여러분은 며칠 전, 연구자료 호송대가 습격을 당하고, 전원 사망했다는 소식을 들은지 하루 정도가 지났습니다."
+summary: "총책임자 듀란이 긴급 의뢰를 하달한다: 납치된 연구자료 호송대를 추적하라. 호송하던 자료가 '정령'과 관련된 기밀임이 밝혀지며 사건의 무게가 더해진다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,15 +15,15 @@ first_seen: "session-009"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-hvqt0o9"
-  - "char-h1stj4cz"
-  - "char-hm8rvcj"
+  - "char-eltera-maste"
+  - "char-anton"
+  - "char-wolf-ripper"
+  - "char-kaguya"
   - "char-nemo"
   - "char-h12u250w"
   - "char-h19y1aet"
   - "char-hoqk92t"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-h3c3etx"
   - "char-hteon8i"
   - "char-h9ya317"
@@ -56,15 +56,15 @@ related_events:
 
 ### 캐릭터
 
-- 엘테라 마스테 (char-h1qtvjrj)
-- 안톤 (char-hvqt0o9)
-- 갈기갈기 찢는 이리 (char-h1stj4cz)
-- 카구야 (char-hm8rvcj)
+- 엘테라 마스테 (char-eltera-maste)
+- 안톤 (char-anton)
+- 갈기갈기 찢는 이리 (char-wolf-ripper)
+- 카구야 (char-kaguya)
 - 네모(Nemo) (char-nemo)
 - 흑의인 검사 (char-h12u250w)
 - 흑의인 저격수 (char-h19y1aet)
 - 흑의인 역사 (char-hoqk92t)
-- 카이젤린 (char-hbfjmmh)
+- 카이젤린 (char-kaizelin)
 - 흑조 마법사 (char-h3c3etx)
 - 바람 상회주 위스크 바람 (char-hteon8i)
 - 총책임자 듀란 애시모르 (char-h9ya317)

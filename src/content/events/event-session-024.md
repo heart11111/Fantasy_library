@@ -18,17 +18,17 @@ last_updated: "2026-05-24"
 date_label: "마키나즈3"
 order: 240
 related_characters:
-  - "char-h2kcs0k"
-  - "char-ha7vcln"
-  - "char-hyu8qlb"
-  - "char-hy80szy"
+  - "char-lucky"
+  - "char-laika"
+  - "char-sierla"
+  - "char-makina-dread-warrior"
   - "char-h96tcky"
-  - "char-hbfjmmh"
+  - "char-kaizelin"
   - "char-hnsb9s"
-  - "char-h1rmlpt3"
+  - "char-makina-dread-wildser"
   - "char-h1d7fomw"
   - "char-h182hqy6"
-  - "char-h1eazjg1"
+  - "char-nelpis"
   - "char-h1d8tn57"
 related_locations:
   - "loc-origin"
@@ -76,17 +76,17 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h2kcs0k | 로그 등장 |
-| char-ha7vcln | 로그 등장 |
-| char-hyu8qlb | 로그 등장 |
-| char-hy80szy | 로그 등장 |
+| char-lucky | 로그 등장 |
+| char-laika | 로그 등장 |
+| char-sierla | 로그 등장 |
+| char-makina-dread-warrior | 로그 등장 |
 | char-h96tcky | 로그 등장 |
-| char-hbfjmmh | 로그 등장 |
+| char-kaizelin | 로그 등장 |
 | char-hnsb9s | 로그 등장 |
-| char-h1rmlpt3 | 로그 등장 |
+| char-makina-dread-wildser | 로그 등장 |
 | char-h1d7fomw | 로그 등장 |
 | char-h182hqy6 | 로그 등장 |
-| char-h1eazjg1 | 로그 등장 |
+| char-nelpis | 로그 등장 |
 | char-h1d8tn57 | 로그 등장 |
 
 ## 관련 지역

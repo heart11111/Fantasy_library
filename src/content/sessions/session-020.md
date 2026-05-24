@@ -2,7 +2,7 @@
 id: "session-020"
 type: "session"
 name: "마키나즈 7"
-summary: "서든이라는 간부가 있는 폐공장을 정리 하고 돌아온 여러분은(수정됨)"
+summary: "마키나 드레드 간부 서든과의 폐공장 전투를 마치고 귀환한다. 서든의 거점에서 발견한 전령서를 통해 공중 폭격 계획을 파악하고, 비공정 제작소에서 라이카·아인과 합류한다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,18 +15,18 @@ first_seen: "session-020"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h2kcs0k"
-  - "char-htaovsh"
-  - "char-ha7vcln"
+  - "char-lavinia"
+  - "char-lucky"
+  - "char-valerius-visconti"
+  - "char-laika"
   - "char-hz4kfjb"
-  - "char-h1a49coh"
-  - "char-hb0qeob"
+  - "char-ain"
+  - "char-hekatriel"
   - "char-horbfjo"
-  - "char-h1v8j9jw"
-  - "char-h1hn5m4l"
+  - "char-makina-dread-berserker"
+  - "char-levinos"
   - "char-h1fykrcc"
-  - "char-hy80szy"
+  - "char-makina-dread-warrior"
 related_locations:
   - "loc-origin"
   - "loc-city"
@@ -55,18 +55,18 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 럭키 (char-h2kcs0k)
-- 발레리우스 비스콘티 (char-htaovsh)
-- 라이카 (char-ha7vcln)
+- 라비니아 (char-lavinia)
+- 럭키 (char-lucky)
+- 발레리우스 비스콘티 (char-valerius-visconti)
+- 라이카 (char-laika)
 - 마키나 드레드 넘버즈 - 신풍 (char-hz4kfjb)
-- 아인 (char-h1a49coh)
-- 헤카트리엘 (char-hb0qeob)
+- 아인 (char-ain)
+- 헤카트리엘 (char-hekatriel)
 - 마키나 드레드 - 디바인 (char-horbfjo)
-- 마키나 드레드 - 서든 버서커 (char-h1v8j9jw)
-- 레비노스 (char-h1hn5m4l)
+- 마키나 드레드 - 서든 버서커 (char-makina-dread-berserker)
+- 레비노스 (char-levinos)
 - 마키나 드레드 - 엘리트 캐논 (char-h1fykrcc)
-- 마키나 드레드  - 워리어 (char-hy80szy)
+- 마키나 드레드  - 워리어 (char-makina-dread-warrior)
 
 ### 지역
 

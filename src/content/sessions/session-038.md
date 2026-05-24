@@ -15,17 +15,17 @@ first_seen: "session-038"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1u0zhr5"
-  - "char-h1otutgd"
-  - "char-htaovsh"
-  - "char-h1etqrq5"
+  - "char-lavinia"
+  - "char-arsian-eldayne"
+  - "char-valerius-visconti"
+  - "char-fiesta"
   - "char-hlt9sfx"
-  - "char-htmudh7"
+  - "char-elite-soldier"
   - "char-hp"
-  - "char-hy1rn1n"
-  - "char-hyz5kmx"
+  - "char-sargon"
+  - "char-knight"
   - "char-h5rtmm7"
-  - "char-h8shiks"
+  - "char-soldier"
   - "char-x"
 related_locations:
   - "loc-origin"
@@ -56,17 +56,17 @@ related_events:
 
 ### 캐릭터
 
-- 라비니아 (char-h1u0zhr5)
-- 아르시안 엘다인 (char-h1otutgd)
-- 발레리우스 비스콘티 (char-htaovsh)
-- 피에스타 (char-h1etqrq5)
+- 라비니아 (char-lavinia)
+- 아르시안 엘다인 (char-arsian-eldayne)
+- 발레리우스 비스콘티 (char-valerius-visconti)
+- 피에스타 (char-fiesta)
 - 참모 (char-hlt9sfx)
-- 정예병 (char-htmudh7)
+- 정예병 (char-elite-soldier)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
-- 사르곤 (char-hy1rn1n)
-- 기사 (char-hyz5kmx)
+- 사르곤 (char-sargon)
+- 기사 (char-knight)
 - 궁기병 (char-h5rtmm7)
-- 병졸 (char-h8shiks)
+- 병졸 (char-soldier)
 - x (char-x)
 
 ### 지역

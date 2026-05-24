@@ -2,7 +2,7 @@
 id: "session-014"
 type: "session"
 name: "더월드 38 룩스테라-전설적인 대장장이의 부탁"
-summary: "얼마 전, 자유 탐사 도시 오리진에 발을 들인 여러분은 무사히 의식을 마치고 정말로 정식으로"
+summary: "오리진에서 정식 모험가 자격 취득을 완료한 파티가 새 의뢰를 탐색한다. 붉은 모루 대장간의 전설적인 대장장이 그림니르가 파티에게 특별 의뢰를 맡긴다."
 canon_status: "canon"
 confidence: "medium"
 source_type: "rp_log"
@@ -15,13 +15,13 @@ first_seen: "session-014"
 last_updated: "2026-05-24"
 date_played: ""
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1u0zhr5"
-  - "char-hutxq0x"
-  - "char-hdknrqz"
-  - "char-hz6cjul"
+  - "char-eltera-maste"
+  - "char-lavinia"
+  - "char-sundae"
+  - "char-lunasha"
+  - "char-eve"
   - "char-hp"
-  - "char-hb0qeob"
+  - "char-hekatriel"
   - "char-h6wi2cd"
   - "char-h1wbznkg"
   - "char-hr6s6kr"
@@ -55,13 +55,13 @@ related_events:
 
 ### 캐릭터
 
-- 엘테라 마스테 (char-h1qtvjrj)
-- 라비니아 (char-h1u0zhr5)
-- 순대 (char-hutxq0x)
-- 루나샤 (char-hdknrqz)
-- 이브 (char-hz6cjul)
+- 엘테라 마스테 (char-eltera-maste)
+- 라비니아 (char-lavinia)
+- 순대 (char-sundae)
+- 루나샤 (char-lunasha)
+- 이브 (char-eve)
 - HP 업데이트 됨 두 배 적용 취소 (char-hp)
-- 헤카트리엘 (char-hb0qeob)
+- 헤카트리엘 (char-hekatriel)
 - 붉은 개미 궁사 (char-h6wi2cd)
 - 붉은 개미 전사 (char-h1wbznkg)
 - 검은 개미 (char-hr6s6kr)

@@ -18,13 +18,13 @@ last_updated: "2026-05-24"
 date_label: "더월드 38 룩스테라-전설적인 대장장이의 부탁"
 order: 140
 related_characters:
-  - "char-h1qtvjrj"
-  - "char-h1u0zhr5"
-  - "char-hutxq0x"
-  - "char-hdknrqz"
-  - "char-hz6cjul"
+  - "char-eltera-maste"
+  - "char-lavinia"
+  - "char-sundae"
+  - "char-lunasha"
+  - "char-eve"
   - "char-hp"
-  - "char-hb0qeob"
+  - "char-hekatriel"
   - "char-h6wi2cd"
   - "char-h1wbznkg"
   - "char-hr6s6kr"
@@ -74,13 +74,13 @@ consequences:
 
 | 인물 | 역할 |
 |---|---|
-| char-h1qtvjrj | 로그 등장 |
-| char-h1u0zhr5 | 로그 등장 |
-| char-hutxq0x | 로그 등장 |
-| char-hdknrqz | 로그 등장 |
-| char-hz6cjul | 로그 등장 |
+| char-eltera-maste | 로그 등장 |
+| char-lavinia | 로그 등장 |
+| char-sundae | 로그 등장 |
+| char-lunasha | 로그 등장 |
+| char-eve | 로그 등장 |
 | char-hp | 로그 등장 |
-| char-hb0qeob | 로그 등장 |
+| char-hekatriel | 로그 등장 |
 | char-h6wi2cd | 로그 등장 |
 | char-h1wbznkg | 로그 등장 |
 | char-hr6s6kr | 로그 등장 |
