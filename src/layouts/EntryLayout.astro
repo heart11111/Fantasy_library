@@ -6,24 +6,66 @@ const data = entry.data;
 const tags = (data.tags ?? []) as string[];
 const sources = (data.sources ?? []) as string[];
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+
+const typeLabel: Record<string, string> = {
+  session: "세션", character: "캐릭터", location: "지역",
+  faction: "팩션", event: "사건", concept: "개념", item: "아이템"
+};
+const canonLabel: Record<string, string> = {
+  canon: "정사", provisional: "임시", rumor: "소문",
+  contradicted: "모순", retconned: "폐기됨"
+};
+const confLabel: Record<string, string> = { high: "높음", medium: "중간", low: "낮음" };
+
+const typeBack: Record<string, string> = {
+  session: "sessions", character: "characters", location: "locations",
+  faction: "factions", event: "events", concept: "concepts", item: "items"
+};
+const backPath = data.type ? `${base}/${typeBack[data.type] ?? data.type + "s"}` : `${base}/`;
 ---
 
 <BaseLayout title={`${data.name ?? title} | Fantasy Library`}>
   <article class="doc">
-    <p class="eyebrow">{data.type} · {data.canon_status} · {data.confidence}</p>
-    <h1>{data.name}</h1>
-    <p class="lead">{data.summary}</p>
-    <div class="chips">
-      {tags.map((tag: string) => <span class="chip">{tag}</span>)}
+    <a href={backPath} class="back-link">{typeLabel[data.type] ?? "목록"}으로</a>
+
+    <div class="doc-header">
+      <div class="badge-row">
+        {data.type && <span class="badge badge-type">{typeLabel[data.type] ?? data.type}</span>}
+        {data.canon_status && (
+          <span class={`badge badge-${data.canon_status}`}>
+            {canonLabel[data.canon_status] ?? data.canon_status}
+          </span>
+        )}
+        {data.confidence && (
+          <span class={`badge badge-${data.confidence}`}>
+            확신도 {confLabel[data.confidence] ?? data.confidence}
+          </span>
+        )}
+      </div>
+      <h1>{data.name}</h1>
+      {data.summary && <p class="lead">{data.summary}</p>}
+      {tags.filter((t: string) => t !== data.type).length > 0 && (
+        <div class="chips">
+          {tags.filter((t: string) => t !== data.type).map((tag: string) => (
+            <span class="chip">{tag}</span>
+          ))}
+        </div>
+      )}
     </div>
-    <slot />
-    {sources.length ? (
-      <section>
+
+    <div class="doc-body">
+      <slot />
+    </div>
+
+    {sources.length > 0 && (
+      <section class="sources-section">
         <h2>출처</h2>
         <ul>
-          {sources.map((source: string) => <li><a href={`${base}/${source}`}>{source}</a></li>)}
+          {sources.map((source: string) => (
+            <li><a href={`${base}/${source}`}>{source}</a></li>
+          ))}
         </ul>
       </section>
-    ) : null}
+    )}
   </article>
 </BaseLayout>

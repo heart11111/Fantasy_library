@@ -21,6 +21,9 @@ const nav = [
     <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
   </head>
   <body>
     <header class="site-header">
@@ -34,8 +37,11 @@ const nav = [
     <main class="shell">
       <slot />
     </main>
-    <footer class="shell footer">
-      <p>공개 RP 로그 기반 Codex. GM 비공개 정보와 로그 밖 추론은 포함하지 않습니다.</p>
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <span class="footer-brand">Fantasy Library</span>
+        <p>공개 RP 로그 기반 Codex &mdash; GM 비공개 정보와 로그 밖 추론은 포함하지 않습니다.</p>
+      </div>
     </footer>
   </body>
 </html>

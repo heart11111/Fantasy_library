@@ -7,13 +7,16 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
 <BaseLayout title="세션 | Fantasy Library">
-  <h1>세션</h1>
+  <div class="section-header">
+    <h1>세션</h1>
+    <span class="section-count">{entries.length}개</span>
+  </div>
   <div class="list">
     {entries.map((entry) => (
       <a class="card" href={`${base}/sessions/${entry.slug}`}>
-        <h2>{entry.data.name}</h2>
+        <h3>{entry.data.name}</h3>
         <p>{entry.data.summary}</p>
-        <p class="meta">{entry.data.id} · {entry.data.canon_status} · {entry.data.confidence}</p>
+        <p class="meta">{entry.data.id} · {entry.data.canon_status} · 확신도 {entry.data.confidence}</p>
       </a>
     ))}
   </div>

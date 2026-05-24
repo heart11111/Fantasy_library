@@ -13,7 +13,16 @@ const [sessions, characters, locations, factions, events] = await Promise.all([
 const recentSessions = sessions
   .sort((a, b) => (a.data.id > b.data.id ? -1 : 1))
   .slice(0, 6);
+
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+
+const cats = [
+  { href: `${base}/sessions`,    count: sessions.length,    name: "세션",   desc: "RP 로그에서 정리한 세션 기록" },
+  { href: `${base}/characters`,  count: characters.length,  name: "캐릭터", desc: "등장인물 초벌 문서" },
+  { href: `${base}/locations`,   count: locations.length,   name: "지역",   desc: "세계관 지역 문서" },
+  { href: `${base}/factions`,    count: factions.length,    name: "팩션",   desc: "세력 및 조직 문서" },
+  { href: `${base}/events`,      count: events.length,      name: "사건",   desc: "시간순 정리 사건 문서" },
+];
 ---
 
 <BaseLayout>
@@ -21,17 +30,19 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     <p class="eyebrow">Public RP Codex</p>
     <h1>Fantasy Library</h1>
     <p class="lead">
-      공개된 RP 로그와 세션 기록을 바탕으로 정리한 세계관 위키입니다. 확정 정보와 추정 정보를 분리하고,
-      모든 항목은 원문 로그 출처를 남깁니다.
+      공개된 RP 로그와 세션 기록을 바탕으로 정리한 세계관 위키입니다.
+      확정 정보와 추정 정보를 분리하고, 모든 항목은 원문 로그 출처를 남깁니다.
     </p>
   </section>
 
-  <section class="grid" aria-label="카테고리">
-    <a class="card" href={`${base}/sessions`}><h2>세션</h2><p>{sessions.length}개 세션 정리</p></a>
-    <a class="card" href={`${base}/characters`}><h2>캐릭터</h2><p>{characters.length}개 초벌 문서</p></a>
-    <a class="card" href={`${base}/locations`}><h2>지역</h2><p>{locations.length}개 초벌 문서</p></a>
-    <a class="card" href={`${base}/factions`}><h2>팩션</h2><p>{factions.length}개 초벌 문서</p></a>
-    <a class="card" href={`${base}/events`}><h2>사건</h2><p>{events.length}개 사건 문서</p></a>
+  <section class="cat-grid" aria-label="카테고리">
+    {cats.map((c) => (
+      <a class="card cat-card" href={c.href}>
+        <span class="cat-count">{c.count}</span>
+        <h2>{c.name}</h2>
+        <p>{c.desc}</p>
+      </a>
+    ))}
   </section>
 
   <section>
@@ -41,7 +52,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         <a class="card" href={`${base}/sessions/${entry.slug}`}>
           <h3>{entry.data.name}</h3>
           <p>{entry.data.summary}</p>
-          <p class="meta">{entry.data.id} · {entry.data.tags?.join(", ")}</p>
+          <p class="meta">{entry.data.id}{entry.data.tags?.filter((t: string) => t !== "session").length ? " · " + entry.data.tags.filter((t: string) => t !== "session").join(", ") : ""}</p>
         </a>
       ))}
     </div>

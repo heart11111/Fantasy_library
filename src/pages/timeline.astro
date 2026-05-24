@@ -5,14 +5,22 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
 <BaseLayout title="타임라인 | Fantasy Library">
-  <h1>타임라인</h1>
-  <div class="list">
+  <div class="section-header">
+    <h1>타임라인</h1>
+    <span class="section-count">{timeline.length}개 사건</span>
+  </div>
+  <div class="timeline-list">
     {timeline.map((item) => (
-      <article class="card">
-        <p class="meta">{item.date_label} · order {item.order}</p>
-        <h2>{item.title}</h2>
-        <p>{item.summary}</p>
-        <p><a href={`${base}/events/${item.id}`}>사건 문서</a></p>
+      <article class="card timeline-card">
+        <div>
+          <div class="timeline-order">#{item.order}</div>
+          <div class="timeline-date">{item.date_label}</div>
+        </div>
+        <div class="timeline-body">
+          <h3>{item.title}</h3>
+          <p>{item.summary}</p>
+          <a href={`${base}/events/${item.id}`}>사건 문서 →</a>
+        </div>
       </article>
     ))}
   </div>

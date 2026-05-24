@@ -4,23 +4,37 @@ import relations from "../../data/relations.json";
 ---
 
 <BaseLayout title="관계 | Fantasy Library">
-  <h1>관계 데이터</h1>
-  <p class="lead">공개 로그에서 비교적 명확하게 확인되는 관계만 초안으로 정리했습니다.</p>
-  <table>
-    <thead>
-      <tr><th>From</th><th>To</th><th>유형</th><th>표시</th><th>확신도</th><th>출처</th></tr>
-    </thead>
-    <tbody>
-      {relations.map((rel) => (
+  <div class="section-header">
+    <h1>관계 데이터</h1>
+    <span class="section-count">{relations.length}개</span>
+  </div>
+  <p class="lead table-intro">
+    공개 로그에서 비교적 명확하게 확인되는 관계만 초안으로 정리했습니다.
+  </p>
+  <div class="table-wrap">
+    <table>
+      <thead>
         <tr>
-          <td>{rel.from}</td>
-          <td>{rel.to}</td>
-          <td>{rel.type}</td>
-          <td>{rel.label}</td>
-          <td>{rel.confidence}</td>
-          <td>{rel.source}</td>
+          <th>From</th>
+          <th>To</th>
+          <th>유형</th>
+          <th>표시</th>
+          <th>확신도</th>
+          <th>출처</th>
         </tr>
-      ))}
-    </tbody>
-  </table>
+      </thead>
+      <tbody>
+        {relations.map((rel) => (
+          <tr>
+            <td>{rel.from}</td>
+            <td>{rel.to}</td>
+            <td>{rel.type}</td>
+            <td>{rel.label}</td>
+            <td>{rel.confidence}</td>
+            <td style="font-size:0.8rem;color:var(--muted)">{rel.source}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
 </BaseLayout>
